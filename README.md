@@ -20,3 +20,4 @@ This repository integrates Natural Language Processing (NLP), relational databas
 - **Libraries**: `spaCy`, `scikit-learn`, `pandas`, `matplotlib`
 - **Database**: MySQL 8.0 / MySQL Workbench
 - **Version Control**: Git / GitHub# Carbon & Environmental Policy NLP Tracker`n`nAn automated Python pipeline that scrapes web data, executes Named Entity Recognition (NER) using spaCy, and visualizes entity frequency distributions.`n`n## Pipeline Visual Output`n`n![Web Entity Frequency Plot](web_entity_frequency_plot.png)`n`n## How to Run`n`n```cmd`npip install requests beautifulsoup4 spacy pandas seaborn matplotlib`npython -m spacy download en_core_web_sm`npython main.py`n```
+![Malawi Carbon Offset Issuance by Category](malawi_category_issuance.png) 
