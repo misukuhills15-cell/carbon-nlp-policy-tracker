@@ -1,0 +1,483 @@
+key_actor,category,policy_domain,mentions_in_topic,global_entity_mentions,total_docs_spanned,topic_share_percentage
+GHG,ORG,"Carbon Accounting & Metrics",47,47,3,100.00
+Kyoto,GPE,"Carbon Accounting & Metrics",44,44,2,100.00
+"the United States",GPE,"Carbon Accounting & Metrics",40,40,3,100.00
+EPA,ORG,"Carbon Accounting & Metrics",33,33,1,100.00
+UNFCCC,ORG,"Carbon Accounting & Metrics",31,31,3,100.00
+California,GPE,"Carbon Accounting & Metrics",24,24,1,100.00
+Canada,GPE,"Carbon Accounting & Metrics",24,24,2,100.00
+China,GPE,"Carbon Accounting & Metrics",19,19,3,100.00
+Japan,GPE,"Carbon Accounting & Metrics",19,19,2,100.00
+U.S.,GPE,"Carbon Accounting & Metrics",19,19,2,100.00
+Annex,ORG,"Carbon Accounting & Metrics",15,15,1,100.00
+Russia,GPE,"Carbon Accounting & Metrics",13,13,1,100.00
+CDM,ORG,"Carbon Accounting & Metrics",11,11,1,100.00
+Australia,GPE,"Carbon Accounting & Metrics",8,8,2,100.00
+Trump,ORG,"Carbon Accounting & Metrics",8,8,1,100.00
+Congress,ORG,"Carbon Accounting & Metrics",7,7,1,100.00
+IET,ORG,"Carbon Accounting & Metrics",7,7,1,100.00
+India,GPE,"Carbon Accounting & Metrics",7,7,2,100.00
+Senate,ORG,"Carbon Accounting & Metrics",7,7,2,100.00
+Belarus,GPE,"Carbon Accounting & Metrics",6,6,1,100.00
+CH4,ORG,"Carbon Accounting & Metrics",6,6,2,100.00
+Iceland,GPE,"Carbon Accounting & Metrics",6,6,1,100.00
+IPCC,ORG,"Carbon Accounting & Metrics",6,6,1,100.00
+LCA,ORG,"Carbon Accounting & Metrics",6,6,1,100.00
+Ukraine,GPE,"Carbon Accounting & Metrics",6,6,1,100.00
+Arizona,GPE,"Carbon Accounting & Metrics",5,5,1,100.00
+Brazil,GPE,"Carbon Accounting & Metrics",5,5,2,100.00
+Latvia,GPE,"Carbon Accounting & Metrics",5,5,1,100.00
+Montana,GPE,"Carbon Accounting & Metrics",5,5,1,100.00
+"New Jersey",GPE,"Carbon Accounting & Metrics",5,5,1,100.00
+"New Zealand",GPE,"Carbon Accounting & Metrics",5,5,1,100.00
+Norway,GPE,"Carbon Accounting & Metrics",5,5,1,100.00
+Oregon,GPE,"Carbon Accounting & Metrics",5,5,1,100.00
+Switzerland,GPE,"Carbon Accounting & Metrics",5,5,1,100.00
+"The Democratic Party",ORG,"Carbon Accounting & Metrics",5,5,1,100.00
+"The Environmental Protection Agency",ORG,"Carbon Accounting & Metrics",5,5,1,100.00
+"the European Union",ORG,"Carbon Accounting & Metrics",5,5,1,100.00
+"the Republican Party",ORG,"Carbon Accounting & Metrics",5,5,1,100.00
+Washington,GPE,"Carbon Accounting & Metrics",5,5,1,100.00
+AAU,ORG,"Carbon Accounting & Metrics",4,4,1,100.00
+Berlin,GPE,"Carbon Accounting & Metrics",4,4,1,100.00
+Connecticut,GPE,"Carbon Accounting & Metrics",4,4,1,100.00
+France,GPE,"Carbon Accounting & Metrics",4,4,2,100.00
+Kazakhstan,GPE,"Carbon Accounting & Metrics",4,4,1,100.00
+Luxembourg,GPE,"Carbon Accounting & Metrics",4,4,2,100.00
+Massachusetts,GPE,"Carbon Accounting & Metrics",4,4,1,100.00
+"New Mexico",GPE,"Carbon Accounting & Metrics",4,4,1,100.00
+"New York",GPE,"Carbon Accounting & Metrics",4,4,2,100.00
+Poland,GPE,"Carbon Accounting & Metrics",4,4,1,100.00
+"South Africa",GPE,"Carbon Accounting & Metrics",4,4,1,100.00
+"the White House",ORG,"Carbon Accounting & Metrics",4,4,2,100.00
+"United States",GPE,"Carbon Accounting & Metrics",4,4,2,100.00
+"World Bank",ORG,"Carbon Accounting & Metrics",4,4,1,100.00
+BTU,ORG,"Carbon Accounting & Metrics",3,3,1,100.00
+Bulgaria,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+Copenhagen,ORG,"Carbon Accounting & Metrics",3,3,2,100.00
+Denmark,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+EIT,ORG,"Carbon Accounting & Metrics",3,3,1,100.00
+Estonia,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+House,ORG,"Carbon Accounting & Metrics",3,3,1,100.00
+Indonesia,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+Iran,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+Italy,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+Lithuania,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+Maryland,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+Romania,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+Spain,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+"the American Clean Energy and Security Act",ORG,"Carbon Accounting & Metrics",3,3,1,100.00
+"the Green Party",ORG,"Carbon Accounting & Metrics",3,3,1,100.00
+"The House of Representatives",ORG,"Carbon Accounting & Metrics",3,3,1,100.00
+"the Regional Greenhouse Gas Initiative",ORG,"Carbon Accounting & Metrics",3,3,1,100.00
+"the United Nations",ORG,"Carbon Accounting & Metrics",3,3,3,100.00
+"the United Nations Framework Convention on Climate Change",ORG,"Carbon Accounting & Metrics",3,3,2,100.00
+Turkey,GPE,"Carbon Accounting & Metrics",3,3,1,100.00
+"United Nations Climate Change Conference",ORG,"Carbon Accounting & Metrics",3,3,1,100.00
+USA,GPE,"Carbon Accounting & Metrics",3,3,2,100.00
+Alaska,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Argentina,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Austria,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Bonn,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+"Carbon Trust",ORG,"Carbon Accounting & Metrics",2,2,2,100.00
+CES,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+COP,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+Croatia,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+"Czech Republic",GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+DOE,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+Doha,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Egypt,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+EIP,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"Environmental Protection Agency",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"Exxon Mobil",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+Fiji,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Finland,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+G77,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+Germany,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+GOP,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"Great Britain",GPE,"Carbon Accounting & Metrics",2,2,2,100.00
+Hungary,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Initiative,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+Iowa,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Ireland,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+"Joint Implementation (JI",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"Kyoto Protocol",ORG,"Carbon Accounting & Metrics",2,2,2,100.00
+Liechtenstein,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Maine,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Manitoba,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Mexico,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Minnesota,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+"Multnomah County",GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+NEG/ECP,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+Netherlands,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+"New Zealand's",GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+non-Annex,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+NYSCAC,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+OECD,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+Oklahoma,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Portugal,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+"Rio de Janeiro",GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+RPS,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+Slovakia,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Slovenia,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+State,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+Sweden,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Thailand,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+"the Alliance of Small Island States",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the British Thermal Unit",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the California Air Resources Board",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the California Energy Commission",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"The Carbon Trust",ORG,"Carbon Accounting & Metrics",2,2,2,100.00
+"the Clean Development Mechanism",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the Clean Development Mechanism (CDM",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"The Climate Change Technology Initiative",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the Constitution Party",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the European Community",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the Global Warming Solutions Act",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the Green Investment Scheme",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"The International Sustainability Standards Board",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the Libertarian Party",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the New England Governors",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the New York State Energy Research and Development Authority",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the New York Times",ORG,"Carbon Accounting & Metrics",2,2,2,100.00
+"the Southwest Climate Change Initiative",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the Soviet Union",GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+"the Supreme Court",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"the US Senate",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"The Western Governors' Association",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"UN Comtrade",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"United Kingdom",GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+Virginia,GPE,"Carbon Accounting & Metrics",2,2,1,100.00
+WGA,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"White House",ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+Willow,ORG,"Carbon Accounting & Metrics",2,2,1,100.00
+"21st Century Clean Transportation Plan",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"484±20 GtC",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"AB 32",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+AB32,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Acadia Center",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Act,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Administration,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Affordable Clean Energy",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Afghanistan,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Albania,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Alberta,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+America,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"An Abrupt Climate Change Scenario",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"an International Scientific Congress on Climate Change",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Annex I Party",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+AOSIS,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Argentinian Raul Estrada",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+ARRA,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Artur Runge-Metzger",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Aruba,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Assembly,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Bahamas,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Bali,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Barbuda,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+BBC,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Beautiful Clean Coal Power Generation Fleet",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Belgium,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"below § Increase",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Benin,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Bhutan,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Biden,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Bosnia,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Botswana,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"British Columbia",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"British Thermal Unit",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+brownfield,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Brunei,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Burkina,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Byrd-Hagel Resolution",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+C2ES,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Cambodia,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Carbon Emissions in Corporations",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+CDC,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"CDM Executive Board",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Centers for Disease Control and Prevention",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Chevron,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Chinese Communist Party",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Citizens for Responsible Energy Solutions and Young Conservatives For Carbon",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Clean Air Partnership Fund",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Clean Energy Standard",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+CMP,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+CO2,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Contact Group",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+COP7,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Corporate Average Fuel Economy (",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Costa Rica",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Cuba,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Curaçao,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Dakota Access Pipelines",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Dakotas,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Delaware,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Department of War",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Diversified Energy Initiative",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Djibouti,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Dominica,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Dominican,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"East Timor",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Ecuador,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"El Salvador Equatorial",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Energy,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Energy and Climate Change",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Environmental Impact Statement (",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Environmental Quality Review",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+EQR,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Estrada,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Ethiopia European Union",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Eurostat,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Fahrenheit,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Gambia,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Gases,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"General Motors Corp.",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Georgia Germany",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+GIS,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Greece,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Green Party",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Grenada,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Guatemala,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Guinea,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Guinea Guinea-Bissau",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Haiti,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Harvard University",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Herzegovina,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+HFC,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Honduras Hungary",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Houston,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Hydroflurocarbons,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+IARU,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+ICLEI,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+ICR,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+IIJA,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"International Emissions Trading",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Iraq,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+ISO,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Israel,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Jamaica,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Jordan,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Judith Warner",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Kenya,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Kingdom,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Kiribati,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Kuwait,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Kyoto Parties",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Kyrgyzstan,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Laos,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Lawrence Berkeley National Laboratory",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Lebanon,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Lesotho,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Liberia,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Libya,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Lichtenstein,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Los Angeles",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Louisiana,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Luntz Global",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Malaysia,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Maldives,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Malta,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Marrakesh,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Mauritania,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Member States",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Methane,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Micronesia Moldova",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+MIPS,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Mississippi,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Monaco,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Mongolia,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Montenegro,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Montreal,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Morocco Mozambique",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Multi-Regional Input-Output",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Murphy Oil",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Myanmar,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Namibia,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"National Climate Assessment",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"National Climate Task Force",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"National Highway Traffic Safety Administration",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"National Security",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Nationally Determined Contributions",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"NBC News",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+NEG-ECP,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Nepal,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"New Energy for America",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"New Hampshire",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"New Jersey's",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"New Member States",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"New York City",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"New York State",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"New York State Energy Plan",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+NHTSA,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Nicaragua,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Nigeria,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+NOAA,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"North Korea",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Obama's Council of Economic Advisers",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Ogilvy,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Oman,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Ontario,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Pacific Gas & Electric",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Pakistan,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Palau,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Palestine,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Paris,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Party,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+PBL,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Pennsylvania,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Pentagon,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Philadelphia,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Philippines,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+PolitiFact,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Power Purchase Agreements for",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Príncipe Saudi Arabia",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Pruitt,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Qatar,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+QELRO,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Quebec,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Rhode Island",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Rhodium Group",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Rio,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Rolling Stone",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Russian Federation",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Rwanda,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Samoa,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"San Diego Gas & Electric",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Schwarzenegger,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+SCP-HAT,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Seattle,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Shell,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Singapore,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Slovakia,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Software,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"South Korea",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"South Sudan",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Southern California Edison",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Soviet Union",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Special Envoy for Climate Change",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"St. Lucia",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Stern,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Strengthening United States National Defense with America's",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"Supreme Court",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Syria,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Tanzania,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Texas,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Adaptation Fund",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Air Resources Board",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the American Reinvestment and Recovery Act",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The British Thermal Tax",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Bush Administration",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the California Climate Action Registry",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The California Global Warming Solutions Act",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the California Legislature",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the California Vehicle Global Warming",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Canadian Province",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Carbon Disclosure Standards Board",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the CCP Campaign",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Center for American Progress Action Fund",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Center for Climate and Energy Solutions",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Center for Climate Integrity",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Cities for Climate Protection",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Clean Air Partnership Fund",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Climate Action Network",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Climate Change Action Plan",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Climate Change Advisory Group's",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Clinton Administration",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Congo Republic",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Czech Republic",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"the DC Circuit Court of Appeals",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Department of Energy",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Department of Transportation's",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Eastern Climate Registry",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Electric Vehicle Request for Information",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Energy Policy and Conservation Act",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Energy Vision",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Environmental Defense Fund",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the European Union Emission Trading Scheme",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the European Union Emissions Trading Scheme",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Expanded Total Equivalent Warming",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Federal Aviation Administration",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Fixing America's",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Framework Convention",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Framework Convention on Climate Change",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the GHG Protocol Life Cycle Accounting and Reporting Standard",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Global Warming Pollution Reduction Act",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Government Accountability Project",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Grenadines Samoa San Marino São Tomé",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Hague",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Infrastructure Investment and Jobs Act",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Intergovernmental Panel on Climate Change's Special Report on Land",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Interior Department",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the International Alliance of Research Universities",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the International Financial Reporting Standards",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Keystone XL Pipeline",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Kingdom of the Netherlands",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Maritime Administration",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Maryland Climate Change Commission",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Mayors Climate Protection Center",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Mayors National Climate Action Agenda",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Montana Supreme Court",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the National Academy of Sciences",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the National Highway Traffic Safety Administration",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Nebraska Farmers Union",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the New York State Climate Action Council",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The New York Times Magazine",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Next Generation Air Transportation System",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the PEW Center on Global Climate Change",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Renewable Energy Portfolio Standard",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the State Air Resources Board",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Sustainability Accounting Standards Board",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Task Force on Climate-Related Financial Disclosures",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Trump Administration",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Tyndall Centre",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The U.S. Climate Change Science Program",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the U.S. Congress",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the U.S. House of Representatives",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the U.S. Senate Environment and Public Works Committee",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The UN Conference on the Environment and Development",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the UN Framework Convention on Climate Change",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the UN General Assembly",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The Union of Concerned Scientists",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the United Kingdom",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"The United Nations Climate Change Conference",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the United States Clean Air Act",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"The United States Climate Alliance",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the United States Congress",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the United States Environmental Protection Agency",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the United States Supreme Court",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the United States'",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"the University of Copenhagen",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the US Administration",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Value Reporting Foundation",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Western Coast Governors'",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Western Regional Climate Action Initiative",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Western Renewable Energy Generation Information State",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the Western States Petroleum Association",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the White House Office of Energy and Climate Change Policy",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the World Bank",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the World Economic Forum",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"the World Wildlife Fund",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Tobago,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Transportation,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Tunisia,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Turkmenistan,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Tuvalu,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Uganda,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Ukraine United Arab Emirates",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"UN Framework Convention",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+UNFCCC,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"UNFCCC Climate Change Conferences",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"United Nations Framework Convention on Climate Change",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"United States",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"United States of America",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Utah,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Venezuela,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Vermont,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+Vietnam,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"WCI, Inc.",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+"West Virginia",GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+"Western Climate Initiative",ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Wisconsin,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+YCCD,ORG,"Carbon Accounting & Metrics",1,1,1,100.00
+Yemen,GPE,"Carbon Accounting & Metrics",1,1,1,100.00
+YouTube,ORG,"Carbon Accounting & Metrics",1,1,1,100.00

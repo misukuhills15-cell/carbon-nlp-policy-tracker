@@ -1,0 +1,3074 @@
+source,target,weight,relationship
+Japan,Kyoto,9,CO_OCCURS_WITH
+Canada,the United States,7,CO_OCCURS_WITH
+Japan,Russia,6,CO_OCCURS_WITH
+China,India,5,CO_OCCURS_WITH
+California,Oregon,4,CO_OCCURS_WITH
+Canada,Japan,4,CO_OCCURS_WITH
+Oregon,Washington,4,CO_OCCURS_WITH
+Canada,Russia,4,CO_OCCURS_WITH
+China,the United States,4,CO_OCCURS_WITH
+Kyoto,Russia,4,CO_OCCURS_WITH
+California,Washington,4,CO_OCCURS_WITH
+Annex,GHG,4,CO_OCCURS_WITH
+Norway,Switzerland,3,CO_OCCURS_WITH
+Iceland,Norway,3,CO_OCCURS_WITH
+Italy,Japan,3,CO_OCCURS_WITH
+Iceland,Liechtenstein,3,CO_OCCURS_WITH
+Japan,Luxembourg,3,CO_OCCURS_WITH
+Japan,Norway,3,CO_OCCURS_WITH
+EPA,the Environmental Protection Agency,3,CO_OCCURS_WITH
+GHG,UNFCCC,3,CO_OCCURS_WITH
+Iceland,Luxembourg,3,CO_OCCURS_WITH
+Iceland,Japan,3,CO_OCCURS_WITH
+Canada,Peter Kent,3,CO_OCCURS_WITH
+GHG,Kyoto,3,CO_OCCURS_WITH
+Australia,Canada,3,CO_OCCURS_WITH
+Japan,UNFCCC,3,CO_OCCURS_WITH
+Estonia,Poland,3,CO_OCCURS_WITH
+Latvia,Lithuania,3,CO_OCCURS_WITH
+Romania,Slovakia,3,CO_OCCURS_WITH
+UNFCCC,the United Nations Framework Convention on Climate Change,3,CO_OCCURS_WITH
+Belarus,Ukraine,3,CO_OCCURS_WITH
+Arizona,New Mexico,3,CO_OCCURS_WITH
+Spain,Switzerland,3,CO_OCCURS_WITH
+California,New Mexico,3,CO_OCCURS_WITH
+New Mexico,Oregon,3,CO_OCCURS_WITH
+EPA,Obama,3,CO_OCCURS_WITH
+EPA,Trump,3,CO_OCCURS_WITH
+Canada,Kyoto,3,CO_OCCURS_WITH
+Annex,Kyoto,3,CO_OCCURS_WITH
+New Mexico,Washington,3,CO_OCCURS_WITH
+India,Indonesia,3,CO_OCCURS_WITH
+COP,UNFCCC,2,CO_OCCURS_WITH
+Arizona,Janet Napolitano,2,CO_OCCURS_WITH
+Trump,the United States,2,CO_OCCURS_WITH
+Rio de Janeiro,UNFCCC,2,CO_OCCURS_WITH
+Brazil,France,2,CO_OCCURS_WITH
+EPA,the Supreme Court,2,CO_OCCURS_WITH
+Annex,CDM,2,CO_OCCURS_WITH
+Biden,Willow,2,CO_OCCURS_WITH
+Belarus,Bulgaria,2,CO_OCCURS_WITH
+California,GHG,2,CO_OCCURS_WITH
+Canada,UNFCCC,2,CO_OCCURS_WITH
+Belarus,Czech Republic,2,CO_OCCURS_WITH
+Belarus,Croatia,2,CO_OCCURS_WITH
+New Zealand,Russia,2,CO_OCCURS_WITH
+Bulgaria,Croatia,2,CO_OCCURS_WITH
+Bulgaria,Czech Republic,2,CO_OCCURS_WITH
+Croatia,Czech Republic,2,CO_OCCURS_WITH
+Bush,China,2,CO_OCCURS_WITH
+Estonia,Latvia,2,CO_OCCURS_WITH
+Estonia,Lithuania,2,CO_OCCURS_WITH
+Hungary,Latvia,2,CO_OCCURS_WITH
+Hungary,Lithuania,2,CO_OCCURS_WITH
+Hungary,Poland,2,CO_OCCURS_WITH
+China,Japan,2,CO_OCCURS_WITH
+Latvia,Poland,2,CO_OCCURS_WITH
+Eastern Canadian,the New England Governors,2,CO_OCCURS_WITH
+New Mexico,the Southwest Climate Change Initiative,2,CO_OCCURS_WITH
+Arizona,California,2,CO_OCCURS_WITH
+Belarus,Kazakhstan,2,CO_OCCURS_WITH
+Russia,South Africa,2,CO_OCCURS_WITH
+EPA,Environmental Protection Agency,2,CO_OCCURS_WITH
+Connecticut,Maine,2,CO_OCCURS_WITH
+Connecticut,New Jersey,2,CO_OCCURS_WITH
+Connecticut,New York,2,CO_OCCURS_WITH
+Maine,New Jersey,2,CO_OCCURS_WITH
+Maine,New York,2,CO_OCCURS_WITH
+New Jersey,New York,2,CO_OCCURS_WITH
+Norway,Spain,2,CO_OCCURS_WITH
+New York,the United Nations,2,CO_OCCURS_WITH
+Australia,Belarus,2,CO_OCCURS_WITH
+Australia,the European Union,2,CO_OCCURS_WITH
+Poland,Romania,2,CO_OCCURS_WITH
+Kyoto,New Zealand,2,CO_OCCURS_WITH
+Iceland,Kazakhstan,2,CO_OCCURS_WITH
+Kyoto,Turkey,2,CO_OCCURS_WITH
+Iceland,Switzerland,2,CO_OCCURS_WITH
+Iceland,the European Union,2,CO_OCCURS_WITH
+Kazakhstan,Liechtenstein,2,CO_OCCURS_WITH
+Kazakhstan,Ukraine,2,CO_OCCURS_WITH
+Liechtenstein,Norway,2,CO_OCCURS_WITH
+Arizona,the Southwest Climate Change Initiative,2,CO_OCCURS_WITH
+Arizona,Washington,2,CO_OCCURS_WITH
+Switzerland,Ukraine,2,CO_OCCURS_WITH
+Japan,New Zealand,2,CO_OCCURS_WITH
+Arizona,Oregon,2,CO_OCCURS_WITH
+Lithuania,Poland,2,CO_OCCURS_WITH
+Russia,Ukraine,2,CO_OCCURS_WITH
+Poland,Russia,2,CO_OCCURS_WITH
+Romania,Sweden,2,CO_OCCURS_WITH
+Portugal,Switzerland,2,CO_OCCURS_WITH
+Portugal,Sweden,2,CO_OCCURS_WITH
+Portugal,Spain,2,CO_OCCURS_WITH
+Portugal,Slovakia,2,CO_OCCURS_WITH
+Portugal,Romania,2,CO_OCCURS_WITH
+Norway,Poland,2,CO_OCCURS_WITH
+New Zealand,Poland,2,CO_OCCURS_WITH
+New Zealand,Norway,2,CO_OCCURS_WITH
+Netherlands,Poland,2,CO_OCCURS_WITH
+Netherlands,Norway,2,CO_OCCURS_WITH
+Netherlands,New Zealand,2,CO_OCCURS_WITH
+Luxembourg,Norway,2,CO_OCCURS_WITH
+Lithuania,Luxembourg,2,CO_OCCURS_WITH
+Liechtenstein,Luxembourg,2,CO_OCCURS_WITH
+Liechtenstein,Lithuania,2,CO_OCCURS_WITH
+Latvia,Luxembourg,2,CO_OCCURS_WITH
+Latvia,Liechtenstein,2,CO_OCCURS_WITH
+Romania,Spain,2,CO_OCCURS_WITH
+Romania,Switzerland,2,CO_OCCURS_WITH
+Poland,Slovakia,2,CO_OCCURS_WITH
+Slovakia,Spain,2,CO_OCCURS_WITH
+India,Iran,2,CO_OCCURS_WITH
+India,Italy,2,CO_OCCURS_WITH
+India,Japan,2,CO_OCCURS_WITH
+India,Mexico,2,CO_OCCURS_WITH
+Indonesia,Iran,2,CO_OCCURS_WITH
+Italy,Mexico,2,CO_OCCURS_WITH
+Brazil,Canada,2,CO_OCCURS_WITH
+Japan,Mexico,2,CO_OCCURS_WITH
+Argentina,Barbuda,2,CO_OCCURS_WITH
+UNFCCC,the European Union,2,CO_OCCURS_WITH
+Japan,the United States,2,CO_OCCURS_WITH
+Japan,the European Union,2,CO_OCCURS_WITH
+Canada,China,2,CO_OCCURS_WITH
+Sweden,Switzerland,2,CO_OCCURS_WITH
+Spain,Sweden,2,CO_OCCURS_WITH
+Slovakia,Switzerland,2,CO_OCCURS_WITH
+Slovakia,Sweden,2,CO_OCCURS_WITH
+Japan,Lithuania,2,CO_OCCURS_WITH
+Japan,Liechtenstein,2,CO_OCCURS_WITH
+Japan,Latvia,2,CO_OCCURS_WITH
+Italy,Luxembourg,2,CO_OCCURS_WITH
+Denmark,Luxembourg,2,CO_OCCURS_WITH
+Denmark,Japan,2,CO_OCCURS_WITH
+Denmark,Iceland,2,CO_OCCURS_WITH
+Bulgaria,Canada,2,CO_OCCURS_WITH
+Australia,Bulgaria,2,CO_OCCURS_WITH
+Belarus,Turkey,2,CO_OCCURS_WITH
+Annex,Turkey,2,CO_OCCURS_WITH
+Annex,Belarus,2,CO_OCCURS_WITH
+Kyoto,UNFCCC,2,CO_OCCURS_WITH
+Slovenia,Ukraine,2,CO_OCCURS_WITH
+Slovakia,Ukraine,2,CO_OCCURS_WITH
+Slovakia,Slovenia,2,CO_OCCURS_WITH
+Japan,South Africa,2,CO_OCCURS_WITH
+Russia,Slovakia,2,CO_OCCURS_WITH
+Romania,Ukraine,2,CO_OCCURS_WITH
+Romania,Slovenia,2,CO_OCCURS_WITH
+Romania,Russia,2,CO_OCCURS_WITH
+Denmark,Norway,2,CO_OCCURS_WITH
+Finland,France,2,CO_OCCURS_WITH
+France,Germany,2,CO_OCCURS_WITH
+Ireland,Japan,2,CO_OCCURS_WITH
+Italy,Lithuania,2,CO_OCCURS_WITH
+Italy,Liechtenstein,2,CO_OCCURS_WITH
+Italy,Latvia,2,CO_OCCURS_WITH
+Ireland,Luxembourg,2,CO_OCCURS_WITH
+Ireland,Lithuania,2,CO_OCCURS_WITH
+Ireland,Liechtenstein,2,CO_OCCURS_WITH
+Ireland,Latvia,2,CO_OCCURS_WITH
+Ireland,Italy,2,CO_OCCURS_WITH
+France,Italy,2,CO_OCCURS_WITH
+Iceland,Lithuania,2,CO_OCCURS_WITH
+Iceland,Latvia,2,CO_OCCURS_WITH
+Iceland,Italy,2,CO_OCCURS_WITH
+Iceland,Ireland,2,CO_OCCURS_WITH
+Germany,Japan,2,CO_OCCURS_WITH
+Germany,Italy,2,CO_OCCURS_WITH
+France,Japan,2,CO_OCCURS_WITH
+China,South Africa,2,CO_OCCURS_WITH
+Estonia,Hungary,2,CO_OCCURS_WITH
+House,Republican,2,CO_OCCURS_WITH
+Brazil,China,2,CO_OCCURS_WITH
+BTU,Clinton,2,CO_OCCURS_WITH
+Clinton,the United States,2,CO_OCCURS_WITH
+China,Indonesia,2,CO_OCCURS_WITH
+Brazil,India,2,CO_OCCURS_WITH
+American,Bush,2,CO_OCCURS_WITH
+GHG,IPCC,2,CO_OCCURS_WITH
+Senate,the United States,2,CO_OCCURS_WITH
+Lesotho,Mongolia,1,CO_OCCURS_WITH
+Artur Runge-Metzger,the European Union,1,CO_OCCURS_WITH
+Lesotho,Malaysia,1,CO_OCCURS_WITH
+Liberia,Lithuania,1,CO_OCCURS_WITH
+Liberia,Liechtenstein,1,CO_OCCURS_WITH
+Lesotho,Maldives Mali,1,CO_OCCURS_WITH
+Lesotho,Mauritania,1,CO_OCCURS_WITH
+Doha,European,1,CO_OCCURS_WITH
+Lesotho,Mexico,1,CO_OCCURS_WITH
+Artur Runge-Metzger,European,1,CO_OCCURS_WITH
+Artur Runge-Metzger,UNFCCC,1,CO_OCCURS_WITH
+Lesotho,Micronesia Moldova,1,CO_OCCURS_WITH
+Lesotho,Monaco,1,CO_OCCURS_WITH
+Lesotho,Luxembourg,1,CO_OCCURS_WITH
+Liberia,Libya,1,CO_OCCURS_WITH
+Lesotho,South Korea,1,CO_OCCURS_WITH
+Lesotho,North Korea,1,CO_OCCURS_WITH
+Lesotho,Madagascar Malawi,1,CO_OCCURS_WITH
+Republican,The Tyndall Centre,1,CO_OCCURS_WITH
+Lesotho,Lithuania,1,CO_OCCURS_WITH
+Liberia,Madagascar Malawi,1,CO_OCCURS_WITH
+Lebanon,Lesotho,1,CO_OCCURS_WITH
+Lebanon,Liberia,1,CO_OCCURS_WITH
+Lebanon,Libya,1,CO_OCCURS_WITH
+Lebanon,Liechtenstein,1,CO_OCCURS_WITH
+Lebanon,Lithuania,1,CO_OCCURS_WITH
+Lebanon,Luxembourg,1,CO_OCCURS_WITH
+Lebanon,Madagascar Malawi,1,CO_OCCURS_WITH
+Lebanon,Malaysia,1,CO_OCCURS_WITH
+Lebanon,Maldives Mali,1,CO_OCCURS_WITH
+Lebanon,Mauritania,1,CO_OCCURS_WITH
+Lebanon,Mexico,1,CO_OCCURS_WITH
+Lebanon,Micronesia Moldova,1,CO_OCCURS_WITH
+Lebanon,Monaco,1,CO_OCCURS_WITH
+Lebanon,Mongolia,1,CO_OCCURS_WITH
+Lebanon,North Korea,1,CO_OCCURS_WITH
+Lebanon,South Korea,1,CO_OCCURS_WITH
+Lesotho,Liberia,1,CO_OCCURS_WITH
+Lesotho,Libya,1,CO_OCCURS_WITH
+Lesotho,Liechtenstein,1,CO_OCCURS_WITH
+Liberia,Luxembourg,1,CO_OCCURS_WITH
+Liberia,Mauritania,1,CO_OCCURS_WITH
+Liberia,Malaysia,1,CO_OCCURS_WITH
+Liechtenstein,Mauritania,1,CO_OCCURS_WITH
+Libya,North Korea,1,CO_OCCURS_WITH
+Libya,South Korea,1,CO_OCCURS_WITH
+Liechtenstein,Madagascar Malawi,1,CO_OCCURS_WITH
+Liechtenstein,Malaysia,1,CO_OCCURS_WITH
+New Zealand,New Zealand's,1,CO_OCCURS_WITH
+Kyoto Protocol,Tim Groser,1,CO_OCCURS_WITH
+Kyoto Protocol,New Zealand's,1,CO_OCCURS_WITH
+Liechtenstein,Maldives Mali,1,CO_OCCURS_WITH
+Liechtenstein,Mexico,1,CO_OCCURS_WITH
+Libya,Monaco,1,CO_OCCURS_WITH
+Liechtenstein,Micronesia Moldova,1,CO_OCCURS_WITH
+Liechtenstein,Monaco,1,CO_OCCURS_WITH
+Liechtenstein,Mongolia,1,CO_OCCURS_WITH
+Liechtenstein,North Korea,1,CO_OCCURS_WITH
+Liechtenstein,South Korea,1,CO_OCCURS_WITH
+Lithuania,Madagascar Malawi,1,CO_OCCURS_WITH
+Lithuania,Malaysia,1,CO_OCCURS_WITH
+Kyoto Protocol,New Zealand,1,CO_OCCURS_WITH
+Libya,Mongolia,1,CO_OCCURS_WITH
+Libya,Micronesia Moldova,1,CO_OCCURS_WITH
+Artur Runge-Metzger,Doha,1,CO_OCCURS_WITH
+Libya,Liechtenstein,1,CO_OCCURS_WITH
+Liberia,Maldives Mali,1,CO_OCCURS_WITH
+Latvia,North Korea,1,CO_OCCURS_WITH
+Liberia,Mexico,1,CO_OCCURS_WITH
+Liberia,Micronesia Moldova,1,CO_OCCURS_WITH
+Liberia,Monaco,1,CO_OCCURS_WITH
+Liberia,Mongolia,1,CO_OCCURS_WITH
+Liberia,North Korea,1,CO_OCCURS_WITH
+Liberia,South Korea,1,CO_OCCURS_WITH
+Libya,Lithuania,1,CO_OCCURS_WITH
+New Zealand,Tim Groser,1,CO_OCCURS_WITH
+Libya,Luxembourg,1,CO_OCCURS_WITH
+Libya,Madagascar Malawi,1,CO_OCCURS_WITH
+Libya,Malaysia,1,CO_OCCURS_WITH
+New Zealand's,the World Wildlife Fund,1,CO_OCCURS_WITH
+Libya,Maldives Mali,1,CO_OCCURS_WITH
+Libya,Mauritania,1,CO_OCCURS_WITH
+Libya,Mexico,1,CO_OCCURS_WITH
+New Zealand's,Tim Groser,1,CO_OCCURS_WITH
+Latvia,South Korea,1,CO_OCCURS_WITH
+Latvia,Mongolia,1,CO_OCCURS_WITH
+Doha,UNFCCC,1,CO_OCCURS_WITH
+Kyrgyzstan,Liberia,1,CO_OCCURS_WITH
+Kuwait,Lesotho,1,CO_OCCURS_WITH
+Kuwait,Liberia,1,CO_OCCURS_WITH
+Kuwait,Libya,1,CO_OCCURS_WITH
+Kuwait,Liechtenstein,1,CO_OCCURS_WITH
+Kuwait,Lithuania,1,CO_OCCURS_WITH
+Kuwait,Luxembourg,1,CO_OCCURS_WITH
+Kuwait,Madagascar Malawi,1,CO_OCCURS_WITH
+Kuwait,Malaysia,1,CO_OCCURS_WITH
+Kuwait,Maldives Mali,1,CO_OCCURS_WITH
+Kuwait,Mauritania,1,CO_OCCURS_WITH
+Kuwait,Mexico,1,CO_OCCURS_WITH
+Kuwait,Micronesia Moldova,1,CO_OCCURS_WITH
+Kuwait,Monaco,1,CO_OCCURS_WITH
+Kuwait,Mongolia,1,CO_OCCURS_WITH
+Kuwait,North Korea,1,CO_OCCURS_WITH
+Kuwait,South Korea,1,CO_OCCURS_WITH
+Kyrgyzstan,Laos,1,CO_OCCURS_WITH
+Kyrgyzstan,Latvia,1,CO_OCCURS_WITH
+Kyrgyzstan,Lebanon,1,CO_OCCURS_WITH
+Kuwait,Lebanon,1,CO_OCCURS_WITH
+Kuwait,Latvia,1,CO_OCCURS_WITH
+Kuwait,Laos,1,CO_OCCURS_WITH
+Kiribati,Madagascar Malawi,1,CO_OCCURS_WITH
+Kiribati,Latvia,1,CO_OCCURS_WITH
+Kiribati,Lebanon,1,CO_OCCURS_WITH
+Kiribati,Lesotho,1,CO_OCCURS_WITH
+Kiribati,Liberia,1,CO_OCCURS_WITH
+Kiribati,Libya,1,CO_OCCURS_WITH
+Kiribati,Liechtenstein,1,CO_OCCURS_WITH
+Kiribati,Lithuania,1,CO_OCCURS_WITH
+Kiribati,Luxembourg,1,CO_OCCURS_WITH
+Kiribati,Malaysia,1,CO_OCCURS_WITH
+Kuwait,Kyrgyzstan,1,CO_OCCURS_WITH
+Kiribati,Maldives Mali,1,CO_OCCURS_WITH
+Kiribati,Mauritania,1,CO_OCCURS_WITH
+Kiribati,Mexico,1,CO_OCCURS_WITH
+Kiribati,Micronesia Moldova,1,CO_OCCURS_WITH
+Kiribati,Monaco,1,CO_OCCURS_WITH
+Kiribati,Mongolia,1,CO_OCCURS_WITH
+Kiribati,North Korea,1,CO_OCCURS_WITH
+Kiribati,South Korea,1,CO_OCCURS_WITH
+Kyrgyzstan,Lesotho,1,CO_OCCURS_WITH
+Kyrgyzstan,Libya,1,CO_OCCURS_WITH
+Lithuania,Maldives Mali,1,CO_OCCURS_WITH
+Kyrgyzstan,Liechtenstein,1,CO_OCCURS_WITH
+Laos,Maldives Mali,1,CO_OCCURS_WITH
+Laos,Mauritania,1,CO_OCCURS_WITH
+Laos,Mexico,1,CO_OCCURS_WITH
+Laos,Micronesia Moldova,1,CO_OCCURS_WITH
+Laos,Monaco,1,CO_OCCURS_WITH
+Laos,Mongolia,1,CO_OCCURS_WITH
+Laos,North Korea,1,CO_OCCURS_WITH
+Laos,South Korea,1,CO_OCCURS_WITH
+Latvia,Lebanon,1,CO_OCCURS_WITH
+Latvia,Lesotho,1,CO_OCCURS_WITH
+Latvia,Liberia,1,CO_OCCURS_WITH
+Latvia,Libya,1,CO_OCCURS_WITH
+Latvia,Madagascar Malawi,1,CO_OCCURS_WITH
+Latvia,Malaysia,1,CO_OCCURS_WITH
+Latvia,Maldives Mali,1,CO_OCCURS_WITH
+Latvia,Mauritania,1,CO_OCCURS_WITH
+Latvia,Mexico,1,CO_OCCURS_WITH
+Latvia,Micronesia Moldova,1,CO_OCCURS_WITH
+Latvia,Monaco,1,CO_OCCURS_WITH
+Laos,Malaysia,1,CO_OCCURS_WITH
+Laos,Madagascar Malawi,1,CO_OCCURS_WITH
+Laos,Luxembourg,1,CO_OCCURS_WITH
+Kyrgyzstan,Monaco,1,CO_OCCURS_WITH
+Kyrgyzstan,Lithuania,1,CO_OCCURS_WITH
+Kyrgyzstan,Luxembourg,1,CO_OCCURS_WITH
+Kyrgyzstan,Madagascar Malawi,1,CO_OCCURS_WITH
+Kyrgyzstan,Malaysia,1,CO_OCCURS_WITH
+Kyrgyzstan,Maldives Mali,1,CO_OCCURS_WITH
+Kyrgyzstan,Mauritania,1,CO_OCCURS_WITH
+Kyrgyzstan,Mexico,1,CO_OCCURS_WITH
+Kyrgyzstan,Micronesia Moldova,1,CO_OCCURS_WITH
+Kyrgyzstan,Mongolia,1,CO_OCCURS_WITH
+Laos,Lithuania,1,CO_OCCURS_WITH
+Kyrgyzstan,North Korea,1,CO_OCCURS_WITH
+Kyrgyzstan,South Korea,1,CO_OCCURS_WITH
+Laos,Latvia,1,CO_OCCURS_WITH
+Laos,Lebanon,1,CO_OCCURS_WITH
+Laos,Lesotho,1,CO_OCCURS_WITH
+Laos,Liberia,1,CO_OCCURS_WITH
+Laos,Libya,1,CO_OCCURS_WITH
+Laos,Liechtenstein,1,CO_OCCURS_WITH
+Australia,New Zealand,1,CO_OCCURS_WITH
+Copenhagen,Kyoto,1,CO_OCCURS_WITH
+Lithuania,Mauritania,1,CO_OCCURS_WITH
+Mexico,South Korea,1,CO_OCCURS_WITH
+Canada,South Africa,1,CO_OCCURS_WITH
+Guinea,Norway,1,CO_OCCURS_WITH
+Guinea,Oman,1,CO_OCCURS_WITH
+Guinea,Pakistan,1,CO_OCCURS_WITH
+Guinea,Palau,1,CO_OCCURS_WITH
+Canada,Mexico,1,CO_OCCURS_WITH
+Guinea,Philippines,1,CO_OCCURS_WITH
+Guinea,Poland,1,CO_OCCURS_WITH
+Guinea,Portugal,1,CO_OCCURS_WITH
+Guinea,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Guinea,Qatar,1,CO_OCCURS_WITH
+Guinea,Romania,1,CO_OCCURS_WITH
+Guinea,Russia,1,CO_OCCURS_WITH
+Guinea,Rwanda,1,CO_OCCURS_WITH
+Guinea,Saint Kitts,1,CO_OCCURS_WITH
+Guinea,Singapore,1,CO_OCCURS_WITH
+Guinea,Slovakia,1,CO_OCCURS_WITH
+Guinea,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Guinea,South Africa,1,CO_OCCURS_WITH
+Canada,the United Kingdom,1,CO_OCCURS_WITH
+Guinea,Niue North,1,CO_OCCURS_WITH
+Guinea,Nicaragua,1,CO_OCCURS_WITH
+China,France,1,CO_OCCURS_WITH
+Micronesia Moldova,Mongolia,1,CO_OCCURS_WITH
+Micronesia Moldova,North Korea,1,CO_OCCURS_WITH
+Micronesia Moldova,South Korea,1,CO_OCCURS_WITH
+Monaco,Mongolia,1,CO_OCCURS_WITH
+Monaco,North Korea,1,CO_OCCURS_WITH
+Monaco,South Korea,1,CO_OCCURS_WITH
+Mongolia,North Korea,1,CO_OCCURS_WITH
+China,Germany,1,CO_OCCURS_WITH
+Mongolia,South Korea,1,CO_OCCURS_WITH
+Guinea,New Zealand,1,CO_OCCURS_WITH
+North Korea,South Korea,1,CO_OCCURS_WITH
+Guinea,Kyoto,1,CO_OCCURS_WITH
+Guinea,Montenegro,1,CO_OCCURS_WITH
+Guinea,Morocco Mozambique,1,CO_OCCURS_WITH
+Guinea,Namibia,1,CO_OCCURS_WITH
+Guinea,Nepal,1,CO_OCCURS_WITH
+Guinea,Netherlands,1,CO_OCCURS_WITH
+Guinea,Nevis Saint,1,CO_OCCURS_WITH
+Guinea,Spain,1,CO_OCCURS_WITH
+Guinea,Sri Lanka,1,CO_OCCURS_WITH
+Canada,Italy,1,CO_OCCURS_WITH
+Kyoto,Sri Lanka,1,CO_OCCURS_WITH
+Canada,France,1,CO_OCCURS_WITH
+Kyoto,Rwanda,1,CO_OCCURS_WITH
+Kyoto,Saint Kitts,1,CO_OCCURS_WITH
+Kyoto,Singapore,1,CO_OCCURS_WITH
+Kyoto,Slovakia,1,CO_OCCURS_WITH
+Kyoto,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Kyoto,South Africa,1,CO_OCCURS_WITH
+Kyoto,Spain,1,CO_OCCURS_WITH
+Brazil,the United States,1,CO_OCCURS_WITH
+Kyoto,Qatar,1,CO_OCCURS_WITH
+Kyoto,Sweden,1,CO_OCCURS_WITH
+Kyoto,Switzerland,1,CO_OCCURS_WITH
+Kyoto,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Montenegro,Morocco Mozambique,1,CO_OCCURS_WITH
+Montenegro,Namibia,1,CO_OCCURS_WITH
+Montenegro,Nepal,1,CO_OCCURS_WITH
+Montenegro,Netherlands,1,CO_OCCURS_WITH
+Montenegro,Nevis Saint,1,CO_OCCURS_WITH
+Kyoto,Romania,1,CO_OCCURS_WITH
+Kyoto,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Guinea,Sweden,1,CO_OCCURS_WITH
+Kyoto,Nicaragua,1,CO_OCCURS_WITH
+Guinea,Switzerland,1,CO_OCCURS_WITH
+Guinea,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Kyoto,Montenegro,1,CO_OCCURS_WITH
+Kyoto,Morocco Mozambique,1,CO_OCCURS_WITH
+Kyoto,Namibia,1,CO_OCCURS_WITH
+Kyoto,Nepal,1,CO_OCCURS_WITH
+Kyoto,Netherlands,1,CO_OCCURS_WITH
+Kyoto,Nevis Saint,1,CO_OCCURS_WITH
+Kyoto,Niue North,1,CO_OCCURS_WITH
+Kyoto,Portugal,1,CO_OCCURS_WITH
+Kyoto,Norway,1,CO_OCCURS_WITH
+Kyoto,Oman,1,CO_OCCURS_WITH
+Kyoto,Pakistan,1,CO_OCCURS_WITH
+Canada,India,1,CO_OCCURS_WITH
+Kyoto,Palau,1,CO_OCCURS_WITH
+Kyoto,Philippines,1,CO_OCCURS_WITH
+Canada,Germany,1,CO_OCCURS_WITH
+Kyoto,Poland,1,CO_OCCURS_WITH
+Micronesia Moldova,Monaco,1,CO_OCCURS_WITH
+Mexico,North Korea,1,CO_OCCURS_WITH
+Lithuania,Mexico,1,CO_OCCURS_WITH
+Mexico,Mongolia,1,CO_OCCURS_WITH
+Luxembourg,Mexico,1,CO_OCCURS_WITH
+Luxembourg,Micronesia Moldova,1,CO_OCCURS_WITH
+Luxembourg,Monaco,1,CO_OCCURS_WITH
+Japan,the United Kingdom,1,CO_OCCURS_WITH
+Italy,the United States,1,CO_OCCURS_WITH
+Luxembourg,Mongolia,1,CO_OCCURS_WITH
+Luxembourg,North Korea,1,CO_OCCURS_WITH
+Luxembourg,South Korea,1,CO_OCCURS_WITH
+Italy,the United Kingdom,1,CO_OCCURS_WITH
+Italy,South Africa,1,CO_OCCURS_WITH
+Madagascar Malawi,Malaysia,1,CO_OCCURS_WITH
+Italy,Russia,1,CO_OCCURS_WITH
+Madagascar Malawi,Maldives Mali,1,CO_OCCURS_WITH
+India,the United States,1,CO_OCCURS_WITH
+India,the United Kingdom,1,CO_OCCURS_WITH
+India,South Africa,1,CO_OCCURS_WITH
+India,Russia,1,CO_OCCURS_WITH
+Madagascar Malawi,Mauritania,1,CO_OCCURS_WITH
+Madagascar Malawi,Mexico,1,CO_OCCURS_WITH
+Mexico,Russia,1,CO_OCCURS_WITH
+Luxembourg,Mauritania,1,CO_OCCURS_WITH
+Luxembourg,Maldives Mali,1,CO_OCCURS_WITH
+South Africa,the United States,1,CO_OCCURS_WITH
+Lithuania,Micronesia Moldova,1,CO_OCCURS_WITH
+Kiribati,Kyrgyzstan,1,CO_OCCURS_WITH
+Rio,The United Nations Climate Change Conference,1,CO_OCCURS_WITH
+Copenhagen,The United Nations Climate Change Conference,1,CO_OCCURS_WITH
+Lithuania,Monaco,1,CO_OCCURS_WITH
+Copenhagen,Rio,1,CO_OCCURS_WITH
+Lithuania,Mongolia,1,CO_OCCURS_WITH
+the United Kingdom,the United States,1,CO_OCCURS_WITH
+South Africa,the United Kingdom,1,CO_OCCURS_WITH
+Luxembourg,Malaysia,1,CO_OCCURS_WITH
+Russia,the United States,1,CO_OCCURS_WITH
+Russia,the United Kingdom,1,CO_OCCURS_WITH
+Mexico,the United States,1,CO_OCCURS_WITH
+Mexico,the United Kingdom,1,CO_OCCURS_WITH
+Lithuania,North Korea,1,CO_OCCURS_WITH
+Mexico,South Africa,1,CO_OCCURS_WITH
+Lithuania,South Korea,1,CO_OCCURS_WITH
+Luxembourg,Madagascar Malawi,1,CO_OCCURS_WITH
+Madagascar Malawi,Micronesia Moldova,1,CO_OCCURS_WITH
+Madagascar Malawi,Monaco,1,CO_OCCURS_WITH
+Germany,the United States,1,CO_OCCURS_WITH
+Maldives Mali,North Korea,1,CO_OCCURS_WITH
+Malaysia,Mongolia,1,CO_OCCURS_WITH
+Malaysia,North Korea,1,CO_OCCURS_WITH
+Malaysia,South Korea,1,CO_OCCURS_WITH
+Maldives Mali,Mauritania,1,CO_OCCURS_WITH
+Maldives Mali,Mexico,1,CO_OCCURS_WITH
+Maldives Mali,Micronesia Moldova,1,CO_OCCURS_WITH
+Maldives Mali,Monaco,1,CO_OCCURS_WITH
+Maldives Mali,Mongolia,1,CO_OCCURS_WITH
+Maldives Mali,South Korea,1,CO_OCCURS_WITH
+China,Italy,1,CO_OCCURS_WITH
+Mauritania,Mexico,1,CO_OCCURS_WITH
+Mauritania,Micronesia Moldova,1,CO_OCCURS_WITH
+Mauritania,Monaco,1,CO_OCCURS_WITH
+Mauritania,Mongolia,1,CO_OCCURS_WITH
+Mauritania,North Korea,1,CO_OCCURS_WITH
+Mauritania,South Korea,1,CO_OCCURS_WITH
+Mexico,Micronesia Moldova,1,CO_OCCURS_WITH
+Mexico,Monaco,1,CO_OCCURS_WITH
+Malaysia,Monaco,1,CO_OCCURS_WITH
+China,Mexico,1,CO_OCCURS_WITH
+Germany,the United Kingdom,1,CO_OCCURS_WITH
+France,the United States,1,CO_OCCURS_WITH
+Germany,South Africa,1,CO_OCCURS_WITH
+Germany,Russia,1,CO_OCCURS_WITH
+Germany,Mexico,1,CO_OCCURS_WITH
+Madagascar Malawi,Mongolia,1,CO_OCCURS_WITH
+Madagascar Malawi,North Korea,1,CO_OCCURS_WITH
+Madagascar Malawi,South Korea,1,CO_OCCURS_WITH
+Malaysia,Maldives Mali,1,CO_OCCURS_WITH
+Germany,India,1,CO_OCCURS_WITH
+France,the United Kingdom,1,CO_OCCURS_WITH
+China,Russia,1,CO_OCCURS_WITH
+France,South Africa,1,CO_OCCURS_WITH
+France,Russia,1,CO_OCCURS_WITH
+France,Mexico,1,CO_OCCURS_WITH
+Malaysia,Mauritania,1,CO_OCCURS_WITH
+Malaysia,Mexico,1,CO_OCCURS_WITH
+Malaysia,Micronesia Moldova,1,CO_OCCURS_WITH
+France,India,1,CO_OCCURS_WITH
+China,the United Kingdom,1,CO_OCCURS_WITH
+Kiribati,Laos,1,CO_OCCURS_WITH
+Kiribati,Kuwait,1,CO_OCCURS_WITH
+Montenegro,Nicaragua,1,CO_OCCURS_WITH
+Iran,Mauritania,1,CO_OCCURS_WITH
+Iran,Jamaica,1,CO_OCCURS_WITH
+Iran,Japan,1,CO_OCCURS_WITH
+Iran,Jordan,1,CO_OCCURS_WITH
+Iran,Kazakhstan,1,CO_OCCURS_WITH
+Iran,Kenya,1,CO_OCCURS_WITH
+Iran,Kiribati,1,CO_OCCURS_WITH
+Iran,Kuwait,1,CO_OCCURS_WITH
+Iran,Kyrgyzstan,1,CO_OCCURS_WITH
+Iran,Laos,1,CO_OCCURS_WITH
+Iran,Latvia,1,CO_OCCURS_WITH
+Iran,Lebanon,1,CO_OCCURS_WITH
+Iran,Lesotho,1,CO_OCCURS_WITH
+Iran,Liberia,1,CO_OCCURS_WITH
+Iran,Libya,1,CO_OCCURS_WITH
+Iran,Liechtenstein,1,CO_OCCURS_WITH
+Iran,Lithuania,1,CO_OCCURS_WITH
+Iran,Luxembourg,1,CO_OCCURS_WITH
+Iran,Madagascar Malawi,1,CO_OCCURS_WITH
+Iran,Malaysia,1,CO_OCCURS_WITH
+Iran,Italy,1,CO_OCCURS_WITH
+Iran,Israel,1,CO_OCCURS_WITH
+Iran,Ireland,1,CO_OCCURS_WITH
+Indonesia,Madagascar Malawi,1,CO_OCCURS_WITH
+Indonesia,Latvia,1,CO_OCCURS_WITH
+Indonesia,Lebanon,1,CO_OCCURS_WITH
+Indonesia,Lesotho,1,CO_OCCURS_WITH
+Indonesia,Liberia,1,CO_OCCURS_WITH
+Indonesia,Libya,1,CO_OCCURS_WITH
+Indonesia,Liechtenstein,1,CO_OCCURS_WITH
+Indonesia,Lithuania,1,CO_OCCURS_WITH
+Indonesia,Luxembourg,1,CO_OCCURS_WITH
+Indonesia,Malaysia,1,CO_OCCURS_WITH
+Iran,Iraq,1,CO_OCCURS_WITH
+Indonesia,Maldives Mali,1,CO_OCCURS_WITH
+Indonesia,Mauritania,1,CO_OCCURS_WITH
+Indonesia,Mexico,1,CO_OCCURS_WITH
+Indonesia,Micronesia Moldova,1,CO_OCCURS_WITH
+Indonesia,Monaco,1,CO_OCCURS_WITH
+Indonesia,Mongolia,1,CO_OCCURS_WITH
+Indonesia,North Korea,1,CO_OCCURS_WITH
+Indonesia,South Korea,1,CO_OCCURS_WITH
+Iran,Maldives Mali,1,CO_OCCURS_WITH
+Iran,Mexico,1,CO_OCCURS_WITH
+Indonesia,Kyrgyzstan,1,CO_OCCURS_WITH
+Iran,Micronesia Moldova,1,CO_OCCURS_WITH
+Iraq,Lithuania,1,CO_OCCURS_WITH
+Iraq,Luxembourg,1,CO_OCCURS_WITH
+Iraq,Madagascar Malawi,1,CO_OCCURS_WITH
+Iraq,Malaysia,1,CO_OCCURS_WITH
+Iraq,Maldives Mali,1,CO_OCCURS_WITH
+Iraq,Mauritania,1,CO_OCCURS_WITH
+Iraq,Mexico,1,CO_OCCURS_WITH
+Iraq,Micronesia Moldova,1,CO_OCCURS_WITH
+Iraq,Monaco,1,CO_OCCURS_WITH
+Iraq,Mongolia,1,CO_OCCURS_WITH
+Iraq,North Korea,1,CO_OCCURS_WITH
+Iraq,South Korea,1,CO_OCCURS_WITH
+Ireland,Israel,1,CO_OCCURS_WITH
+Ireland,Jamaica,1,CO_OCCURS_WITH
+Ireland,Jordan,1,CO_OCCURS_WITH
+Ireland,Kazakhstan,1,CO_OCCURS_WITH
+Ireland,Kenya,1,CO_OCCURS_WITH
+Ireland,Kiribati,1,CO_OCCURS_WITH
+Ireland,Kuwait,1,CO_OCCURS_WITH
+Iraq,Liechtenstein,1,CO_OCCURS_WITH
+Iraq,Libya,1,CO_OCCURS_WITH
+Iraq,Liberia,1,CO_OCCURS_WITH
+Iraq,Japan,1,CO_OCCURS_WITH
+Iran,Monaco,1,CO_OCCURS_WITH
+Iran,Mongolia,1,CO_OCCURS_WITH
+Iran,North Korea,1,CO_OCCURS_WITH
+Iran,South Korea,1,CO_OCCURS_WITH
+Iraq,Ireland,1,CO_OCCURS_WITH
+Iraq,Israel,1,CO_OCCURS_WITH
+Iraq,Italy,1,CO_OCCURS_WITH
+Iraq,Jamaica,1,CO_OCCURS_WITH
+Iraq,Jordan,1,CO_OCCURS_WITH
+Iraq,Lesotho,1,CO_OCCURS_WITH
+Iraq,Kazakhstan,1,CO_OCCURS_WITH
+Iraq,Kenya,1,CO_OCCURS_WITH
+Iraq,Kiribati,1,CO_OCCURS_WITH
+Iraq,Kuwait,1,CO_OCCURS_WITH
+Iraq,Kyrgyzstan,1,CO_OCCURS_WITH
+Iraq,Laos,1,CO_OCCURS_WITH
+Iraq,Latvia,1,CO_OCCURS_WITH
+Iraq,Lebanon,1,CO_OCCURS_WITH
+Indonesia,Laos,1,CO_OCCURS_WITH
+Indonesia,Kuwait,1,CO_OCCURS_WITH
+Ireland,Laos,1,CO_OCCURS_WITH
+Iceland,South Korea,1,CO_OCCURS_WITH
+Iceland,Jamaica,1,CO_OCCURS_WITH
+Iceland,Jordan,1,CO_OCCURS_WITH
+Iceland,Kenya,1,CO_OCCURS_WITH
+Iceland,Kiribati,1,CO_OCCURS_WITH
+Iceland,Kuwait,1,CO_OCCURS_WITH
+Iceland,Kyrgyzstan,1,CO_OCCURS_WITH
+Iceland,Laos,1,CO_OCCURS_WITH
+Iceland,Lebanon,1,CO_OCCURS_WITH
+Iceland,Lesotho,1,CO_OCCURS_WITH
+Iceland,Liberia,1,CO_OCCURS_WITH
+Iceland,Libya,1,CO_OCCURS_WITH
+Iceland,Madagascar Malawi,1,CO_OCCURS_WITH
+Iceland,Malaysia,1,CO_OCCURS_WITH
+Iceland,Maldives Mali,1,CO_OCCURS_WITH
+Iceland,Mauritania,1,CO_OCCURS_WITH
+Iceland,Mexico,1,CO_OCCURS_WITH
+Iceland,Micronesia Moldova,1,CO_OCCURS_WITH
+Iceland,Monaco,1,CO_OCCURS_WITH
+Iceland,Mongolia,1,CO_OCCURS_WITH
+Iceland,Israel,1,CO_OCCURS_WITH
+Iceland,Iraq,1,CO_OCCURS_WITH
+Iceland,Iran,1,CO_OCCURS_WITH
+Honduras Hungary,Malaysia,1,CO_OCCURS_WITH
+Honduras Hungary,Lebanon,1,CO_OCCURS_WITH
+Honduras Hungary,Lesotho,1,CO_OCCURS_WITH
+Honduras Hungary,Liberia,1,CO_OCCURS_WITH
+Honduras Hungary,Libya,1,CO_OCCURS_WITH
+Honduras Hungary,Liechtenstein,1,CO_OCCURS_WITH
+Honduras Hungary,Lithuania,1,CO_OCCURS_WITH
+Honduras Hungary,Luxembourg,1,CO_OCCURS_WITH
+Honduras Hungary,Madagascar Malawi,1,CO_OCCURS_WITH
+Honduras Hungary,Maldives Mali,1,CO_OCCURS_WITH
+Iceland,Indonesia,1,CO_OCCURS_WITH
+Honduras Hungary,Mauritania,1,CO_OCCURS_WITH
+Honduras Hungary,Mexico,1,CO_OCCURS_WITH
+Honduras Hungary,Micronesia Moldova,1,CO_OCCURS_WITH
+Honduras Hungary,Monaco,1,CO_OCCURS_WITH
+Honduras Hungary,Mongolia,1,CO_OCCURS_WITH
+Honduras Hungary,North Korea,1,CO_OCCURS_WITH
+Honduras Hungary,South Korea,1,CO_OCCURS_WITH
+Iceland,India,1,CO_OCCURS_WITH
+Iceland,North Korea,1,CO_OCCURS_WITH
+the UN General Assembly,the United Nations,1,CO_OCCURS_WITH
+Indonesia,Kiribati,1,CO_OCCURS_WITH
+New York,the UN General Assembly,1,CO_OCCURS_WITH
+India,Malaysia,1,CO_OCCURS_WITH
+India,Maldives Mali,1,CO_OCCURS_WITH
+India,Mauritania,1,CO_OCCURS_WITH
+Ban Ki Moon,New York,1,CO_OCCURS_WITH
+India,Micronesia Moldova,1,CO_OCCURS_WITH
+India,Monaco,1,CO_OCCURS_WITH
+India,Mongolia,1,CO_OCCURS_WITH
+India,North Korea,1,CO_OCCURS_WITH
+India,South Korea,1,CO_OCCURS_WITH
+European,the European Union,1,CO_OCCURS_WITH
+Indonesia,Iraq,1,CO_OCCURS_WITH
+Indonesia,Ireland,1,CO_OCCURS_WITH
+Indonesia,Israel,1,CO_OCCURS_WITH
+Indonesia,Italy,1,CO_OCCURS_WITH
+Indonesia,Jamaica,1,CO_OCCURS_WITH
+Indonesia,Japan,1,CO_OCCURS_WITH
+Indonesia,Jordan,1,CO_OCCURS_WITH
+Indonesia,Kazakhstan,1,CO_OCCURS_WITH
+Indonesia,Kenya,1,CO_OCCURS_WITH
+India,Madagascar Malawi,1,CO_OCCURS_WITH
+India,Luxembourg,1,CO_OCCURS_WITH
+India,Lithuania,1,CO_OCCURS_WITH
+India,Kenya,1,CO_OCCURS_WITH
+India,Iraq,1,CO_OCCURS_WITH
+India,Ireland,1,CO_OCCURS_WITH
+India,Israel,1,CO_OCCURS_WITH
+Ban Ki Moon,the United Nations,1,CO_OCCURS_WITH
+India,Jamaica,1,CO_OCCURS_WITH
+Ban Ki Moon,the UN General Assembly,1,CO_OCCURS_WITH
+India,Jordan,1,CO_OCCURS_WITH
+India,Kazakhstan,1,CO_OCCURS_WITH
+India,Kiribati,1,CO_OCCURS_WITH
+India,Liechtenstein,1,CO_OCCURS_WITH
+India,Kuwait,1,CO_OCCURS_WITH
+India,Kyrgyzstan,1,CO_OCCURS_WITH
+India,Laos,1,CO_OCCURS_WITH
+India,Latvia,1,CO_OCCURS_WITH
+India,Lebanon,1,CO_OCCURS_WITH
+India,Lesotho,1,CO_OCCURS_WITH
+India,Liberia,1,CO_OCCURS_WITH
+India,Libya,1,CO_OCCURS_WITH
+Ireland,Kyrgyzstan,1,CO_OCCURS_WITH
+Ireland,Lebanon,1,CO_OCCURS_WITH
+Kenya,South Korea,1,CO_OCCURS_WITH
+Jordan,South Korea,1,CO_OCCURS_WITH
+Jordan,Kuwait,1,CO_OCCURS_WITH
+Jordan,Kyrgyzstan,1,CO_OCCURS_WITH
+Jordan,Laos,1,CO_OCCURS_WITH
+Jordan,Latvia,1,CO_OCCURS_WITH
+Jordan,Lebanon,1,CO_OCCURS_WITH
+Jordan,Lesotho,1,CO_OCCURS_WITH
+Jordan,Liberia,1,CO_OCCURS_WITH
+Jordan,Libya,1,CO_OCCURS_WITH
+Jordan,Liechtenstein,1,CO_OCCURS_WITH
+Jordan,Lithuania,1,CO_OCCURS_WITH
+Jordan,Luxembourg,1,CO_OCCURS_WITH
+Jordan,Madagascar Malawi,1,CO_OCCURS_WITH
+Jordan,Malaysia,1,CO_OCCURS_WITH
+Jordan,Maldives Mali,1,CO_OCCURS_WITH
+Jordan,Mauritania,1,CO_OCCURS_WITH
+Jordan,Mexico,1,CO_OCCURS_WITH
+Jordan,Micronesia Moldova,1,CO_OCCURS_WITH
+Jordan,Monaco,1,CO_OCCURS_WITH
+Jordan,Mongolia,1,CO_OCCURS_WITH
+Jordan,Kiribati,1,CO_OCCURS_WITH
+Jordan,Kenya,1,CO_OCCURS_WITH
+Jordan,Kazakhstan,1,CO_OCCURS_WITH
+Japan,Libya,1,CO_OCCURS_WITH
+Japan,Kenya,1,CO_OCCURS_WITH
+Japan,Kiribati,1,CO_OCCURS_WITH
+Japan,Kuwait,1,CO_OCCURS_WITH
+Japan,Kyrgyzstan,1,CO_OCCURS_WITH
+Japan,Laos,1,CO_OCCURS_WITH
+Japan,Lebanon,1,CO_OCCURS_WITH
+Japan,Lesotho,1,CO_OCCURS_WITH
+Japan,Liberia,1,CO_OCCURS_WITH
+Japan,Madagascar Malawi,1,CO_OCCURS_WITH
+Japan,South Korea,1,CO_OCCURS_WITH
+Japan,Malaysia,1,CO_OCCURS_WITH
+Japan,Maldives Mali,1,CO_OCCURS_WITH
+Japan,Mauritania,1,CO_OCCURS_WITH
+Doha,the European Union,1,CO_OCCURS_WITH
+Japan,Micronesia Moldova,1,CO_OCCURS_WITH
+Japan,Monaco,1,CO_OCCURS_WITH
+Japan,Mongolia,1,CO_OCCURS_WITH
+Japan,North Korea,1,CO_OCCURS_WITH
+Jordan,North Korea,1,CO_OCCURS_WITH
+Kazakhstan,Kenya,1,CO_OCCURS_WITH
+Japan,Jordan,1,CO_OCCURS_WITH
+Kazakhstan,Kiribati,1,CO_OCCURS_WITH
+Kenya,Kyrgyzstan,1,CO_OCCURS_WITH
+Kenya,Laos,1,CO_OCCURS_WITH
+Kenya,Latvia,1,CO_OCCURS_WITH
+Kenya,Lebanon,1,CO_OCCURS_WITH
+Kenya,Lesotho,1,CO_OCCURS_WITH
+Kenya,Liberia,1,CO_OCCURS_WITH
+Kenya,Libya,1,CO_OCCURS_WITH
+Kenya,Liechtenstein,1,CO_OCCURS_WITH
+Kenya,Lithuania,1,CO_OCCURS_WITH
+Kenya,Luxembourg,1,CO_OCCURS_WITH
+Kenya,Madagascar Malawi,1,CO_OCCURS_WITH
+Kenya,Malaysia,1,CO_OCCURS_WITH
+Kenya,Maldives Mali,1,CO_OCCURS_WITH
+Kenya,Mauritania,1,CO_OCCURS_WITH
+Kenya,Mexico,1,CO_OCCURS_WITH
+Kenya,Micronesia Moldova,1,CO_OCCURS_WITH
+Kenya,Monaco,1,CO_OCCURS_WITH
+Kenya,Mongolia,1,CO_OCCURS_WITH
+Kenya,North Korea,1,CO_OCCURS_WITH
+Kenya,Kuwait,1,CO_OCCURS_WITH
+Kenya,Kiribati,1,CO_OCCURS_WITH
+Kazakhstan,South Korea,1,CO_OCCURS_WITH
+Kazakhstan,Lithuania,1,CO_OCCURS_WITH
+Kazakhstan,Kuwait,1,CO_OCCURS_WITH
+Kazakhstan,Kyrgyzstan,1,CO_OCCURS_WITH
+Kazakhstan,Laos,1,CO_OCCURS_WITH
+Kazakhstan,Latvia,1,CO_OCCURS_WITH
+Kazakhstan,Lebanon,1,CO_OCCURS_WITH
+Kazakhstan,Lesotho,1,CO_OCCURS_WITH
+Kazakhstan,Liberia,1,CO_OCCURS_WITH
+Kazakhstan,Libya,1,CO_OCCURS_WITH
+Kazakhstan,Luxembourg,1,CO_OCCURS_WITH
+Kazakhstan,North Korea,1,CO_OCCURS_WITH
+Kazakhstan,Madagascar Malawi,1,CO_OCCURS_WITH
+Kazakhstan,Malaysia,1,CO_OCCURS_WITH
+Kazakhstan,Maldives Mali,1,CO_OCCURS_WITH
+Kazakhstan,Mauritania,1,CO_OCCURS_WITH
+Kazakhstan,Mexico,1,CO_OCCURS_WITH
+Kazakhstan,Micronesia Moldova,1,CO_OCCURS_WITH
+Kazakhstan,Monaco,1,CO_OCCURS_WITH
+Kazakhstan,Mongolia,1,CO_OCCURS_WITH
+Japan,Kazakhstan,1,CO_OCCURS_WITH
+Jamaica,South Korea,1,CO_OCCURS_WITH
+Ireland,Lesotho,1,CO_OCCURS_WITH
+Italy,Kazakhstan,1,CO_OCCURS_WITH
+Israel,Latvia,1,CO_OCCURS_WITH
+Israel,Lebanon,1,CO_OCCURS_WITH
+Israel,Lesotho,1,CO_OCCURS_WITH
+Israel,Liberia,1,CO_OCCURS_WITH
+Israel,Libya,1,CO_OCCURS_WITH
+Israel,Liechtenstein,1,CO_OCCURS_WITH
+Israel,Lithuania,1,CO_OCCURS_WITH
+Israel,Luxembourg,1,CO_OCCURS_WITH
+Israel,Madagascar Malawi,1,CO_OCCURS_WITH
+Israel,Malaysia,1,CO_OCCURS_WITH
+Israel,Maldives Mali,1,CO_OCCURS_WITH
+Israel,Mauritania,1,CO_OCCURS_WITH
+Israel,Mexico,1,CO_OCCURS_WITH
+Israel,Micronesia Moldova,1,CO_OCCURS_WITH
+Israel,Monaco,1,CO_OCCURS_WITH
+Israel,Mongolia,1,CO_OCCURS_WITH
+Israel,North Korea,1,CO_OCCURS_WITH
+Israel,South Korea,1,CO_OCCURS_WITH
+Italy,Jamaica,1,CO_OCCURS_WITH
+Israel,Laos,1,CO_OCCURS_WITH
+Israel,Kyrgyzstan,1,CO_OCCURS_WITH
+Israel,Kuwait,1,CO_OCCURS_WITH
+Ireland,Monaco,1,CO_OCCURS_WITH
+Ireland,Liberia,1,CO_OCCURS_WITH
+Ireland,Libya,1,CO_OCCURS_WITH
+Ireland,Madagascar Malawi,1,CO_OCCURS_WITH
+Ireland,Malaysia,1,CO_OCCURS_WITH
+Ireland,Maldives Mali,1,CO_OCCURS_WITH
+Ireland,Mauritania,1,CO_OCCURS_WITH
+Ireland,Mexico,1,CO_OCCURS_WITH
+Ireland,Micronesia Moldova,1,CO_OCCURS_WITH
+Ireland,Mongolia,1,CO_OCCURS_WITH
+Israel,Kiribati,1,CO_OCCURS_WITH
+Ireland,North Korea,1,CO_OCCURS_WITH
+Ireland,South Korea,1,CO_OCCURS_WITH
+Israel,Italy,1,CO_OCCURS_WITH
+Israel,Jamaica,1,CO_OCCURS_WITH
+Israel,Japan,1,CO_OCCURS_WITH
+Israel,Jordan,1,CO_OCCURS_WITH
+Israel,Kazakhstan,1,CO_OCCURS_WITH
+Israel,Kenya,1,CO_OCCURS_WITH
+Italy,Jordan,1,CO_OCCURS_WITH
+Italy,Kenya,1,CO_OCCURS_WITH
+Jamaica,North Korea,1,CO_OCCURS_WITH
+Italy,Kiribati,1,CO_OCCURS_WITH
+Jamaica,Kyrgyzstan,1,CO_OCCURS_WITH
+Jamaica,Laos,1,CO_OCCURS_WITH
+Jamaica,Latvia,1,CO_OCCURS_WITH
+Jamaica,Lebanon,1,CO_OCCURS_WITH
+Jamaica,Lesotho,1,CO_OCCURS_WITH
+Jamaica,Liberia,1,CO_OCCURS_WITH
+Jamaica,Libya,1,CO_OCCURS_WITH
+Jamaica,Liechtenstein,1,CO_OCCURS_WITH
+Jamaica,Lithuania,1,CO_OCCURS_WITH
+Jamaica,Luxembourg,1,CO_OCCURS_WITH
+Jamaica,Madagascar Malawi,1,CO_OCCURS_WITH
+Jamaica,Malaysia,1,CO_OCCURS_WITH
+Jamaica,Maldives Mali,1,CO_OCCURS_WITH
+European,UNFCCC,1,CO_OCCURS_WITH
+Jamaica,Mauritania,1,CO_OCCURS_WITH
+Jamaica,Mexico,1,CO_OCCURS_WITH
+Jamaica,Micronesia Moldova,1,CO_OCCURS_WITH
+Jamaica,Monaco,1,CO_OCCURS_WITH
+Jamaica,Mongolia,1,CO_OCCURS_WITH
+Jamaica,Kuwait,1,CO_OCCURS_WITH
+Jamaica,Kiribati,1,CO_OCCURS_WITH
+Jamaica,Kenya,1,CO_OCCURS_WITH
+Italy,Malaysia,1,CO_OCCURS_WITH
+Italy,Kuwait,1,CO_OCCURS_WITH
+Italy,Kyrgyzstan,1,CO_OCCURS_WITH
+Italy,Laos,1,CO_OCCURS_WITH
+Italy,Lebanon,1,CO_OCCURS_WITH
+Italy,Lesotho,1,CO_OCCURS_WITH
+Italy,Liberia,1,CO_OCCURS_WITH
+Italy,Libya,1,CO_OCCURS_WITH
+Italy,Madagascar Malawi,1,CO_OCCURS_WITH
+Italy,Maldives Mali,1,CO_OCCURS_WITH
+Jamaica,Kazakhstan,1,CO_OCCURS_WITH
+Italy,Mauritania,1,CO_OCCURS_WITH
+Italy,Micronesia Moldova,1,CO_OCCURS_WITH
+Italy,Monaco,1,CO_OCCURS_WITH
+Italy,Mongolia,1,CO_OCCURS_WITH
+Italy,North Korea,1,CO_OCCURS_WITH
+Italy,South Korea,1,CO_OCCURS_WITH
+Jamaica,Japan,1,CO_OCCURS_WITH
+Jamaica,Jordan,1,CO_OCCURS_WITH
+Montenegro,New Zealand,1,CO_OCCURS_WITH
+Montenegro,Oman,1,CO_OCCURS_WITH
+Montenegro,Niue North,1,CO_OCCURS_WITH
+Spain,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Singapore,Sweden,1,CO_OCCURS_WITH
+Singapore,Switzerland,1,CO_OCCURS_WITH
+Singapore,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Slovakia,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Slovakia,South Africa,1,CO_OCCURS_WITH
+Slovakia,Sri Lanka,1,CO_OCCURS_WITH
+Slovakia,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Solomon Islands Somalia,South Africa,1,CO_OCCURS_WITH
+Solomon Islands Somalia,Spain,1,CO_OCCURS_WITH
+Solomon Islands Somalia,Sri Lanka,1,CO_OCCURS_WITH
+Solomon Islands Somalia,Sweden,1,CO_OCCURS_WITH
+Solomon Islands Somalia,Switzerland,1,CO_OCCURS_WITH
+Solomon Islands Somalia,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+South Africa,Spain,1,CO_OCCURS_WITH
+South Africa,Sri Lanka,1,CO_OCCURS_WITH
+Annex,Malta,1,CO_OCCURS_WITH
+South Africa,Sweden,1,CO_OCCURS_WITH
+South Africa,Switzerland,1,CO_OCCURS_WITH
+South Africa,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Singapore,Sri Lanka,1,CO_OCCURS_WITH
+Singapore,Spain,1,CO_OCCURS_WITH
+Singapore,South Africa,1,CO_OCCURS_WITH
+Saint Kitts,Singapore,1,CO_OCCURS_WITH
+Rwanda,Slovakia,1,CO_OCCURS_WITH
+Rwanda,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Rwanda,South Africa,1,CO_OCCURS_WITH
+Rwanda,Spain,1,CO_OCCURS_WITH
+Rwanda,Sri Lanka,1,CO_OCCURS_WITH
+Rwanda,Sweden,1,CO_OCCURS_WITH
+Rwanda,Switzerland,1,CO_OCCURS_WITH
+Rwanda,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Saint Kitts,Slovakia,1,CO_OCCURS_WITH
+Singapore,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Saint Kitts,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Saint Kitts,South Africa,1,CO_OCCURS_WITH
+Saint Kitts,Spain,1,CO_OCCURS_WITH
+Saint Kitts,Sri Lanka,1,CO_OCCURS_WITH
+Saint Kitts,Sweden,1,CO_OCCURS_WITH
+Saint Kitts,Switzerland,1,CO_OCCURS_WITH
+Saint Kitts,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Singapore,Slovakia,1,CO_OCCURS_WITH
+Spain,Sri Lanka,1,CO_OCCURS_WITH
+Sri Lanka,Sweden,1,CO_OCCURS_WITH
+Rwanda,Saint Kitts,1,CO_OCCURS_WITH
+Sri Lanka,Switzerland,1,CO_OCCURS_WITH
+Kyoto,Yemen,1,CO_OCCURS_WITH
+Kyoto,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Syria,Tajikistan,1,CO_OCCURS_WITH
+Syria,Tanzania,1,CO_OCCURS_WITH
+Syria,Thailand,1,CO_OCCURS_WITH
+Syria,Tobago,1,CO_OCCURS_WITH
+Syria,Tonga Trinidad,1,CO_OCCURS_WITH
+Syria,Tunisia,1,CO_OCCURS_WITH
+Syria,Turkey,1,CO_OCCURS_WITH
+EIT,Kyoto,1,CO_OCCURS_WITH
+Syria,Turkmenistan,1,CO_OCCURS_WITH
+Syria,Tuvalu,1,CO_OCCURS_WITH
+Annex,PaMs,1,CO_OCCURS_WITH
+Syria,Uganda,1,CO_OCCURS_WITH
+Soviet Union,east European,1,CO_OCCURS_WITH
+Syria,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Syria,United Kingdom,1,CO_OCCURS_WITH
+Syria,United States,1,CO_OCCURS_WITH
+Syria,Venezuela,1,CO_OCCURS_WITH
+Kyoto,Vietnam,1,CO_OCCURS_WITH
+Kyoto,Venezuela,1,CO_OCCURS_WITH
+Kyoto,United States,1,CO_OCCURS_WITH
+Kyoto,Tanzania,1,CO_OCCURS_WITH
+Peter Kent,United Nations Climate Change Conference,1,CO_OCCURS_WITH
+Kyoto,United Nations Climate Change Conference,1,CO_OCCURS_WITH
+Sri Lanka,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Sweden,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Kyoto,Peter Kent,1,CO_OCCURS_WITH
+Switzerland,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Kyoto,Syria,1,CO_OCCURS_WITH
+Kyoto,Tajikistan,1,CO_OCCURS_WITH
+Kyoto,Thailand,1,CO_OCCURS_WITH
+Kyoto,United Kingdom,1,CO_OCCURS_WITH
+Kyoto,Tobago,1,CO_OCCURS_WITH
+Kyoto,Tonga Trinidad,1,CO_OCCURS_WITH
+Kyoto,Tunisia,1,CO_OCCURS_WITH
+Canada,United Nations Climate Change Conference,1,CO_OCCURS_WITH
+Kyoto,Turkmenistan,1,CO_OCCURS_WITH
+Kyoto,Tuvalu,1,CO_OCCURS_WITH
+Kyoto,Uganda,1,CO_OCCURS_WITH
+Kyoto,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Rwanda,Singapore,1,CO_OCCURS_WITH
+Russia,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Palau,Switzerland,1,CO_OCCURS_WITH
+Portugal,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Poland,Qatar,1,CO_OCCURS_WITH
+Poland,Rwanda,1,CO_OCCURS_WITH
+Poland,Saint Kitts,1,CO_OCCURS_WITH
+Poland,Singapore,1,CO_OCCURS_WITH
+Poland,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Poland,South Africa,1,CO_OCCURS_WITH
+Poland,Spain,1,CO_OCCURS_WITH
+Poland,Sri Lanka,1,CO_OCCURS_WITH
+Poland,Sweden,1,CO_OCCURS_WITH
+Poland,Switzerland,1,CO_OCCURS_WITH
+Poland,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Portugal,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Portugal,Qatar,1,CO_OCCURS_WITH
+Portugal,Russia,1,CO_OCCURS_WITH
+Portugal,Rwanda,1,CO_OCCURS_WITH
+Portugal,Saint Kitts,1,CO_OCCURS_WITH
+Portugal,Singapore,1,CO_OCCURS_WITH
+Portugal,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Portugal,South Africa,1,CO_OCCURS_WITH
+Poland,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Poland,Portugal,1,CO_OCCURS_WITH
+Philippines,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Philippines,Russia,1,CO_OCCURS_WITH
+Annex,Iran,1,CO_OCCURS_WITH
+Philippines,Poland,1,CO_OCCURS_WITH
+Malta,Turkey,1,CO_OCCURS_WITH
+Philippines,Portugal,1,CO_OCCURS_WITH
+Kyoto,Malta,1,CO_OCCURS_WITH
+Philippines,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Philippines,Qatar,1,CO_OCCURS_WITH
+Philippines,Romania,1,CO_OCCURS_WITH
+Philippines,Rwanda,1,CO_OCCURS_WITH
+Philippines,Switzerland,1,CO_OCCURS_WITH
+Philippines,Saint Kitts,1,CO_OCCURS_WITH
+Philippines,Singapore,1,CO_OCCURS_WITH
+Philippines,Slovakia,1,CO_OCCURS_WITH
+Philippines,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Philippines,South Africa,1,CO_OCCURS_WITH
+Philippines,Spain,1,CO_OCCURS_WITH
+Philippines,Sri Lanka,1,CO_OCCURS_WITH
+Philippines,Sweden,1,CO_OCCURS_WITH
+Portugal,Sri Lanka,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Qatar,1,CO_OCCURS_WITH
+Russia,Switzerland,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Romania,1,CO_OCCURS_WITH
+Qatar,Sweden,1,CO_OCCURS_WITH
+Qatar,Switzerland,1,CO_OCCURS_WITH
+Qatar,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Romania,Rwanda,1,CO_OCCURS_WITH
+Romania,Saint Kitts,1,CO_OCCURS_WITH
+Romania,Singapore,1,CO_OCCURS_WITH
+Romania,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Romania,South Africa,1,CO_OCCURS_WITH
+Romania,Sri Lanka,1,CO_OCCURS_WITH
+Romania,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Russia,Rwanda,1,CO_OCCURS_WITH
+Russia,Saint Kitts,1,CO_OCCURS_WITH
+Belarus,Malta,1,CO_OCCURS_WITH
+Russia,Singapore,1,CO_OCCURS_WITH
+Russia,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Belarus,Kyoto,1,CO_OCCURS_WITH
+Russia,Spain,1,CO_OCCURS_WITH
+Russia,Sri Lanka,1,CO_OCCURS_WITH
+Russia,Sweden,1,CO_OCCURS_WITH
+Qatar,Sri Lanka,1,CO_OCCURS_WITH
+Qatar,Spain,1,CO_OCCURS_WITH
+Qatar,South Africa,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Sri Lanka,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Russia,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Rwanda,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Saint Kitts,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Singapore,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Slovakia,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,South Africa,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Spain,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Sweden,1,CO_OCCURS_WITH
+Qatar,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,Switzerland,1,CO_OCCURS_WITH
+Príncipe Saudi Arabia,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Qatar,Romania,1,CO_OCCURS_WITH
+Qatar,Russia,1,CO_OCCURS_WITH
+Qatar,Rwanda,1,CO_OCCURS_WITH
+Qatar,Saint Kitts,1,CO_OCCURS_WITH
+Qatar,Singapore,1,CO_OCCURS_WITH
+Qatar,Slovakia,1,CO_OCCURS_WITH
+Syria,Vietnam,1,CO_OCCURS_WITH
+Syria,Yemen,1,CO_OCCURS_WITH
+Syria,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+United Kingdom,Vietnam,1,CO_OCCURS_WITH
+Tuvalu,Venezuela,1,CO_OCCURS_WITH
+Tuvalu,Vietnam,1,CO_OCCURS_WITH
+Tuvalu,Yemen,1,CO_OCCURS_WITH
+Tuvalu,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Uganda,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Uganda,United Kingdom,1,CO_OCCURS_WITH
+Uganda,United States,1,CO_OCCURS_WITH
+Uganda,Venezuela,1,CO_OCCURS_WITH
+Uganda,Vietnam,1,CO_OCCURS_WITH
+Uganda,Yemen,1,CO_OCCURS_WITH
+Uganda,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+South Sudan,the United States,1,CO_OCCURS_WITH
+Ukraine United Arab Emirates,United Kingdom,1,CO_OCCURS_WITH
+Ukraine United Arab Emirates,United States,1,CO_OCCURS_WITH
+Ukraine United Arab Emirates,Venezuela,1,CO_OCCURS_WITH
+Ukraine United Arab Emirates,Vietnam,1,CO_OCCURS_WITH
+Ukraine United Arab Emirates,Yemen,1,CO_OCCURS_WITH
+Ukraine United Arab Emirates,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+United Kingdom,United States,1,CO_OCCURS_WITH
+Tuvalu,United States,1,CO_OCCURS_WITH
+Tuvalu,United Kingdom,1,CO_OCCURS_WITH
+Tuvalu,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Turkey,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Aruba,Curaçao,1,CO_OCCURS_WITH
+Turkey,Uganda,1,CO_OCCURS_WITH
+Turkey,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Turkey,United Kingdom,1,CO_OCCURS_WITH
+Turkey,United States,1,CO_OCCURS_WITH
+Turkey,Venezuela,1,CO_OCCURS_WITH
+Turkey,Vietnam,1,CO_OCCURS_WITH
+Turkey,Yemen,1,CO_OCCURS_WITH
+Turkmenistan,Tuvalu,1,CO_OCCURS_WITH
+Tuvalu,Uganda,1,CO_OCCURS_WITH
+Turkmenistan,Uganda,1,CO_OCCURS_WITH
+Turkmenistan,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Turkmenistan,United Kingdom,1,CO_OCCURS_WITH
+Turkmenistan,United States,1,CO_OCCURS_WITH
+Turkmenistan,Venezuela,1,CO_OCCURS_WITH
+Turkmenistan,Vietnam,1,CO_OCCURS_WITH
+Turkmenistan,Yemen,1,CO_OCCURS_WITH
+Turkmenistan,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+United Kingdom,Venezuela,1,CO_OCCURS_WITH
+Palestine,the United States,1,CO_OCCURS_WITH
+Tajikistan,Tanzania,1,CO_OCCURS_WITH
+United Kingdom,Yemen,1,CO_OCCURS_WITH
+Chuck Hagel,Larry Craig,1,CO_OCCURS_WITH
+Chuck Hagel,Pat Roberts,1,CO_OCCURS_WITH
+George W. Bush,Jesse Helms,1,CO_OCCURS_WITH
+George W. Bush,Larry Craig,1,CO_OCCURS_WITH
+George W. Bush,Pat Roberts,1,CO_OCCURS_WITH
+Jesse Helms,Larry Craig,1,CO_OCCURS_WITH
+Jesse Helms,Pat Roberts,1,CO_OCCURS_WITH
+Larry Craig,Pat Roberts,1,CO_OCCURS_WITH
+Canada,South Sudan,1,CO_OCCURS_WITH
+Bush,India,1,CO_OCCURS_WITH
+Bush,U.S.,1,CO_OCCURS_WITH
+China,U.S.,1,CO_OCCURS_WITH
+India,U.S.,1,CO_OCCURS_WITH
+Europeans,Japanese,1,CO_OCCURS_WITH
+Europeans,the White House,1,CO_OCCURS_WITH
+Canada,Palestine,1,CO_OCCURS_WITH
+Japanese,the White House,1,CO_OCCURS_WITH
+Bush,Japan,1,CO_OCCURS_WITH
+Bush,South Africa,1,CO_OCCURS_WITH
+Chuck Hagel,Jesse Helms,1,CO_OCCURS_WITH
+Chuck Hagel,George W. Bush,1,CO_OCCURS_WITH
+Bush,Pat Roberts,1,CO_OCCURS_WITH
+Vietnam,Yemen,1,CO_OCCURS_WITH
+United Kingdom,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+United States,Venezuela,1,CO_OCCURS_WITH
+United States,Vietnam,1,CO_OCCURS_WITH
+United States,Yemen,1,CO_OCCURS_WITH
+United States,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Venezuela,Vietnam,1,CO_OCCURS_WITH
+Venezuela,Yemen,1,CO_OCCURS_WITH
+Venezuela,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Vietnam,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Bush,Larry Craig,1,CO_OCCURS_WITH
+Yemen,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Palestine,South Sudan,1,CO_OCCURS_WITH
+Byrd-Hagel Resolution,Senate,1,CO_OCCURS_WITH
+Byrd-Hagel Resolution,the United States,1,CO_OCCURS_WITH
+Clinton,Senate,1,CO_OCCURS_WITH
+Bush,Chuck Hagel,1,CO_OCCURS_WITH
+Bush,George W. Bush,1,CO_OCCURS_WITH
+Bush,Jesse Helms,1,CO_OCCURS_WITH
+Turkey,Tuvalu,1,CO_OCCURS_WITH
+Turkey,Turkmenistan,1,CO_OCCURS_WITH
+Tunisia,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Tunisia,Yemen,1,CO_OCCURS_WITH
+Tanzania,Tunisia,1,CO_OCCURS_WITH
+Tanzania,Turkey,1,CO_OCCURS_WITH
+Tanzania,Turkmenistan,1,CO_OCCURS_WITH
+Tanzania,Tuvalu,1,CO_OCCURS_WITH
+Tanzania,Uganda,1,CO_OCCURS_WITH
+Tanzania,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Tanzania,United Kingdom,1,CO_OCCURS_WITH
+Tanzania,United States,1,CO_OCCURS_WITH
+Tanzania,Venezuela,1,CO_OCCURS_WITH
+Tanzania,Vietnam,1,CO_OCCURS_WITH
+Tanzania,Yemen,1,CO_OCCURS_WITH
+Tanzania,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Thailand,Tobago,1,CO_OCCURS_WITH
+Thailand,Tonga Trinidad,1,CO_OCCURS_WITH
+Thailand,Tunisia,1,CO_OCCURS_WITH
+Thailand,Turkey,1,CO_OCCURS_WITH
+Thailand,Turkmenistan,1,CO_OCCURS_WITH
+Thailand,Tuvalu,1,CO_OCCURS_WITH
+Thailand,Uganda,1,CO_OCCURS_WITH
+Tanzania,Tonga Trinidad,1,CO_OCCURS_WITH
+Tanzania,Tobago,1,CO_OCCURS_WITH
+Tanzania,Thailand,1,CO_OCCURS_WITH
+Tajikistan,Tuvalu,1,CO_OCCURS_WITH
+Tajikistan,Thailand,1,CO_OCCURS_WITH
+Tajikistan,Tobago,1,CO_OCCURS_WITH
+Tajikistan,Tonga Trinidad,1,CO_OCCURS_WITH
+Tajikistan,Tunisia,1,CO_OCCURS_WITH
+Tajikistan,Turkey,1,CO_OCCURS_WITH
+Tajikistan,Turkmenistan,1,CO_OCCURS_WITH
+GHG,the United States,1,CO_OCCURS_WITH
+Annex,the United States,1,CO_OCCURS_WITH
+Tajikistan,Uganda,1,CO_OCCURS_WITH
+Tajikistan,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Kingdom,the Kingdom of the Netherlands,1,CO_OCCURS_WITH
+Tajikistan,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Curaçao,the Kingdom of the Netherlands,1,CO_OCCURS_WITH
+Tajikistan,United Kingdom,1,CO_OCCURS_WITH
+Tajikistan,United States,1,CO_OCCURS_WITH
+Tajikistan,Venezuela,1,CO_OCCURS_WITH
+Tajikistan,Vietnam,1,CO_OCCURS_WITH
+Tajikistan,Yemen,1,CO_OCCURS_WITH
+Thailand,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Thailand,United Kingdom,1,CO_OCCURS_WITH
+Thailand,United States,1,CO_OCCURS_WITH
+Tunisia,Turkey,1,CO_OCCURS_WITH
+Tonga Trinidad,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Aruba,the Kingdom of the Netherlands,1,CO_OCCURS_WITH
+Tonga Trinidad,United Kingdom,1,CO_OCCURS_WITH
+Tonga Trinidad,United States,1,CO_OCCURS_WITH
+Tonga Trinidad,Venezuela,1,CO_OCCURS_WITH
+Tonga Trinidad,Vietnam,1,CO_OCCURS_WITH
+Tonga Trinidad,Yemen,1,CO_OCCURS_WITH
+Tonga Trinidad,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Tunisia,Turkmenistan,1,CO_OCCURS_WITH
+Tonga Trinidad,Tuvalu,1,CO_OCCURS_WITH
+Tunisia,Tuvalu,1,CO_OCCURS_WITH
+Tunisia,Uganda,1,CO_OCCURS_WITH
+Tunisia,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Tunisia,United Kingdom,1,CO_OCCURS_WITH
+Tunisia,United States,1,CO_OCCURS_WITH
+Tunisia,Venezuela,1,CO_OCCURS_WITH
+Tunisia,Vietnam,1,CO_OCCURS_WITH
+Aruba,Kingdom,1,CO_OCCURS_WITH
+Tonga Trinidad,Uganda,1,CO_OCCURS_WITH
+Tonga Trinidad,Turkmenistan,1,CO_OCCURS_WITH
+Thailand,Venezuela,1,CO_OCCURS_WITH
+Tobago,Tuvalu,1,CO_OCCURS_WITH
+Thailand,Vietnam,1,CO_OCCURS_WITH
+Thailand,Yemen,1,CO_OCCURS_WITH
+Thailand,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Curaçao,Kingdom,1,CO_OCCURS_WITH
+Tobago,Tonga Trinidad,1,CO_OCCURS_WITH
+Tobago,Tunisia,1,CO_OCCURS_WITH
+Tobago,Turkey,1,CO_OCCURS_WITH
+Tobago,Turkmenistan,1,CO_OCCURS_WITH
+Tobago,Uganda,1,CO_OCCURS_WITH
+Tonga Trinidad,Turkey,1,CO_OCCURS_WITH
+Tobago,Ukraine United Arab Emirates,1,CO_OCCURS_WITH
+Tobago,United Kingdom,1,CO_OCCURS_WITH
+Tobago,United States,1,CO_OCCURS_WITH
+Tobago,Venezuela,1,CO_OCCURS_WITH
+Tobago,Vietnam,1,CO_OCCURS_WITH
+Tobago,Yemen,1,CO_OCCURS_WITH
+Tobago,Zambia Zimbabwe Andorra,1,CO_OCCURS_WITH
+Tonga Trinidad,Tunisia,1,CO_OCCURS_WITH
+Palau,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Palau,Sweden,1,CO_OCCURS_WITH
+Montenegro,Norway,1,CO_OCCURS_WITH
+Nepal,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Nepal,Pakistan,1,CO_OCCURS_WITH
+Nepal,Palau,1,CO_OCCURS_WITH
+Nepal,Philippines,1,CO_OCCURS_WITH
+Nepal,Poland,1,CO_OCCURS_WITH
+Nepal,Portugal,1,CO_OCCURS_WITH
+Nepal,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Nepal,Qatar,1,CO_OCCURS_WITH
+Nepal,Romania,1,CO_OCCURS_WITH
+Nepal,Russia,1,CO_OCCURS_WITH
+Nepal,Rwanda,1,CO_OCCURS_WITH
+Nepal,Saint Kitts,1,CO_OCCURS_WITH
+Nepal,Singapore,1,CO_OCCURS_WITH
+Egypt,GHG,1,CO_OCCURS_WITH
+Nepal,Slovakia,1,CO_OCCURS_WITH
+Nepal,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Nepal,South Africa,1,CO_OCCURS_WITH
+Nepal,Spain,1,CO_OCCURS_WITH
+Nepal,Sri Lanka,1,CO_OCCURS_WITH
+Nepal,Sweden,1,CO_OCCURS_WITH
+Nepal,Oman,1,CO_OCCURS_WITH
+Nepal,Norway,1,CO_OCCURS_WITH
+Nepal,Niue North,1,CO_OCCURS_WITH
+Namibia,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Namibia,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Namibia,Qatar,1,CO_OCCURS_WITH
+Namibia,Romania,1,CO_OCCURS_WITH
+Namibia,Russia,1,CO_OCCURS_WITH
+Namibia,Rwanda,1,CO_OCCURS_WITH
+Namibia,Saint Kitts,1,CO_OCCURS_WITH
+Namibia,Singapore,1,CO_OCCURS_WITH
+Namibia,Slovakia,1,CO_OCCURS_WITH
+Namibia,South Africa,1,CO_OCCURS_WITH
+Nepal,Nicaragua,1,CO_OCCURS_WITH
+Namibia,Spain,1,CO_OCCURS_WITH
+Namibia,Sri Lanka,1,CO_OCCURS_WITH
+Namibia,Sweden,1,CO_OCCURS_WITH
+Namibia,Switzerland,1,CO_OCCURS_WITH
+Namibia,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Nepal,Netherlands,1,CO_OCCURS_WITH
+Nepal,Nevis Saint,1,CO_OCCURS_WITH
+Nepal,New Zealand,1,CO_OCCURS_WITH
+Nepal,Switzerland,1,CO_OCCURS_WITH
+Netherlands,Nevis Saint,1,CO_OCCURS_WITH
+Honduras Hungary,Laos,1,CO_OCCURS_WITH
+Netherlands,Nicaragua,1,CO_OCCURS_WITH
+Netherlands,Sri Lanka,1,CO_OCCURS_WITH
+Netherlands,Sweden,1,CO_OCCURS_WITH
+Netherlands,Switzerland,1,CO_OCCURS_WITH
+Netherlands,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Nevis Saint,New Zealand,1,CO_OCCURS_WITH
+Luxembourg,Switzerland,1,CO_OCCURS_WITH
+Luxembourg,Spain,1,CO_OCCURS_WITH
+Nevis Saint,Nicaragua,1,CO_OCCURS_WITH
+Nevis Saint,Niue North,1,CO_OCCURS_WITH
+Lichtenstein,Switzerland,1,CO_OCCURS_WITH
+Lichtenstein,Spain,1,CO_OCCURS_WITH
+Lichtenstein,Norway,1,CO_OCCURS_WITH
+Nevis Saint,Norway,1,CO_OCCURS_WITH
+Nevis Saint,Oman,1,CO_OCCURS_WITH
+Nevis Saint,Pakistan,1,CO_OCCURS_WITH
+Nevis Saint,Palau,1,CO_OCCURS_WITH
+Nevis Saint,Philippines,1,CO_OCCURS_WITH
+Nevis Saint,Poland,1,CO_OCCURS_WITH
+Nevis Saint,Portugal,1,CO_OCCURS_WITH
+China,Egypt,1,CO_OCCURS_WITH
+Netherlands,Spain,1,CO_OCCURS_WITH
+Netherlands,South Africa,1,CO_OCCURS_WITH
+Netherlands,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Netherlands,Niue North,1,CO_OCCURS_WITH
+Netherlands,Oman,1,CO_OCCURS_WITH
+China,Thailand,1,CO_OCCURS_WITH
+China,PBL,1,CO_OCCURS_WITH
+Netherlands,Pakistan,1,CO_OCCURS_WITH
+Netherlands,Palau,1,CO_OCCURS_WITH
+Netherlands,Philippines,1,CO_OCCURS_WITH
+Netherlands,Portugal,1,CO_OCCURS_WITH
+Netherlands,Qatar,1,CO_OCCURS_WITH
+Netherlands,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Netherlands,Romania,1,CO_OCCURS_WITH
+Netherlands,Russia,1,CO_OCCURS_WITH
+Netherlands,Rwanda,1,CO_OCCURS_WITH
+Netherlands,Saint Kitts,1,CO_OCCURS_WITH
+Netherlands,Singapore,1,CO_OCCURS_WITH
+China,Iran,1,CO_OCCURS_WITH
+China,GHG,1,CO_OCCURS_WITH
+Netherlands,Slovakia,1,CO_OCCURS_WITH
+Namibia,Portugal,1,CO_OCCURS_WITH
+Egypt,India,1,CO_OCCURS_WITH
+Annex,South Africa,1,CO_OCCURS_WITH
+Indonesia,Thailand,1,CO_OCCURS_WITH
+Montenegro,South Africa,1,CO_OCCURS_WITH
+Montenegro,Spain,1,CO_OCCURS_WITH
+Montenegro,Sri Lanka,1,CO_OCCURS_WITH
+Montenegro,Sweden,1,CO_OCCURS_WITH
+Montenegro,Switzerland,1,CO_OCCURS_WITH
+Montenegro,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Morocco Mozambique,Namibia,1,CO_OCCURS_WITH
+Morocco Mozambique,Nepal,1,CO_OCCURS_WITH
+Morocco Mozambique,Netherlands,1,CO_OCCURS_WITH
+Morocco Mozambique,Nevis Saint,1,CO_OCCURS_WITH
+Morocco Mozambique,New Zealand,1,CO_OCCURS_WITH
+Morocco Mozambique,Nicaragua,1,CO_OCCURS_WITH
+Morocco Mozambique,Niue North,1,CO_OCCURS_WITH
+Morocco Mozambique,Norway,1,CO_OCCURS_WITH
+Brazil,Indonesia,1,CO_OCCURS_WITH
+Kyoto,the Clean Development Mechanism (CDM,1,CO_OCCURS_WITH
+Morocco Mozambique,Oman,1,CO_OCCURS_WITH
+PBL,Thailand,1,CO_OCCURS_WITH
+Iran,Thailand,1,CO_OCCURS_WITH
+Brazil,Germany,1,CO_OCCURS_WITH
+Montenegro,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Montenegro,Slovakia,1,CO_OCCURS_WITH
+Brazil,Mexico,1,CO_OCCURS_WITH
+Bonn,the US Administration,1,CO_OCCURS_WITH
+Montenegro,Pakistan,1,CO_OCCURS_WITH
+Brazil,the United Kingdom,1,CO_OCCURS_WITH
+Brazil,South Africa,1,CO_OCCURS_WITH
+Montenegro,Palau,1,CO_OCCURS_WITH
+Montenegro,Philippines,1,CO_OCCURS_WITH
+Montenegro,Poland,1,CO_OCCURS_WITH
+Brazil,Russia,1,CO_OCCURS_WITH
+Montenegro,Portugal,1,CO_OCCURS_WITH
+Montenegro,Singapore,1,CO_OCCURS_WITH
+Montenegro,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Montenegro,Qatar,1,CO_OCCURS_WITH
+Montenegro,Romania,1,CO_OCCURS_WITH
+Montenegro,Russia,1,CO_OCCURS_WITH
+Montenegro,Rwanda,1,CO_OCCURS_WITH
+Brazil,Japan,1,CO_OCCURS_WITH
+Brazil,Italy,1,CO_OCCURS_WITH
+Montenegro,Saint Kitts,1,CO_OCCURS_WITH
+Iran,PBL,1,CO_OCCURS_WITH
+Indonesia,PBL,1,CO_OCCURS_WITH
+Egypt,Indonesia,1,CO_OCCURS_WITH
+Morocco Mozambique,Pakistan,1,CO_OCCURS_WITH
+GHG,Iran,1,CO_OCCURS_WITH
+Morocco Mozambique,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+GHG,Indonesia,1,CO_OCCURS_WITH
+Namibia,Nepal,1,CO_OCCURS_WITH
+Namibia,Netherlands,1,CO_OCCURS_WITH
+Namibia,Nevis Saint,1,CO_OCCURS_WITH
+Namibia,New Zealand,1,CO_OCCURS_WITH
+Namibia,Nicaragua,1,CO_OCCURS_WITH
+GHG,India,1,CO_OCCURS_WITH
+Namibia,Niue North,1,CO_OCCURS_WITH
+Egypt,Thailand,1,CO_OCCURS_WITH
+Egypt,PBL,1,CO_OCCURS_WITH
+Namibia,Norway,1,CO_OCCURS_WITH
+Namibia,Oman,1,CO_OCCURS_WITH
+Namibia,Pakistan,1,CO_OCCURS_WITH
+Namibia,Palau,1,CO_OCCURS_WITH
+Namibia,Philippines,1,CO_OCCURS_WITH
+Egypt,Iran,1,CO_OCCURS_WITH
+Namibia,Poland,1,CO_OCCURS_WITH
+Morocco Mozambique,Switzerland,1,CO_OCCURS_WITH
+Morocco Mozambique,Sweden,1,CO_OCCURS_WITH
+Morocco Mozambique,Sri Lanka,1,CO_OCCURS_WITH
+Morocco Mozambique,Qatar,1,CO_OCCURS_WITH
+Morocco Mozambique,Palau,1,CO_OCCURS_WITH
+India,Thailand,1,CO_OCCURS_WITH
+India,PBL,1,CO_OCCURS_WITH
+GHG,Thailand,1,CO_OCCURS_WITH
+Morocco Mozambique,Philippines,1,CO_OCCURS_WITH
+Morocco Mozambique,Poland,1,CO_OCCURS_WITH
+Morocco Mozambique,Portugal,1,CO_OCCURS_WITH
+Morocco Mozambique,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Morocco Mozambique,Romania,1,CO_OCCURS_WITH
+Morocco Mozambique,Spain,1,CO_OCCURS_WITH
+Morocco Mozambique,Russia,1,CO_OCCURS_WITH
+Morocco Mozambique,Rwanda,1,CO_OCCURS_WITH
+Morocco Mozambique,Saint Kitts,1,CO_OCCURS_WITH
+Morocco Mozambique,Singapore,1,CO_OCCURS_WITH
+Morocco Mozambique,Slovakia,1,CO_OCCURS_WITH
+GHG,PBL,1,CO_OCCURS_WITH
+Morocco Mozambique,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Morocco Mozambique,South Africa,1,CO_OCCURS_WITH
+Lichtenstein,Luxembourg,1,CO_OCCURS_WITH
+Nevis Saint,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Nevis Saint,Qatar,1,CO_OCCURS_WITH
+Oman,Slovakia,1,CO_OCCURS_WITH
+Norway,Singapore,1,CO_OCCURS_WITH
+Norway,Slovakia,1,CO_OCCURS_WITH
+Norway,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Norway,South Africa,1,CO_OCCURS_WITH
+Australia,George W. Bush,1,CO_OCCURS_WITH
+Norway,Sri Lanka,1,CO_OCCURS_WITH
+Norway,Sweden,1,CO_OCCURS_WITH
+Norway,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Oman,Pakistan,1,CO_OCCURS_WITH
+Oman,Palau,1,CO_OCCURS_WITH
+Oman,Philippines,1,CO_OCCURS_WITH
+Oman,Poland,1,CO_OCCURS_WITH
+Oman,Portugal,1,CO_OCCURS_WITH
+Oman,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Oman,Qatar,1,CO_OCCURS_WITH
+Oman,Romania,1,CO_OCCURS_WITH
+Oman,Russia,1,CO_OCCURS_WITH
+Oman,Rwanda,1,CO_OCCURS_WITH
+Oman,Saint Kitts,1,CO_OCCURS_WITH
+Norway,Saint Kitts,1,CO_OCCURS_WITH
+Norway,Rwanda,1,CO_OCCURS_WITH
+Norway,Russia,1,CO_OCCURS_WITH
+Niue North,Sweden,1,CO_OCCURS_WITH
+Niue North,Rwanda,1,CO_OCCURS_WITH
+Niue North,Saint Kitts,1,CO_OCCURS_WITH
+Niue North,Singapore,1,CO_OCCURS_WITH
+Niue North,Slovakia,1,CO_OCCURS_WITH
+Niue North,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Niue North,South Africa,1,CO_OCCURS_WITH
+Niue North,Spain,1,CO_OCCURS_WITH
+Niue North,Sri Lanka,1,CO_OCCURS_WITH
+Niue North,Switzerland,1,CO_OCCURS_WITH
+Norway,Romania,1,CO_OCCURS_WITH
+Niue North,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Norway,Oman,1,CO_OCCURS_WITH
+Norway,Pakistan,1,CO_OCCURS_WITH
+Norway,Palau,1,CO_OCCURS_WITH
+Norway,Philippines,1,CO_OCCURS_WITH
+Norway,Portugal,1,CO_OCCURS_WITH
+Norway,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Norway,Qatar,1,CO_OCCURS_WITH
+Oman,Singapore,1,CO_OCCURS_WITH
+Oman,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Japan,Switzerland,1,CO_OCCURS_WITH
+Oman,South Africa,1,CO_OCCURS_WITH
+Pakistan,Switzerland,1,CO_OCCURS_WITH
+Pakistan,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Palau,Philippines,1,CO_OCCURS_WITH
+Palau,Poland,1,CO_OCCURS_WITH
+Palau,Portugal,1,CO_OCCURS_WITH
+Palau,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Palau,Qatar,1,CO_OCCURS_WITH
+Palau,Romania,1,CO_OCCURS_WITH
+Gupta,Kyoto,1,CO_OCCURS_WITH
+Palau,Russia,1,CO_OCCURS_WITH
+Palau,Rwanda,1,CO_OCCURS_WITH
+Palau,Saint Kitts,1,CO_OCCURS_WITH
+Palau,Singapore,1,CO_OCCURS_WITH
+Palau,Slovakia,1,CO_OCCURS_WITH
+Palau,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Palau,South Africa,1,CO_OCCURS_WITH
+Palau,Spain,1,CO_OCCURS_WITH
+Iran,South Africa,1,CO_OCCURS_WITH
+Palau,Sri Lanka,1,CO_OCCURS_WITH
+Pakistan,Sweden,1,CO_OCCURS_WITH
+Pakistan,Sri Lanka,1,CO_OCCURS_WITH
+Pakistan,Spain,1,CO_OCCURS_WITH
+Pakistan,Portugal,1,CO_OCCURS_WITH
+Oman,Spain,1,CO_OCCURS_WITH
+Oman,Sri Lanka,1,CO_OCCURS_WITH
+Oman,Sweden,1,CO_OCCURS_WITH
+Oman,Switzerland,1,CO_OCCURS_WITH
+Oman,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Pakistan,Palau,1,CO_OCCURS_WITH
+Pakistan,Philippines,1,CO_OCCURS_WITH
+Pakistan,Poland,1,CO_OCCURS_WITH
+Pakistan,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Pakistan,South Africa,1,CO_OCCURS_WITH
+Pakistan,Qatar,1,CO_OCCURS_WITH
+Pakistan,Romania,1,CO_OCCURS_WITH
+Pakistan,Russia,1,CO_OCCURS_WITH
+Pakistan,Rwanda,1,CO_OCCURS_WITH
+Pakistan,Saint Kitts,1,CO_OCCURS_WITH
+Pakistan,Singapore,1,CO_OCCURS_WITH
+Pakistan,Slovakia,1,CO_OCCURS_WITH
+Pakistan,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Niue North,Russia,1,CO_OCCURS_WITH
+Niue North,Romania,1,CO_OCCURS_WITH
+Niue North,Qatar,1,CO_OCCURS_WITH
+Niue North,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Austria,Lichtenstein,1,CO_OCCURS_WITH
+Nevis Saint,Switzerland,1,CO_OCCURS_WITH
+Austria,Japan,1,CO_OCCURS_WITH
+Austria,Iceland,1,CO_OCCURS_WITH
+Austria,Denmark,1,CO_OCCURS_WITH
+Australia,Kevin Rudd,1,CO_OCCURS_WITH
+Nevis Saint,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+John Howard,The United States,1,CO_OCCURS_WITH
+New Zealand,Nicaragua,1,CO_OCCURS_WITH
+New Zealand,Niue North,1,CO_OCCURS_WITH
+New Zealand,Oman,1,CO_OCCURS_WITH
+George W. Bush,The United States,1,CO_OCCURS_WITH
+New Zealand,Pakistan,1,CO_OCCURS_WITH
+George W. Bush,John Howard,1,CO_OCCURS_WITH
+New Zealand,Palau,1,CO_OCCURS_WITH
+New Zealand,Philippines,1,CO_OCCURS_WITH
+New Zealand,Portugal,1,CO_OCCURS_WITH
+New Zealand,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+New Zealand,Qatar,1,CO_OCCURS_WITH
+Austria,Luxembourg,1,CO_OCCURS_WITH
+Nevis Saint,Sweden,1,CO_OCCURS_WITH
+Nevis Saint,Sri Lanka,1,CO_OCCURS_WITH
+Nevis Saint,Rwanda,1,CO_OCCURS_WITH
+Nevis Saint,Romania,1,CO_OCCURS_WITH
+Japan,Spain,1,CO_OCCURS_WITH
+Japan,Lichtenstein,1,CO_OCCURS_WITH
+Iceland,Spain,1,CO_OCCURS_WITH
+Iceland,Lichtenstein,1,CO_OCCURS_WITH
+Denmark,Switzerland,1,CO_OCCURS_WITH
+Denmark,Spain,1,CO_OCCURS_WITH
+Nevis Saint,Russia,1,CO_OCCURS_WITH
+Denmark,Lichtenstein,1,CO_OCCURS_WITH
+Austria,Norway,1,CO_OCCURS_WITH
+Nevis Saint,Saint Kitts,1,CO_OCCURS_WITH
+Nevis Saint,Singapore,1,CO_OCCURS_WITH
+Austria,Switzerland,1,CO_OCCURS_WITH
+Nevis Saint,Slovakia,1,CO_OCCURS_WITH
+Nevis Saint,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Nevis Saint,South Africa,1,CO_OCCURS_WITH
+Austria,Spain,1,CO_OCCURS_WITH
+Nevis Saint,Spain,1,CO_OCCURS_WITH
+New Zealand,Romania,1,CO_OCCURS_WITH
+Australia,The United States,1,CO_OCCURS_WITH
+New Zealand,Rwanda,1,CO_OCCURS_WITH
+Nicaragua,Sweden,1,CO_OCCURS_WITH
+Nicaragua,Rwanda,1,CO_OCCURS_WITH
+Nicaragua,Saint Kitts,1,CO_OCCURS_WITH
+Nicaragua,Singapore,1,CO_OCCURS_WITH
+Nicaragua,Slovakia,1,CO_OCCURS_WITH
+Nicaragua,Solomon Islands Somalia,1,CO_OCCURS_WITH
+Nicaragua,South Africa,1,CO_OCCURS_WITH
+Nicaragua,Spain,1,CO_OCCURS_WITH
+Nicaragua,Sri Lanka,1,CO_OCCURS_WITH
+Nicaragua,Switzerland,1,CO_OCCURS_WITH
+Nicaragua,Romania,1,CO_OCCURS_WITH
+Nicaragua,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+Niue North,Norway,1,CO_OCCURS_WITH
+Niue North,Oman,1,CO_OCCURS_WITH
+Niue North,Pakistan,1,CO_OCCURS_WITH
+Niue North,Palau,1,CO_OCCURS_WITH
+Niue North,Philippines,1,CO_OCCURS_WITH
+Niue North,Poland,1,CO_OCCURS_WITH
+Niue North,Portugal,1,CO_OCCURS_WITH
+Nicaragua,Russia,1,CO_OCCURS_WITH
+Nicaragua,Qatar,1,CO_OCCURS_WITH
+New Zealand,Saint Kitts,1,CO_OCCURS_WITH
+New Zealand,the Grenadines Samoa San Marino São Tomé,1,CO_OCCURS_WITH
+New Zealand,Singapore,1,CO_OCCURS_WITH
+New Zealand,Slovakia,1,CO_OCCURS_WITH
+New Zealand,Solomon Islands Somalia,1,CO_OCCURS_WITH
+New Zealand,South Africa,1,CO_OCCURS_WITH
+New Zealand,Spain,1,CO_OCCURS_WITH
+New Zealand,Sri Lanka,1,CO_OCCURS_WITH
+New Zealand,Sweden,1,CO_OCCURS_WITH
+New Zealand,Switzerland,1,CO_OCCURS_WITH
+Nicaragua,Niue North,1,CO_OCCURS_WITH
+Nicaragua,Príncipe Saudi Arabia,1,CO_OCCURS_WITH
+Nicaragua,Norway,1,CO_OCCURS_WITH
+Nicaragua,Oman,1,CO_OCCURS_WITH
+Nicaragua,Pakistan,1,CO_OCCURS_WITH
+Nicaragua,Palau,1,CO_OCCURS_WITH
+Nicaragua,Philippines,1,CO_OCCURS_WITH
+Nicaragua,Poland,1,CO_OCCURS_WITH
+Australia,John Howard,1,CO_OCCURS_WITH
+Nicaragua,Portugal,1,CO_OCCURS_WITH
+Honduras Hungary,Latvia,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Indonesia,1,CO_OCCURS_WITH
+Honduras Hungary,Kyrgyzstan,1,CO_OCCURS_WITH
+Eric Garcetti,Los Angeles,1,CO_OCCURS_WITH
+Eric Garcetti,Philadelphia,1,CO_OCCURS_WITH
+Eric Garcetti,The Mayors National Climate Action Agenda,1,CO_OCCURS_WITH
+Houston,Los Angeles,1,CO_OCCURS_WITH
+Houston,Michael Nutter,1,CO_OCCURS_WITH
+Houston,Philadelphia,1,CO_OCCURS_WITH
+Houston,The Mayors National Climate Action Agenda,1,CO_OCCURS_WITH
+Los Angeles,Michael Nutter,1,CO_OCCURS_WITH
+Los Angeles,Philadelphia,1,CO_OCCURS_WITH
+Los Angeles,The Mayors National Climate Action Agenda,1,CO_OCCURS_WITH
+Michael Nutter,Philadelphia,1,CO_OCCURS_WITH
+Michael Nutter,The Mayors National Climate Action Agenda,1,CO_OCCURS_WITH
+Philadelphia,The Mayors National Climate Action Agenda,1,CO_OCCURS_WITH
+the Paris Agreement,the United States,1,CO_OCCURS_WITH
+The United States Climate Alliance,Trump,1,CO_OCCURS_WITH
+The United States Climate Alliance,the Paris Agreement,1,CO_OCCURS_WITH
+Trump,the Paris Agreement,1,CO_OCCURS_WITH
+AB 32,The California Global Warming Solutions Act,1,CO_OCCURS_WITH
+The Environmental Defense Fund,the Air Resources Board,1,CO_OCCURS_WITH
+California,Connecticut,1,CO_OCCURS_WITH
+Eric Garcetti,Michael Nutter,1,CO_OCCURS_WITH
+Eric Garcetti,Houston,1,CO_OCCURS_WITH
+Congress,Republican,1,CO_OCCURS_WITH
+Annise Parker,The Mayors National Climate Action Agenda,1,CO_OCCURS_WITH
+Republicans,the Center for American Progress Action Fund,1,CO_OCCURS_WITH
+Republicans,the United States Congress,1,CO_OCCURS_WITH
+the Center for American Progress Action Fund,the United States Congress,1,CO_OCCURS_WITH
+GOP,Luntz Global,1,CO_OCCURS_WITH
+GOP,Republican,1,CO_OCCURS_WITH
+Luntz Global,Republican,1,CO_OCCURS_WITH
+Citizens for Responsible Energy Solutions and Young Conservatives For Carbon,Republicans,1,CO_OCCURS_WITH
+Citizens for Responsible Energy Solutions and Young Conservatives For Carbon,YCCD,1,CO_OCCURS_WITH
+Republicans,YCCD,1,CO_OCCURS_WITH
+The Green Party,the United States,1,CO_OCCURS_WITH
+Greens,the Green Party,1,CO_OCCURS_WITH
+God,The Constitution Party,1,CO_OCCURS_WITH
+God,the 2014 Platform,1,CO_OCCURS_WITH
+The Constitution Party,the 2014 Platform,1,CO_OCCURS_WITH
+Annise Parker,Eric Garcetti,1,CO_OCCURS_WITH
+Annise Parker,Houston,1,CO_OCCURS_WITH
+Annise Parker,Los Angeles,1,CO_OCCURS_WITH
+Annise Parker,Michael Nutter,1,CO_OCCURS_WITH
+Annise Parker,Philadelphia,1,CO_OCCURS_WITH
+California,Maine,1,CO_OCCURS_WITH
+California,Massachusetts,1,CO_OCCURS_WITH
+California,New Jersey,1,CO_OCCURS_WITH
+California,New York,1,CO_OCCURS_WITH
+Connecticut,Robert Ehrlich,1,CO_OCCURS_WITH
+Connecticut,Vermont,1,CO_OCCURS_WITH
+Delaware,Maine,1,CO_OCCURS_WITH
+Delaware,Maryland,1,CO_OCCURS_WITH
+Delaware,New Hampshire,1,CO_OCCURS_WITH
+Delaware,New Jersey,1,CO_OCCURS_WITH
+Delaware,New York,1,CO_OCCURS_WITH
+Delaware,Robert Ehrlich,1,CO_OCCURS_WITH
+Delaware,Vermont,1,CO_OCCURS_WITH
+Maine,Maryland,1,CO_OCCURS_WITH
+Maine,New Hampshire,1,CO_OCCURS_WITH
+Maine,Robert Ehrlich,1,CO_OCCURS_WITH
+Maine,Vermont,1,CO_OCCURS_WITH
+Maryland,New Hampshire,1,CO_OCCURS_WITH
+Maryland,New Jersey,1,CO_OCCURS_WITH
+Maryland,New York,1,CO_OCCURS_WITH
+Maryland,Robert Ehrlich,1,CO_OCCURS_WITH
+Maryland,Vermont,1,CO_OCCURS_WITH
+New Hampshire,New Jersey,1,CO_OCCURS_WITH
+Connecticut,New Hampshire,1,CO_OCCURS_WITH
+Connecticut,Maryland,1,CO_OCCURS_WITH
+Connecticut,Delaware,1,CO_OCCURS_WITH
+Massachusetts,New Jersey,1,CO_OCCURS_WITH
+Connecticut,Massachusetts,1,CO_OCCURS_WITH
+Connecticut,New Mexico,1,CO_OCCURS_WITH
+Connecticut,Oregon,1,CO_OCCURS_WITH
+Connecticut,Washington,1,CO_OCCURS_WITH
+Maine,Massachusetts,1,CO_OCCURS_WITH
+Maine,New Mexico,1,CO_OCCURS_WITH
+Maine,Oregon,1,CO_OCCURS_WITH
+Maine,Washington,1,CO_OCCURS_WITH
+Massachusetts,New Mexico,1,CO_OCCURS_WITH
+New York,Washington,1,CO_OCCURS_WITH
+Massachusetts,New York,1,CO_OCCURS_WITH
+Massachusetts,Oregon,1,CO_OCCURS_WITH
+Massachusetts,Washington,1,CO_OCCURS_WITH
+New Jersey,New Mexico,1,CO_OCCURS_WITH
+New Jersey,Oregon,1,CO_OCCURS_WITH
+New Jersey,Washington,1,CO_OCCURS_WITH
+New Mexico,New York,1,CO_OCCURS_WITH
+New York,Oregon,1,CO_OCCURS_WITH
+PolitiFact,Republican,1,CO_OCCURS_WITH
+Congress,PolitiFact,1,CO_OCCURS_WITH
+Manitoba,the Southwest Climate Change Initiative,1,CO_OCCURS_WITH
+Utah,the Southwest Climate Change Initiative,1,CO_OCCURS_WITH
+EPA,Massachusetts,1,CO_OCCURS_WITH
+EPA,the United States,1,CO_OCCURS_WITH
+EPA,the United States Environmental Protection Agency,1,CO_OCCURS_WITH
+Massachusetts,the Supreme Court,1,CO_OCCURS_WITH
+Massachusetts,the United States,1,CO_OCCURS_WITH
+Massachusetts,the United States Environmental Protection Agency,1,CO_OCCURS_WITH
+the Supreme Court,the United States,1,CO_OCCURS_WITH
+the Supreme Court,the United States Environmental Protection Agency,1,CO_OCCURS_WITH
+the United States,the United States Environmental Protection Agency,1,CO_OCCURS_WITH
+Bill Lockyer,California,1,CO_OCCURS_WITH
+Bill Lockyer,General Motors Corp.,1,CO_OCCURS_WITH
+California,General Motors Corp.,1,CO_OCCURS_WITH
+Gerald Maples,Mississippi,1,CO_OCCURS_WITH
+Gerald Maples,Murphy Oil,1,CO_OCCURS_WITH
+Mississippi,Murphy Oil,1,CO_OCCURS_WITH
+New York City,U.S.,1,CO_OCCURS_WITH
+New York City,United States,1,CO_OCCURS_WITH
+New York City,the United States Supreme Court,1,CO_OCCURS_WITH
+U.S.,United States,1,CO_OCCURS_WITH
+Washington,the Southwest Climate Change Initiative,1,CO_OCCURS_WITH
+Utah,Washington,1,CO_OCCURS_WITH
+NBC News,Republicans,1,CO_OCCURS_WITH
+Quebec,the Southwest Climate Change Initiative,1,CO_OCCURS_WITH
+Montana,Ontario,1,CO_OCCURS_WITH
+Montana,Oregon,1,CO_OCCURS_WITH
+Montana,Quebec,1,CO_OCCURS_WITH
+Montana,Utah,1,CO_OCCURS_WITH
+Montana,Washington,1,CO_OCCURS_WITH
+Montana,the Southwest Climate Change Initiative,1,CO_OCCURS_WITH
+New Mexico,Ontario,1,CO_OCCURS_WITH
+New Mexico,Quebec,1,CO_OCCURS_WITH
+New Mexico,Utah,1,CO_OCCURS_WITH
+Ontario,Oregon,1,CO_OCCURS_WITH
+Ontario,Quebec,1,CO_OCCURS_WITH
+Ontario,Utah,1,CO_OCCURS_WITH
+Ontario,Washington,1,CO_OCCURS_WITH
+Ontario,the Southwest Climate Change Initiative,1,CO_OCCURS_WITH
+Oregon,Quebec,1,CO_OCCURS_WITH
+Oregon,Utah,1,CO_OCCURS_WITH
+Oregon,the Southwest Climate Change Initiative,1,CO_OCCURS_WITH
+Quebec,Utah,1,CO_OCCURS_WITH
+Quebec,Washington,1,CO_OCCURS_WITH
+U.S.,the United States Supreme Court,1,CO_OCCURS_WITH
+United States,the United States Supreme Court,1,CO_OCCURS_WITH
+the Environmental Protection Agency,the United States Clean Air Act,1,CO_OCCURS_WITH
+Montana,the United States,1,CO_OCCURS_WITH
+America,Democrats,1,CO_OCCURS_WITH
+Congress,Democrats,1,CO_OCCURS_WITH
+Congress,the American Clean Energy and Security Act,1,CO_OCCURS_WITH
+Democrats,the American Clean Energy and Security Act,1,CO_OCCURS_WITH
+Barack Obama,EPA,1,CO_OCCURS_WITH
+Barack Obama,Environmental Protection Agency,1,CO_OCCURS_WITH
+Chinese,Donald Trump,1,CO_OCCURS_WITH
+Chinese,the United States,1,CO_OCCURS_WITH
+Donald Trump,the United States,1,CO_OCCURS_WITH
+The New York Times,the Republican Party,1,CO_OCCURS_WITH
+House,Judith Warner,1,CO_OCCURS_WITH
+House,Republicans,1,CO_OCCURS_WITH
+House,The New York Times Magazine,1,CO_OCCURS_WITH
+Judith Warner,Republican,1,CO_OCCURS_WITH
+Judith Warner,Republicans,1,CO_OCCURS_WITH
+Judith Warner,The New York Times Magazine,1,CO_OCCURS_WITH
+Republican,Republicans,1,CO_OCCURS_WITH
+Republican,The New York Times Magazine,1,CO_OCCURS_WITH
+Republicans,The New York Times Magazine,1,CO_OCCURS_WITH
+the Green Party,the Libertarian Party,1,CO_OCCURS_WITH
+the Constitution Party,the Libertarian Party,1,CO_OCCURS_WITH
+the Constitution Party,the Green Party,1,CO_OCCURS_WITH
+Exxon Mobil,Shell,1,CO_OCCURS_WITH
+Montana,Supreme Court,1,CO_OCCURS_WITH
+Chevron,Exxon Mobil,1,CO_OCCURS_WITH
+Chevron,Multnomah County,1,CO_OCCURS_WITH
+Chevron,Oregon,1,CO_OCCURS_WITH
+Chevron,Shell,1,CO_OCCURS_WITH
+Chevron,the Western States Petroleum Association,1,CO_OCCURS_WITH
+Exxon Mobil,Multnomah County,1,CO_OCCURS_WITH
+Exxon Mobil,Oregon,1,CO_OCCURS_WITH
+Exxon Mobil,the Western States Petroleum Association,1,CO_OCCURS_WITH
+Environmental Protection Agency,The Republican Party,1,CO_OCCURS_WITH
+Multnomah County,Oregon,1,CO_OCCURS_WITH
+Multnomah County,Shell,1,CO_OCCURS_WITH
+Multnomah County,the Western States Petroleum Association,1,CO_OCCURS_WITH
+Oregon,Shell,1,CO_OCCURS_WITH
+Oregon,the Western States Petroleum Association,1,CO_OCCURS_WITH
+Shell,the Western States Petroleum Association,1,CO_OCCURS_WITH
+Multnomah County,the Center for Climate Integrity,1,CO_OCCURS_WITH
+EPA,The Republican Party,1,CO_OCCURS_WITH
+New Hampshire,New York,1,CO_OCCURS_WITH
+New Hampshire,Robert Ehrlich,1,CO_OCCURS_WITH
+New Hampshire,Vermont,1,CO_OCCURS_WITH
+Canada,Canadian,1,CO_OCCURS_WITH
+Rio de Janeiro,The UN Conference on the Environment and Development,1,CO_OCCURS_WITH
+Rio de Janeiro,the Paris Agreement,1,CO_OCCURS_WITH
+The UN Conference on the Environment and Development,UNFCCC,1,CO_OCCURS_WITH
+The UN Conference on the Environment and Development,the Paris Agreement,1,CO_OCCURS_WITH
+UNFCCC,the Paris Agreement,1,CO_OCCURS_WITH
+UNFCCC,the Framework Convention on Climate Change,1,CO_OCCURS_WITH
+Berlin,COP,1,CO_OCCURS_WITH
+Berlin,UNFCCC,1,CO_OCCURS_WITH
+Russia,UNFCCC,1,CO_OCCURS_WITH
+COP,the United Nations Framework Convention on Climate Change,1,CO_OCCURS_WITH
+IET,Joint Implementation (JI,1,CO_OCCURS_WITH
+IET,the Clean Development Mechanism (CDM,1,CO_OCCURS_WITH
+Joint Implementation (JI,the Clean Development Mechanism (CDM,1,CO_OCCURS_WITH
+Annex,IET,1,CO_OCCURS_WITH
+CDM,IET,1,CO_OCCURS_WITH
+Annex,UNFCCC,1,CO_OCCURS_WITH
+CDM Executive Board,GHG,1,CO_OCCURS_WITH
+CO2,China,1,CO_OCCURS_WITH
+Kyoto,the European Union Emissions Trading Scheme,1,CO_OCCURS_WITH
+Canadian,Peter Kent,1,CO_OCCURS_WITH
+Ukraine,the European Union,1,CO_OCCURS_WITH
+New Jersey,Robert Ehrlich,1,CO_OCCURS_WITH
+Switzerland,the European Union,1,CO_OCCURS_WITH
+Australia,Kazakhstan,1,CO_OCCURS_WITH
+Australia,Liechtenstein,1,CO_OCCURS_WITH
+Australia,Norway,1,CO_OCCURS_WITH
+Australia,Switzerland,1,CO_OCCURS_WITH
+Australia,Ukraine,1,CO_OCCURS_WITH
+Belarus,Iceland,1,CO_OCCURS_WITH
+Belarus,Liechtenstein,1,CO_OCCURS_WITH
+Belarus,Norway,1,CO_OCCURS_WITH
+Belarus,Switzerland,1,CO_OCCURS_WITH
+Belarus,the European Union,1,CO_OCCURS_WITH
+Iceland,Ukraine,1,CO_OCCURS_WITH
+Kazakhstan,Norway,1,CO_OCCURS_WITH
+Kazakhstan,Switzerland,1,CO_OCCURS_WITH
+Kazakhstan,the European Union,1,CO_OCCURS_WITH
+Liechtenstein,Switzerland,1,CO_OCCURS_WITH
+Liechtenstein,Ukraine,1,CO_OCCURS_WITH
+Liechtenstein,the European Union,1,CO_OCCURS_WITH
+Norway,Ukraine,1,CO_OCCURS_WITH
+Norway,the European Union,1,CO_OCCURS_WITH
+Belarus,EIT,1,CO_OCCURS_WITH
+Belarus,Estonia,1,CO_OCCURS_WITH
+Belarus,Hungary,1,CO_OCCURS_WITH
+Belarus,Latvia,1,CO_OCCURS_WITH
+Croatia,Latvia,1,CO_OCCURS_WITH
+Croatia,Lithuania,1,CO_OCCURS_WITH
+Croatia,OECD,1,CO_OCCURS_WITH
+Croatia,Poland,1,CO_OCCURS_WITH
+Croatia,Romania,1,CO_OCCURS_WITH
+Croatia,Russia,1,CO_OCCURS_WITH
+Croatia,Slovakia,1,CO_OCCURS_WITH
+Croatia,Slovenia,1,CO_OCCURS_WITH
+Croatia,Ukraine,1,CO_OCCURS_WITH
+Czech Republic,EIT,1,CO_OCCURS_WITH
+Czech Republic,Estonia,1,CO_OCCURS_WITH
+Czech Republic,Hungary,1,CO_OCCURS_WITH
+Czech Republic,Latvia,1,CO_OCCURS_WITH
+Czech Republic,Lithuania,1,CO_OCCURS_WITH
+Czech Republic,OECD,1,CO_OCCURS_WITH
+Czech Republic,Poland,1,CO_OCCURS_WITH
+Czech Republic,Romania,1,CO_OCCURS_WITH
+Czech Republic,Russia,1,CO_OCCURS_WITH
+Czech Republic,Slovakia,1,CO_OCCURS_WITH
+Croatia,Hungary,1,CO_OCCURS_WITH
+Croatia,Estonia,1,CO_OCCURS_WITH
+Croatia,EIT,1,CO_OCCURS_WITH
+Bulgaria,Estonia,1,CO_OCCURS_WITH
+Belarus,Lithuania,1,CO_OCCURS_WITH
+Belarus,OECD,1,CO_OCCURS_WITH
+Belarus,Poland,1,CO_OCCURS_WITH
+Belarus,Romania,1,CO_OCCURS_WITH
+Belarus,Russia,1,CO_OCCURS_WITH
+Belarus,Slovakia,1,CO_OCCURS_WITH
+Belarus,Slovenia,1,CO_OCCURS_WITH
+Bulgaria,EIT,1,CO_OCCURS_WITH
+Bulgaria,Hungary,1,CO_OCCURS_WITH
+Bulgaria,Ukraine,1,CO_OCCURS_WITH
+Bulgaria,Latvia,1,CO_OCCURS_WITH
+Bulgaria,Lithuania,1,CO_OCCURS_WITH
+Bulgaria,OECD,1,CO_OCCURS_WITH
+Bulgaria,Poland,1,CO_OCCURS_WITH
+Bulgaria,Romania,1,CO_OCCURS_WITH
+Bulgaria,Russia,1,CO_OCCURS_WITH
+Bulgaria,Slovakia,1,CO_OCCURS_WITH
+Bulgaria,Slovenia,1,CO_OCCURS_WITH
+Australia,Iceland,1,CO_OCCURS_WITH
+Nitrogen,the Doha Round,1,CO_OCCURS_WITH
+Annex,CH4,1,CO_OCCURS_WITH
+New Mexico,Western,1,CO_OCCURS_WITH
+Diversified Energy Initiative,WGA,1,CO_OCCURS_WITH
+The Western Governors' Association,WGA,1,CO_OCCURS_WITH
+Freudenthal,Governors Richardson,1,CO_OCCURS_WITH
+Freudenthal,Schwarzenegger,1,CO_OCCURS_WITH
+Governors Richardson,Schwarzenegger,1,CO_OCCURS_WITH
+WGA,the California Energy Commission,1,CO_OCCURS_WITH
+WGA,the Western Renewable Energy Generation Information State,1,CO_OCCURS_WITH
+the California Energy Commission,the Western Renewable Energy Generation Information State,1,CO_OCCURS_WITH
+Arizona,the Climate Change Advisory Group's,1,CO_OCCURS_WITH
+Janet Napolitano,the Climate Change Advisory Group's,1,CO_OCCURS_WITH
+California,the Western Coast Governors',1,CO_OCCURS_WITH
+GHG,Oregon,1,CO_OCCURS_WITH
+GHG,Washington,1,CO_OCCURS_WITH
+GHG,the Western Coast Governors',1,CO_OCCURS_WITH
+Oregon,the Western Coast Governors',1,CO_OCCURS_WITH
+Washington,the Western Coast Governors',1,CO_OCCURS_WITH
+Arizona,Western,1,CO_OCCURS_WITH
+Arizona,the Western Regional Climate Action Initiative,1,CO_OCCURS_WITH
+California,Western,1,CO_OCCURS_WITH
+Diversified Energy Initiative,The Western Governors' Association,1,CO_OCCURS_WITH
+Ralph Northam,Virginia,1,CO_OCCURS_WITH
+Phil Murphy,Virginia,1,CO_OCCURS_WITH
+Massachusetts,Pennsylvania,1,CO_OCCURS_WITH
+New Jersey,Vermont,1,CO_OCCURS_WITH
+New York,Robert Ehrlich,1,CO_OCCURS_WITH
+New York,Vermont,1,CO_OCCURS_WITH
+Robert Ehrlich,Vermont,1,CO_OCCURS_WITH
+GHG,Massachusetts,1,CO_OCCURS_WITH
+GHG,Pennsylvania,1,CO_OCCURS_WITH
+GHG,Rhode Island,1,CO_OCCURS_WITH
+GHG,the Eastern Climate Registry,1,CO_OCCURS_WITH
+Massachusetts,Rhode Island,1,CO_OCCURS_WITH
+Phil Murphy,Ralph Northam,1,CO_OCCURS_WITH
+Massachusetts,the Eastern Climate Registry,1,CO_OCCURS_WITH
+Pennsylvania,Rhode Island,1,CO_OCCURS_WITH
+Pennsylvania,the Eastern Climate Registry,1,CO_OCCURS_WITH
+Rhode Island,the Eastern Climate Registry,1,CO_OCCURS_WITH
+Acadia Center,New Jersey's,1,CO_OCCURS_WITH
+New Jersey,Phil Murphy,1,CO_OCCURS_WITH
+New Jersey,Ralph Northam,1,CO_OCCURS_WITH
+New Jersey,Virginia,1,CO_OCCURS_WITH
+California,the Western Regional Climate Action Initiative,1,CO_OCCURS_WITH
+New Mexico,the Western Regional Climate Action Initiative,1,CO_OCCURS_WITH
+UNFCCC,United Nations Framework Convention on Climate Change,1,CO_OCCURS_WITH
+Oregon,Western,1,CO_OCCURS_WITH
+Minnesota,the Canadian Province,1,CO_OCCURS_WITH
+Wisconsin,the Canadian Province,1,CO_OCCURS_WITH
+ICLEI,New York,1,CO_OCCURS_WITH
+ICLEI,the United Nations,1,CO_OCCURS_WITH
+American,Americans,1,CO_OCCURS_WITH
+American,Greg Nickels,1,CO_OCCURS_WITH
+American,Seattle,1,CO_OCCURS_WITH
+Americans,Greg Nickels,1,CO_OCCURS_WITH
+Americans,Seattle,1,CO_OCCURS_WITH
+Greg Nickels,Seattle,1,CO_OCCURS_WITH
+Hepburn,Japanese,1,CO_OCCURS_WITH
+Hepburn,Kyōto Giteisho,1,CO_OCCURS_WITH
+Hepburn,UNFCCC,1,CO_OCCURS_WITH
+Hepburn,United Nations Framework Convention on Climate Change,1,CO_OCCURS_WITH
+Japanese,Kyōto Giteisho,1,CO_OCCURS_WITH
+Japanese,UNFCCC,1,CO_OCCURS_WITH
+Japanese,United Nations Framework Convention on Climate Change,1,CO_OCCURS_WITH
+Kyōto Giteisho,UNFCCC,1,CO_OCCURS_WITH
+Kyōto Giteisho,United Nations Framework Convention on Climate Change,1,CO_OCCURS_WITH
+Minnesota,Wisconsin,1,CO_OCCURS_WITH
+Manitoba,the Canadian Province,1,CO_OCCURS_WITH
+Manitoba,Wisconsin,1,CO_OCCURS_WITH
+NEG-ECP,the New England Governors,1,CO_OCCURS_WITH
+Oregon,the Western Regional Climate Action Initiative,1,CO_OCCURS_WITH
+Washington,Western,1,CO_OCCURS_WITH
+Washington,the Western Regional Climate Action Initiative,1,CO_OCCURS_WITH
+Western,the Western Regional Climate Action Initiative,1,CO_OCCURS_WITH
+Eastern Canadian,GHG,1,CO_OCCURS_WITH
+Eastern Canadian,NEG-ECP,1,CO_OCCURS_WITH
+GHG,NEG-ECP,1,CO_OCCURS_WITH
+GHG,the New England Governors,1,CO_OCCURS_WITH
+Dakotas,Iowa,1,CO_OCCURS_WITH
+Manitoba,Minnesota,1,CO_OCCURS_WITH
+Dakotas,Manitoba,1,CO_OCCURS_WITH
+Dakotas,Minnesota,1,CO_OCCURS_WITH
+Dakotas,Wisconsin,1,CO_OCCURS_WITH
+Dakotas,the Canadian Province,1,CO_OCCURS_WITH
+Iowa,Manitoba,1,CO_OCCURS_WITH
+Iowa,Minnesota,1,CO_OCCURS_WITH
+Iowa,Wisconsin,1,CO_OCCURS_WITH
+Iowa,the Canadian Province,1,CO_OCCURS_WITH
+Montana,New Mexico,1,CO_OCCURS_WITH
+Manitoba,Washington,1,CO_OCCURS_WITH
+Czech Republic,Ukraine,1,CO_OCCURS_WITH
+Barack Obama,YouTube,1,CO_OCCURS_WITH
+Senate,the House of Representatives,1,CO_OCCURS_WITH
+The American Clean Energy and Security Act,the House of Representatives,1,CO_OCCURS_WITH
+Carol Browner,Energy and Climate Change,1,CO_OCCURS_WITH
+Carol Browner,Obama,1,CO_OCCURS_WITH
+Carol Browner,the White House,1,CO_OCCURS_WITH
+Carol Browner,the White House Office of Energy and Climate Change Policy,1,CO_OCCURS_WITH
+Energy and Climate Change,Obama,1,CO_OCCURS_WITH
+Energy and Climate Change,the White House,1,CO_OCCURS_WITH
+Energy and Climate Change,the White House Office of Energy and Climate Change Policy,1,CO_OCCURS_WITH
+Obama,the White House,1,CO_OCCURS_WITH
+Obama,the White House Office of Energy and Climate Change Policy,1,CO_OCCURS_WITH
+the White House,the White House Office of Energy and Climate Change Policy,1,CO_OCCURS_WITH
+Hillary Clinton,Special Envoy for Climate Change,1,CO_OCCURS_WITH
+Hillary Clinton,State,1,CO_OCCURS_WITH
+Hillary Clinton,Todd Stern,1,CO_OCCURS_WITH
+Special Envoy for Climate Change,State,1,CO_OCCURS_WITH
+Special Envoy for Climate Change,Todd Stern,1,CO_OCCURS_WITH
+State,Todd Stern,1,CO_OCCURS_WITH
+Copenhagen,Stern,1,CO_OCCURS_WITH
+Senate,The American Clean Energy and Security Act,1,CO_OCCURS_WITH
+ARRA,Obama's Council of Economic Advisers,1,CO_OCCURS_WITH
+Bush,the U.S. House of Representatives,1,CO_OCCURS_WITH
+brownfield,the American Reinvestment and Recovery Act,1,CO_OCCURS_WITH
+U.S.,White House,1,CO_OCCURS_WITH
+U.S.,the Government Accountability Project,1,CO_OCCURS_WITH
+U.S.,the White House,1,CO_OCCURS_WITH
+White House,the Government Accountability Project,1,CO_OCCURS_WITH
+White House,the White House,1,CO_OCCURS_WITH
+the Government Accountability Project,the White House,1,CO_OCCURS_WITH
+CDC,Centers for Disease Control and Prevention,1,CO_OCCURS_WITH
+CDC,the U.S. Senate Environment and Public Works Committee,1,CO_OCCURS_WITH
+Centers for Disease Control and Prevention,the U.S. Senate Environment and Public Works Committee,1,CO_OCCURS_WITH
+California,Congress,1,CO_OCCURS_WITH
+California,Mary Peters,1,CO_OCCURS_WITH
+California,Transportation,1,CO_OCCURS_WITH
+California,the House of Representatives,1,CO_OCCURS_WITH
+Congress,Mary Peters,1,CO_OCCURS_WITH
+Congress,Transportation,1,CO_OCCURS_WITH
+Congress,the House of Representatives,1,CO_OCCURS_WITH
+Mary Peters,Transportation,1,CO_OCCURS_WITH
+Mary Peters,the House of Representatives,1,CO_OCCURS_WITH
+Transportation,the House of Representatives,1,CO_OCCURS_WITH
+GHG,United States,1,CO_OCCURS_WITH
+China,Chinese Communist Party,1,CO_OCCURS_WITH
+China,Obama,1,CO_OCCURS_WITH
+China,Xi Jinping,1,CO_OCCURS_WITH
+EPA,National Highway Traffic Safety Administration,1,CO_OCCURS_WITH
+EPA,the Department of Transportation's,1,CO_OCCURS_WITH
+NHTSA,National Highway Traffic Safety Administration,1,CO_OCCURS_WITH
+NHTSA,the Department of Transportation's,1,CO_OCCURS_WITH
+NHTSA,the Environmental Protection Agency,1,CO_OCCURS_WITH
+National Highway Traffic Safety Administration,the Department of Transportation's,1,CO_OCCURS_WITH
+National Highway Traffic Safety Administration,the Environmental Protection Agency,1,CO_OCCURS_WITH
+the Department of Transportation's,the Environmental Protection Agency,1,CO_OCCURS_WITH
+EPA,GHG,1,CO_OCCURS_WITH
+Corporate Average Fuel Economy (,the Energy Policy and Conservation Act,1,CO_OCCURS_WITH
+Trump,U.S.,1,CO_OCCURS_WITH
+Trump,the Paris Climate Agreement,1,CO_OCCURS_WITH
+U.S.,the Paris Climate Agreement,1,CO_OCCURS_WITH
+EPA,Scott Pruitt,1,CO_OCCURS_WITH
+Scott Pruitt,Trump,1,CO_OCCURS_WITH
+EPA,Oklahoma,1,CO_OCCURS_WITH
+EPA,Pruitt,1,CO_OCCURS_WITH
+Oklahoma,Pruitt,1,CO_OCCURS_WITH
+Exxon Mobil,Rex W. Tillerson,1,CO_OCCURS_WITH
+EPA,NHTSA,1,CO_OCCURS_WITH
+the Maritime Administration,the Next Generation Air Transportation System,1,CO_OCCURS_WITH
+the Federal Aviation Administration,the Next Generation Air Transportation System,1,CO_OCCURS_WITH
+Affordable Clean Energy,Trump,1,CO_OCCURS_WITH
+Chinese Communist Party,Obama,1,CO_OCCURS_WITH
+Chinese Communist Party,Xi Jinping,1,CO_OCCURS_WITH
+Obama,Xi Jinping,1,CO_OCCURS_WITH
+Obama,UNFCCC,1,CO_OCCURS_WITH
+Obama,the United Nations Framework Convention on Climate Change,1,CO_OCCURS_WITH
+Obama,The United States,1,CO_OCCURS_WITH
+Obama,U.S.,1,CO_OCCURS_WITH
+The United States,U.S.,1,CO_OCCURS_WITH
+Affordable Clean Energy,the DC Circuit Court of Appeals,1,CO_OCCURS_WITH
+the Federal Aviation Administration,the Maritime Administration,1,CO_OCCURS_WITH
+Trump,the DC Circuit Court of Appeals,1,CO_OCCURS_WITH
+Canada,Justin Trudeau,1,CO_OCCURS_WITH
+EPA,ICR,1,CO_OCCURS_WITH
+Lawrence Berkeley National Laboratory,Paris Agreement,1,CO_OCCURS_WITH
+Lawrence Berkeley National Laboratory,the United States,1,CO_OCCURS_WITH
+Paris Agreement,the United States,1,CO_OCCURS_WITH
+21st Century Clean Transportation Plan,Obama,1,CO_OCCURS_WITH
+Obama,the Fixing America's,1,CO_OCCURS_WITH
+White House,the U.S. House of Representatives,1,CO_OCCURS_WITH
+Bush,White House,1,CO_OCCURS_WITH
+Manitoba,Utah,1,CO_OCCURS_WITH
+the US Senate,the United States,1,CO_OCCURS_WITH
+Administration,Congress,1,CO_OCCURS_WITH
+Administration,National Security,1,CO_OCCURS_WITH
+Condoleezza Rice,Congress,1,CO_OCCURS_WITH
+Condoleezza Rice,National Security,1,CO_OCCURS_WITH
+Congress,National Security,1,CO_OCCURS_WITH
+An Abrupt Climate Change Scenario,Doug Randall,1,CO_OCCURS_WITH
+An Abrupt Climate Change Scenario,Pentagon,1,CO_OCCURS_WITH
+An Abrupt Climate Change Scenario,Peter Schwartz,1,CO_OCCURS_WITH
+Doug Randall,Pentagon,1,CO_OCCURS_WITH
+Doug Randall,Peter Schwartz,1,CO_OCCURS_WITH
+Pentagon,Peter Schwartz,1,CO_OCCURS_WITH
+McCain,the US Senate,1,CO_OCCURS_WITH
+Democrats,Republicans,1,CO_OCCURS_WITH
+Congress,Democratic,1,CO_OCCURS_WITH
+Congress,House,1,CO_OCCURS_WITH
+Congress,Nancy Pelosi,1,CO_OCCURS_WITH
+Congress,United States,1,CO_OCCURS_WITH
+Democratic,House,1,CO_OCCURS_WITH
+Democratic,Nancy Pelosi,1,CO_OCCURS_WITH
+Administration,Condoleezza Rice,1,CO_OCCURS_WITH
+Senate,the US Senate,1,CO_OCCURS_WITH
+American,the U.S. House of Representatives,1,CO_OCCURS_WITH
+The Democratic Party,the Republican Party,1,CO_OCCURS_WITH
+GHG,The Paris Agreement,1,CO_OCCURS_WITH
+Eurostat,UN Comtrade,1,CO_OCCURS_WITH
+ISO,LCA,1,CO_OCCURS_WITH
+Geoffrey Supran,Harvard University,1,CO_OCCURS_WITH
+Geoffrey Supran,Naomi Oreskes,1,CO_OCCURS_WITH
+Harvard University,Naomi Oreskes,1,CO_OCCURS_WITH
+GHG,Sixth Assessment Report,1,CO_OCCURS_WITH
+IPCC,Sixth Assessment Report,1,CO_OCCURS_WITH
+Australia,Luxembourg,1,CO_OCCURS_WITH
+Australia,USA,1,CO_OCCURS_WITH
+Luxembourg,USA,1,CO_OCCURS_WITH
+BBC,William Safire,1,CO_OCCURS_WITH
+BBC,the New York Times,1,CO_OCCURS_WITH
+William Safire,the New York Times,1,CO_OCCURS_WITH
+the Carbon Disclosure Standards Board,the Sustainability Accounting Standards Board,1,CO_OCCURS_WITH
+the Carbon Disclosure Standards Board,the Value Reporting Foundation,1,CO_OCCURS_WITH
+the Sustainability Accounting Standards Board,the Value Reporting Foundation,1,CO_OCCURS_WITH
+Great Britain,Nigeria,1,CO_OCCURS_WITH
+EPA,The Environmental Protection Agency,1,CO_OCCURS_WITH
+Democratic,United States,1,CO_OCCURS_WITH
+House,Nancy Pelosi,1,CO_OCCURS_WITH
+House,United States,1,CO_OCCURS_WITH
+Nancy Pelosi,United States,1,CO_OCCURS_WITH
+EPA,The Clean Air Partnership Fund,1,CO_OCCURS_WITH
+Japan,U.S.,1,CO_OCCURS_WITH
+Japan,the George W. Bush Administration,1,CO_OCCURS_WITH
+Kyoto,U.S.,1,CO_OCCURS_WITH
+Kyoto,the George W. Bush Administration,1,CO_OCCURS_WITH
+U.S.,the George W. Bush Administration,1,CO_OCCURS_WITH
+American,Rolling Stone,1,CO_OCCURS_WITH
+Bush,Rolling Stone,1,CO_OCCURS_WITH
+IARU,USA,1,CO_OCCURS_WITH
+IARU,an International Scientific Congress on Climate Change,1,CO_OCCURS_WITH
+IARU,the International Alliance of Research Universities,1,CO_OCCURS_WITH
+IARU,the University of Copenhagen,1,CO_OCCURS_WITH
+USA,an International Scientific Congress on Climate Change,1,CO_OCCURS_WITH
+USA,the International Alliance of Research Universities,1,CO_OCCURS_WITH
+USA,the University of Copenhagen,1,CO_OCCURS_WITH
+an International Scientific Congress on Climate Change,the International Alliance of Research Universities,1,CO_OCCURS_WITH
+an International Scientific Congress on Climate Change,the University of Copenhagen,1,CO_OCCURS_WITH
+the International Alliance of Research Universities,the University of Copenhagen,1,CO_OCCURS_WITH
+American,White House,1,CO_OCCURS_WITH
+Clinton,U.S.,1,CO_OCCURS_WITH
+U.S.,the Climate Action Network,1,CO_OCCURS_WITH
+Fahrenheit,The British Thermal Unit,1,CO_OCCURS_WITH
+Republicans,the Environmental Protection Agency,1,CO_OCCURS_WITH
+Barbara Boxer,Bernie Sanders,1,CO_OCCURS_WITH
+Barbara Boxer,the Global Warming Pollution Reduction Act,1,CO_OCCURS_WITH
+Bernie Sanders,the Global Warming Pollution Reduction Act,1,CO_OCCURS_WITH
+Senate,The House of Representatives,1,CO_OCCURS_WITH
+Senate,the American Clean Energy and Security Act,1,CO_OCCURS_WITH
+The House of Representatives,the American Clean Energy and Security Act,1,CO_OCCURS_WITH
+EPA,Republicans,1,CO_OCCURS_WITH
+EPA,the U.S. Congress,1,CO_OCCURS_WITH
+Republicans,the U.S. Congress,1,CO_OCCURS_WITH
+The British Thermal Tax,the British Thermal Unit,1,CO_OCCURS_WITH
+the Environmental Protection Agency,the U.S. Congress,1,CO_OCCURS_WITH
+Bill Clinton,the United States,1,CO_OCCURS_WITH
+BTU,British Thermal Unit,1,CO_OCCURS_WITH
+British Thermal Unit,Clinton,1,CO_OCCURS_WITH
+BTU,The British Thermal Tax,1,CO_OCCURS_WITH
+BTU,the British Thermal Unit,1,CO_OCCURS_WITH
+Clinton,The British Thermal Tax,1,CO_OCCURS_WITH
+Clinton,the British Thermal Unit,1,CO_OCCURS_WITH
+Exxon Mobil,State,1,CO_OCCURS_WITH
+Exxon Mobil,Trump,1,CO_OCCURS_WITH
+Rex W. Tillerson,State,1,CO_OCCURS_WITH
+Maryland,the Center for Climate and Energy Solutions,1,CO_OCCURS_WITH
+the Center for Climate and Energy Solutions,the Maryland Climate Change Commission,1,CO_OCCURS_WITH
+Democratic,Tim Walz,1,CO_OCCURS_WITH
+David Paterson,NYSCAC,1,CO_OCCURS_WITH
+David Paterson,the New York State Climate Action Council,1,CO_OCCURS_WITH
+NYSCAC,the New York State Climate Action Council,1,CO_OCCURS_WITH
+Hurricanes Sandy,Irene,1,CO_OCCURS_WITH
+Hurricanes Sandy,Storm Lee,1,CO_OCCURS_WITH
+Irene,Storm Lee,1,CO_OCCURS_WITH
+EQR,Environmental Quality Review,1,CO_OCCURS_WITH
+Andrew Cuomo,the Energy Vision,1,CO_OCCURS_WITH
+CES,Clean Energy Standard,1,CO_OCCURS_WITH
+CES,Jay Inslee,1,CO_OCCURS_WITH
+CES,Washington,1,CO_OCCURS_WITH
+Clean Energy Standard,Jay Inslee,1,CO_OCCURS_WITH
+Clean Energy Standard,Washington,1,CO_OCCURS_WITH
+Jay Inslee,Washington,1,CO_OCCURS_WITH
+Portfolio Standards,RPS,1,CO_OCCURS_WITH
+CES,RPS,1,CO_OCCURS_WITH
+CES,the United States,1,CO_OCCURS_WITH
+Maryland,the Maryland Climate Change Commission,1,CO_OCCURS_WITH
+C2ES,the Maryland Climate Change Commission,1,CO_OCCURS_WITH
+Rex W. Tillerson,Trump,1,CO_OCCURS_WITH
+C2ES,the Center for Climate and Energy Solutions,1,CO_OCCURS_WITH
+California,Pacific Gas & Electric,1,CO_OCCURS_WITH
+California,San Diego Gas & Electric,1,CO_OCCURS_WITH
+California,Schwarzenegger,1,CO_OCCURS_WITH
+California,Southern California Edison,1,CO_OCCURS_WITH
+Pacific Gas & Electric,San Diego Gas & Electric,1,CO_OCCURS_WITH
+Pacific Gas & Electric,Schwarzenegger,1,CO_OCCURS_WITH
+Pacific Gas & Electric,Southern California Edison,1,CO_OCCURS_WITH
+San Diego Gas & Electric,Schwarzenegger,1,CO_OCCURS_WITH
+San Diego Gas & Electric,Southern California Edison,1,CO_OCCURS_WITH
+Schwarzenegger,Southern California Edison,1,CO_OCCURS_WITH
+Great Britain,Schwarzenegger,1,CO_OCCURS_WITH
+Great Britain,Tony Blair,1,CO_OCCURS_WITH
+Schwarzenegger,Tony Blair,1,CO_OCCURS_WITH
+Connecticut,Eastern Canadian,1,CO_OCCURS_WITH
+Connecticut,NEG/ECP,1,CO_OCCURS_WITH
+Connecticut,the New England Governors,1,CO_OCCURS_WITH
+Eastern Canadian,NEG/ECP,1,CO_OCCURS_WITH
+NEG/ECP,the New England Governors,1,CO_OCCURS_WITH
+C2ES,Maryland,1,CO_OCCURS_WITH
+RPS,the United States,1,CO_OCCURS_WITH
+New York State,the Regional Greenhouse Gas Initiative,1,CO_OCCURS_WITH
+Kyoto Protocol,the Regional Greenhouse Gas Initiative,1,CO_OCCURS_WITH
+Canadian,U.S.,1,CO_OCCURS_WITH
+California,Montana,1,CO_OCCURS_WITH
+California,Ontario,1,CO_OCCURS_WITH
+California,Quebec,1,CO_OCCURS_WITH
+California,Utah,1,CO_OCCURS_WITH
+California,the Southwest Climate Change Initiative,1,CO_OCCURS_WITH
+Initiative,Manitoba,1,CO_OCCURS_WITH
+Initiative,Montana,1,CO_OCCURS_WITH
+Initiative,New Mexico,1,CO_OCCURS_WITH
+Initiative,Ontario,1,CO_OCCURS_WITH
+Initiative,Oregon,1,CO_OCCURS_WITH
+Initiative,Quebec,1,CO_OCCURS_WITH
+Initiative,Utah,1,CO_OCCURS_WITH
+Initiative,Washington,1,CO_OCCURS_WITH
+Initiative,the Southwest Climate Change Initiative,1,CO_OCCURS_WITH
+Manitoba,Montana,1,CO_OCCURS_WITH
+Manitoba,New Mexico,1,CO_OCCURS_WITH
+Manitoba,Ontario,1,CO_OCCURS_WITH
+Manitoba,Oregon,1,CO_OCCURS_WITH
+Manitoba,Quebec,1,CO_OCCURS_WITH
+California,Manitoba,1,CO_OCCURS_WITH
+California,Initiative,1,CO_OCCURS_WITH
+British Columbia,the Southwest Climate Change Initiative,1,CO_OCCURS_WITH
+Arizona,Utah,1,CO_OCCURS_WITH
+Canadian,Western Climate Initiative,1,CO_OCCURS_WITH
+U.S.,Western Climate Initiative,1,CO_OCCURS_WITH
+Arizona,British Columbia,1,CO_OCCURS_WITH
+Arizona,Initiative,1,CO_OCCURS_WITH
+Arizona,Manitoba,1,CO_OCCURS_WITH
+Arizona,Montana,1,CO_OCCURS_WITH
+Arizona,Ontario,1,CO_OCCURS_WITH
+Arizona,Quebec,1,CO_OCCURS_WITH
+British Columbia,California,1,CO_OCCURS_WITH
+British Columbia,Washington,1,CO_OCCURS_WITH
+British Columbia,Initiative,1,CO_OCCURS_WITH
+British Columbia,Manitoba,1,CO_OCCURS_WITH
+British Columbia,Montana,1,CO_OCCURS_WITH
+British Columbia,New Mexico,1,CO_OCCURS_WITH
+British Columbia,Ontario,1,CO_OCCURS_WITH
+British Columbia,Oregon,1,CO_OCCURS_WITH
+British Columbia,Quebec,1,CO_OCCURS_WITH
+British Columbia,Utah,1,CO_OCCURS_WITH
+GHG,U.S.,1,CO_OCCURS_WITH
+California,U.S.,1,CO_OCCURS_WITH
+the California Legislature,the Global Warming Solutions Act,1,CO_OCCURS_WITH
+Republicans,Senate,1,CO_OCCURS_WITH
+the Keystone XL Pipeline,the Paris Agreement,1,CO_OCCURS_WITH
+Joe Biden,Keystone XL,1,CO_OCCURS_WITH
+Joe Biden,the Democratic Party,1,CO_OCCURS_WITH
+Keystone XL,the Democratic Party,1,CO_OCCURS_WITH
+Alaska,Biden,1,CO_OCCURS_WITH
+Alaska,Willow,1,CO_OCCURS_WITH
+Biden,James D. Cain Jr.,1,CO_OCCURS_WITH
+Biden,Louisiana,1,CO_OCCURS_WITH
+James D. Cain Jr.,Louisiana,1,CO_OCCURS_WITH
+James D. Cain Jr.,Willow,1,CO_OCCURS_WITH
+Louisiana,Willow,1,CO_OCCURS_WITH
+Biden,EPA,1,CO_OCCURS_WITH
+Biden,West Virginia,1,CO_OCCURS_WITH
+Biden,the Supreme Court,1,CO_OCCURS_WITH
+EPA,West Virginia,1,CO_OCCURS_WITH
+West Virginia,the Supreme Court,1,CO_OCCURS_WITH
+Biden,China,1,CO_OCCURS_WITH
+Biden,Republicans,1,CO_OCCURS_WITH
+Biden,Senate,1,CO_OCCURS_WITH
+National Climate Task Force,the Paris Agreement,1,CO_OCCURS_WITH
+National Climate Task Force,the Keystone XL Pipeline,1,CO_OCCURS_WITH
+Biden,the Paris Agreement,1,CO_OCCURS_WITH
+EIP,the National Highway Traffic Safety Administration,1,CO_OCCURS_WITH
+State,Trump,1,CO_OCCURS_WITH
+Dakota Access Pipelines,Trump,1,CO_OCCURS_WITH
+American,Obama,1,CO_OCCURS_WITH
+American,The White House,1,CO_OCCURS_WITH
+Trump,the Environmental Protection Agency,1,CO_OCCURS_WITH
+Congress,the Trump Administration,1,CO_OCCURS_WITH
+EIP,Environmental Impact Statement (,1,CO_OCCURS_WITH
+EIP,Trump,1,CO_OCCURS_WITH
+Environmental Impact Statement (,Trump,1,CO_OCCURS_WITH
+Biden,the Keystone XL Pipeline,1,CO_OCCURS_WITH
+Environmental Impact Statement (,the National Highway Traffic Safety Administration,1,CO_OCCURS_WITH
+Trump,the National Highway Traffic Safety Administration,1,CO_OCCURS_WITH
+EIP,U.S.,1,CO_OCCURS_WITH
+Congress,EPA,1,CO_OCCURS_WITH
+EPA,Joel Scheraga,1,CO_OCCURS_WITH
+Scheraga,Trump,1,CO_OCCURS_WITH
+EPA,Mustafa Ali,1,CO_OCCURS_WITH
+Biden,National Climate Task Force,1,CO_OCCURS_WITH
+Biden,the Infrastructure Investment and Jobs Act,1,CO_OCCURS_WITH
+Republicans,the Infrastructure Investment and Jobs Act,1,CO_OCCURS_WITH
+Schwarzenegger,the Global Warming Solutions Act,1,CO_OCCURS_WITH
+Senate,the Infrastructure Investment and Jobs Act,1,CO_OCCURS_WITH
+The U.S. Climate Change Science Program,U.S.,1,CO_OCCURS_WITH
+Brazil,California,1,CO_OCCURS_WITH
+Brazil,Texas,1,CO_OCCURS_WITH
+California,France,1,CO_OCCURS_WITH
+California,Texas,1,CO_OCCURS_WITH
+France,Texas,1,CO_OCCURS_WITH
+California,the United States,1,CO_OCCURS_WITH
+Assembly,California,1,CO_OCCURS_WITH
+Assembly,the Global Warming Solutions Act,1,CO_OCCURS_WITH
+California,the Global Warming Solutions Act,1,CO_OCCURS_WITH
+Gray Davis,the California Air Resources Board,1,CO_OCCURS_WITH
+Davis,the California Climate Action Registry,1,CO_OCCURS_WITH
+California,the California Energy Commission,1,CO_OCCURS_WITH
+Arnold Schwarzenegger,GHG,1,CO_OCCURS_WITH
+California,The Union of Concerned Scientists,1,CO_OCCURS_WITH
+AB32,Schwarzenegger,1,CO_OCCURS_WITH
+AB32,the California Legislature,1,CO_OCCURS_WITH
+AB32,the Global Warming Solutions Act,1,CO_OCCURS_WITH
+Schwarzenegger,the California Legislature,1,CO_OCCURS_WITH
+Strengthening United States National Defense with America's,Trump,1,CO_OCCURS_WITH
+Power Purchase Agreements for,Trump,1,CO_OCCURS_WITH
+Power Purchase Agreements for,Strengthening United States National Defense with America's,1,CO_OCCURS_WITH
+Beautiful Clean Coal Power Generation Fleet,Energy,1,CO_OCCURS_WITH
+American,Western,1,CO_OCCURS_WITH
+Biden,IIJA,1,CO_OCCURS_WITH
+Act,EPA,1,CO_OCCURS_WITH
+GHG,Rhodium Group,1,CO_OCCURS_WITH
+GHG,the World Economic Forum,1,CO_OCCURS_WITH
+Rhodium Group,the World Economic Forum,1,CO_OCCURS_WITH
+EPA,NOAA,1,CO_OCCURS_WITH
+Beautiful Clean Coal Power Generation Fleet,Department of War,1,CO_OCCURS_WITH
+Beautiful Clean Coal Power Generation Fleet,Power Purchase Agreements for,1,CO_OCCURS_WITH
+Energy,Trump,1,CO_OCCURS_WITH
+Beautiful Clean Coal Power Generation Fleet,Strengthening United States National Defense with America's,1,CO_OCCURS_WITH
+Beautiful Clean Coal Power Generation Fleet,Trump,1,CO_OCCURS_WITH
+Department of War,Energy,1,CO_OCCURS_WITH
+Department of War,Power Purchase Agreements for,1,CO_OCCURS_WITH
+Department of War,Strengthening United States National Defense with America's,1,CO_OCCURS_WITH
+Department of War,Trump,1,CO_OCCURS_WITH
+Energy,Power Purchase Agreements for,1,CO_OCCURS_WITH
+Energy,Strengthening United States National Defense with America's,1,CO_OCCURS_WITH
+Czech Republic,Slovenia,1,CO_OCCURS_WITH
+EIT,Estonia,1,CO_OCCURS_WITH
+Honduras Hungary,Kuwait,1,CO_OCCURS_WITH
+Bulgaria,Cambodia,1,CO_OCCURS_WITH
+Bulgaria,Herzegovina,1,CO_OCCURS_WITH
+Bulgaria,Myanmar,1,CO_OCCURS_WITH
+Bulgaria,the Congo Republic,1,CO_OCCURS_WITH
+Burkina,Cambodia,1,CO_OCCURS_WITH
+Burkina,Canada,1,CO_OCCURS_WITH
+Burkina,Central African,1,CO_OCCURS_WITH
+Burkina,Herzegovina,1,CO_OCCURS_WITH
+Burkina,Myanmar,1,CO_OCCURS_WITH
+Burkina,the Congo Republic,1,CO_OCCURS_WITH
+Cambodia,Canada,1,CO_OCCURS_WITH
+Cambodia,Central African,1,CO_OCCURS_WITH
+Cambodia,Herzegovina,1,CO_OCCURS_WITH
+Cambodia,Myanmar,1,CO_OCCURS_WITH
+Cambodia,the Congo Republic,1,CO_OCCURS_WITH
+Canada,Central African,1,CO_OCCURS_WITH
+Canada,Herzegovina,1,CO_OCCURS_WITH
+Canada,Myanmar,1,CO_OCCURS_WITH
+Canada,the Congo Republic,1,CO_OCCURS_WITH
+Central African,Herzegovina,1,CO_OCCURS_WITH
+Bulgaria,Central African,1,CO_OCCURS_WITH
+Bulgaria,Burkina,1,CO_OCCURS_WITH
+Botswana,Cambodia,1,CO_OCCURS_WITH
+Brunei,the Congo Republic,1,CO_OCCURS_WITH
+Botswana,Central African,1,CO_OCCURS_WITH
+Botswana,Herzegovina,1,CO_OCCURS_WITH
+Botswana,Myanmar,1,CO_OCCURS_WITH
+Botswana,the Congo Republic,1,CO_OCCURS_WITH
+Brazil,Brunei,1,CO_OCCURS_WITH
+Brazil,Bulgaria,1,CO_OCCURS_WITH
+Brazil,Burkina,1,CO_OCCURS_WITH
+Brazil,Cambodia,1,CO_OCCURS_WITH
+Brazil,Central African,1,CO_OCCURS_WITH
+Brazil,Herzegovina,1,CO_OCCURS_WITH
+Brazil,Myanmar,1,CO_OCCURS_WITH
+Brazil,the Congo Republic,1,CO_OCCURS_WITH
+Brunei,Bulgaria,1,CO_OCCURS_WITH
+Brunei,Burkina,1,CO_OCCURS_WITH
+Brunei,Cambodia,1,CO_OCCURS_WITH
+Brunei,Canada,1,CO_OCCURS_WITH
+Brunei,Central African,1,CO_OCCURS_WITH
+Brunei,Herzegovina,1,CO_OCCURS_WITH
+Brunei,Myanmar,1,CO_OCCURS_WITH
+Central African,Myanmar,1,CO_OCCURS_WITH
+Central African,the Congo Republic,1,CO_OCCURS_WITH
+Herzegovina,Myanmar,1,CO_OCCURS_WITH
+Herzegovina,the Congo Republic,1,CO_OCCURS_WITH
+Dominican,Egypt,1,CO_OCCURS_WITH
+Dominican,El Salvador Equatorial,1,CO_OCCURS_WITH
+Dominican,Ethiopia European Union,1,CO_OCCURS_WITH
+Dominican,Fiji,1,CO_OCCURS_WITH
+Dominican,Finland,1,CO_OCCURS_WITH
+Dominican,France,1,CO_OCCURS_WITH
+Dominican,Gambia,1,CO_OCCURS_WITH
+Dominican,Georgia Germany,1,CO_OCCURS_WITH
+Dominican,Ghana Greece,1,CO_OCCURS_WITH
+Dominican,Grenada,1,CO_OCCURS_WITH
+East Timor,Ecuador,1,CO_OCCURS_WITH
+East Timor,Egypt,1,CO_OCCURS_WITH
+East Timor,El Salvador Equatorial,1,CO_OCCURS_WITH
+East Timor,Ethiopia European Union,1,CO_OCCURS_WITH
+East Timor,Fiji,1,CO_OCCURS_WITH
+East Timor,Finland,1,CO_OCCURS_WITH
+East Timor,France,1,CO_OCCURS_WITH
+East Timor,Gambia,1,CO_OCCURS_WITH
+East Timor,Georgia Germany,1,CO_OCCURS_WITH
+Dominican,Ecuador,1,CO_OCCURS_WITH
+Dominican,East Timor,1,CO_OCCURS_WITH
+Dominica,Grenada,1,CO_OCCURS_WITH
+Dominica,East Timor,1,CO_OCCURS_WITH
+Myanmar,the Congo Republic,1,CO_OCCURS_WITH
+Costa Rica,Cuba,1,CO_OCCURS_WITH
+Costa Rica,Denmark,1,CO_OCCURS_WITH
+Costa Rica,Djibouti,1,CO_OCCURS_WITH
+Cuba,Denmark,1,CO_OCCURS_WITH
+Cuba,Djibouti,1,CO_OCCURS_WITH
+Denmark,Djibouti,1,CO_OCCURS_WITH
+Dominica,Dominican,1,CO_OCCURS_WITH
+Dominica,Ecuador,1,CO_OCCURS_WITH
+Dominica,Ghana Greece,1,CO_OCCURS_WITH
+Dominica,Egypt,1,CO_OCCURS_WITH
+Dominica,El Salvador Equatorial,1,CO_OCCURS_WITH
+Dominica,Ethiopia European Union,1,CO_OCCURS_WITH
+Dominica,Fiji,1,CO_OCCURS_WITH
+Dominica,Finland,1,CO_OCCURS_WITH
+Dominica,France,1,CO_OCCURS_WITH
+Dominica,Gambia,1,CO_OCCURS_WITH
+Dominica,Georgia Germany,1,CO_OCCURS_WITH
+Botswana,Canada,1,CO_OCCURS_WITH
+Botswana,Burkina,1,CO_OCCURS_WITH
+Australia,Burkina,1,CO_OCCURS_WITH
+Bahamas,Benin,1,CO_OCCURS_WITH
+Bahamas,Bosnia,1,CO_OCCURS_WITH
+Bahamas,Botswana,1,CO_OCCURS_WITH
+Bahamas,Brazil,1,CO_OCCURS_WITH
+Bahamas,Brunei,1,CO_OCCURS_WITH
+Bahamas,Bulgaria,1,CO_OCCURS_WITH
+Bahamas,Burkina,1,CO_OCCURS_WITH
+Bahamas,Cambodia,1,CO_OCCURS_WITH
+Bahamas,Canada,1,CO_OCCURS_WITH
+Bahamas,Central African,1,CO_OCCURS_WITH
+Bahamas,Herzegovina,1,CO_OCCURS_WITH
+Bahamas,Myanmar,1,CO_OCCURS_WITH
+Bahamas,the Congo Republic,1,CO_OCCURS_WITH
+Barbuda,Benin,1,CO_OCCURS_WITH
+Barbuda,Bhutan,1,CO_OCCURS_WITH
+Barbuda,Bosnia,1,CO_OCCURS_WITH
+Barbuda,Botswana,1,CO_OCCURS_WITH
+Barbuda,Brazil,1,CO_OCCURS_WITH
+Barbuda,Brunei,1,CO_OCCURS_WITH
+Barbuda,Bulgaria,1,CO_OCCURS_WITH
+Bahamas,Bhutan,1,CO_OCCURS_WITH
+Bahamas,Barbuda,1,CO_OCCURS_WITH
+Botswana,Bulgaria,1,CO_OCCURS_WITH
+Austria Azerbaijan,the Congo Republic,1,CO_OCCURS_WITH
+Australia,Central African,1,CO_OCCURS_WITH
+Australia,Herzegovina,1,CO_OCCURS_WITH
+Australia,Myanmar,1,CO_OCCURS_WITH
+Australia,the Congo Republic,1,CO_OCCURS_WITH
+Austria Azerbaijan,Bahamas,1,CO_OCCURS_WITH
+Austria Azerbaijan,Barbuda,1,CO_OCCURS_WITH
+Austria Azerbaijan,Benin,1,CO_OCCURS_WITH
+Austria Azerbaijan,Bhutan,1,CO_OCCURS_WITH
+Austria Azerbaijan,Bosnia,1,CO_OCCURS_WITH
+Austria Azerbaijan,Botswana,1,CO_OCCURS_WITH
+Austria Azerbaijan,Brazil,1,CO_OCCURS_WITH
+Austria Azerbaijan,Brunei,1,CO_OCCURS_WITH
+Austria Azerbaijan,Bulgaria,1,CO_OCCURS_WITH
+Austria Azerbaijan,Burkina,1,CO_OCCURS_WITH
+Austria Azerbaijan,Cambodia,1,CO_OCCURS_WITH
+Austria Azerbaijan,Canada,1,CO_OCCURS_WITH
+Austria Azerbaijan,Central African,1,CO_OCCURS_WITH
+Austria Azerbaijan,Herzegovina,1,CO_OCCURS_WITH
+Austria Azerbaijan,Myanmar,1,CO_OCCURS_WITH
+Barbuda,Burkina,1,CO_OCCURS_WITH
+Barbuda,Cambodia,1,CO_OCCURS_WITH
+Barbuda,Canada,1,CO_OCCURS_WITH
+Barbuda,Central African,1,CO_OCCURS_WITH
+Bhutan,Cambodia,1,CO_OCCURS_WITH
+Bhutan,Canada,1,CO_OCCURS_WITH
+Bhutan,Central African,1,CO_OCCURS_WITH
+Bhutan,Herzegovina,1,CO_OCCURS_WITH
+Bhutan,Myanmar,1,CO_OCCURS_WITH
+Bhutan,the Congo Republic,1,CO_OCCURS_WITH
+Bosnia,Botswana,1,CO_OCCURS_WITH
+Bosnia,Brazil,1,CO_OCCURS_WITH
+Bosnia,Brunei,1,CO_OCCURS_WITH
+Bosnia,Bulgaria,1,CO_OCCURS_WITH
+Bosnia,Burkina,1,CO_OCCURS_WITH
+Bosnia,Cambodia,1,CO_OCCURS_WITH
+Bosnia,Canada,1,CO_OCCURS_WITH
+Bosnia,Central African,1,CO_OCCURS_WITH
+Bosnia,Herzegovina,1,CO_OCCURS_WITH
+Bosnia,Myanmar,1,CO_OCCURS_WITH
+Bosnia,the Congo Republic,1,CO_OCCURS_WITH
+Botswana,Brazil,1,CO_OCCURS_WITH
+Botswana,Brunei,1,CO_OCCURS_WITH
+Bhutan,Burkina,1,CO_OCCURS_WITH
+Bhutan,Bulgaria,1,CO_OCCURS_WITH
+Bhutan,Brunei,1,CO_OCCURS_WITH
+Benin,Bulgaria,1,CO_OCCURS_WITH
+Barbuda,Herzegovina,1,CO_OCCURS_WITH
+Barbuda,Myanmar,1,CO_OCCURS_WITH
+Barbuda,the Congo Republic,1,CO_OCCURS_WITH
+Benin,Bhutan,1,CO_OCCURS_WITH
+Benin,Bosnia,1,CO_OCCURS_WITH
+Benin,Botswana,1,CO_OCCURS_WITH
+Benin,Brazil,1,CO_OCCURS_WITH
+Benin,Brunei,1,CO_OCCURS_WITH
+Benin,Burkina,1,CO_OCCURS_WITH
+Bhutan,Brazil,1,CO_OCCURS_WITH
+Benin,Cambodia,1,CO_OCCURS_WITH
+Benin,Canada,1,CO_OCCURS_WITH
+Benin,Central African,1,CO_OCCURS_WITH
+Benin,Herzegovina,1,CO_OCCURS_WITH
+Benin,Myanmar,1,CO_OCCURS_WITH
+Benin,the Congo Republic,1,CO_OCCURS_WITH
+Bhutan,Bosnia,1,CO_OCCURS_WITH
+Bhutan,Botswana,1,CO_OCCURS_WITH
+East Timor,Ghana Greece,1,CO_OCCURS_WITH
+East Timor,Grenada,1,CO_OCCURS_WITH
+Ecuador,Egypt,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Lesotho,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Libya,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Liechtenstein,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Lithuania,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Luxembourg,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Madagascar Malawi,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Malaysia,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Maldives Mali,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Mauritania,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Mexico,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Micronesia Moldova,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Monaco,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Mongolia,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,North Korea,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,South Korea,1,CO_OCCURS_WITH
+Haiti,Honduras Hungary,1,CO_OCCURS_WITH
+Haiti,Iceland,1,CO_OCCURS_WITH
+Haiti,India,1,CO_OCCURS_WITH
+Haiti,Indonesia,1,CO_OCCURS_WITH
+Haiti,Iran,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Liberia,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Lebanon,1,CO_OCCURS_WITH
+Ecuador,El Salvador Equatorial,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Latvia,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Haiti,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Honduras Hungary,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Iceland,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,India,1,CO_OCCURS_WITH
+GHG,The International Sustainability Standards Board,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Iran,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Iraq,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Ireland,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Israel,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Italy,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Jamaica,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Japan,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Jordan,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Kazakhstan,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Kenya,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Kiribati,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Kuwait,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Kyrgyzstan,1,CO_OCCURS_WITH
+Guinea Guinea-Bissau,Laos,1,CO_OCCURS_WITH
+Haiti,Iraq,1,CO_OCCURS_WITH
+Haiti,Ireland,1,CO_OCCURS_WITH
+Haiti,Israel,1,CO_OCCURS_WITH
+Haiti,Italy,1,CO_OCCURS_WITH
+Haiti,Micronesia Moldova,1,CO_OCCURS_WITH
+Haiti,Monaco,1,CO_OCCURS_WITH
+Haiti,Mongolia,1,CO_OCCURS_WITH
+Haiti,North Korea,1,CO_OCCURS_WITH
+Haiti,South Korea,1,CO_OCCURS_WITH
+Honduras Hungary,Iceland,1,CO_OCCURS_WITH
+Honduras Hungary,India,1,CO_OCCURS_WITH
+Honduras Hungary,Indonesia,1,CO_OCCURS_WITH
+Honduras Hungary,Iran,1,CO_OCCURS_WITH
+Honduras Hungary,Iraq,1,CO_OCCURS_WITH
+Honduras Hungary,Ireland,1,CO_OCCURS_WITH
+Honduras Hungary,Israel,1,CO_OCCURS_WITH
+Honduras Hungary,Italy,1,CO_OCCURS_WITH
+Honduras Hungary,Jamaica,1,CO_OCCURS_WITH
+Honduras Hungary,Japan,1,CO_OCCURS_WITH
+Honduras Hungary,Jordan,1,CO_OCCURS_WITH
+Honduras Hungary,Kazakhstan,1,CO_OCCURS_WITH
+Honduras Hungary,Kenya,1,CO_OCCURS_WITH
+Honduras Hungary,Kiribati,1,CO_OCCURS_WITH
+Haiti,Mexico,1,CO_OCCURS_WITH
+Haiti,Mauritania,1,CO_OCCURS_WITH
+Haiti,Maldives Mali,1,CO_OCCURS_WITH
+Haiti,Laos,1,CO_OCCURS_WITH
+Haiti,Jamaica,1,CO_OCCURS_WITH
+Haiti,Japan,1,CO_OCCURS_WITH
+Haiti,Jordan,1,CO_OCCURS_WITH
+Haiti,Kazakhstan,1,CO_OCCURS_WITH
+Haiti,Kenya,1,CO_OCCURS_WITH
+Haiti,Kiribati,1,CO_OCCURS_WITH
+Haiti,Kuwait,1,CO_OCCURS_WITH
+Haiti,Kyrgyzstan,1,CO_OCCURS_WITH
+Haiti,Latvia,1,CO_OCCURS_WITH
+Haiti,Malaysia,1,CO_OCCURS_WITH
+Haiti,Lebanon,1,CO_OCCURS_WITH
+Haiti,Lesotho,1,CO_OCCURS_WITH
+Haiti,Liberia,1,CO_OCCURS_WITH
+Haiti,Libya,1,CO_OCCURS_WITH
+Haiti,Liechtenstein,1,CO_OCCURS_WITH
+Haiti,Lithuania,1,CO_OCCURS_WITH
+Haiti,Luxembourg,1,CO_OCCURS_WITH
+Haiti,Madagascar Malawi,1,CO_OCCURS_WITH
+Guatemala,South Korea,1,CO_OCCURS_WITH
+Guatemala,North Korea,1,CO_OCCURS_WITH
+Guatemala,Mongolia,1,CO_OCCURS_WITH
+France,Gambia,1,CO_OCCURS_WITH
+El Salvador Equatorial,Georgia Germany,1,CO_OCCURS_WITH
+El Salvador Equatorial,Ghana Greece,1,CO_OCCURS_WITH
+El Salvador Equatorial,Grenada,1,CO_OCCURS_WITH
+Ethiopia European Union,Fiji,1,CO_OCCURS_WITH
+Ethiopia European Union,Finland,1,CO_OCCURS_WITH
+Ethiopia European Union,France,1,CO_OCCURS_WITH
+Ethiopia European Union,Gambia,1,CO_OCCURS_WITH
+Ethiopia European Union,Georgia Germany,1,CO_OCCURS_WITH
+Ethiopia European Union,Ghana Greece,1,CO_OCCURS_WITH
+Ethiopia European Union,Grenada,1,CO_OCCURS_WITH
+Fiji,Finland,1,CO_OCCURS_WITH
+Fiji,France,1,CO_OCCURS_WITH
+Fiji,Gambia,1,CO_OCCURS_WITH
+Fiji,Georgia Germany,1,CO_OCCURS_WITH
+Fiji,Ghana Greece,1,CO_OCCURS_WITH
+Fiji,Grenada,1,CO_OCCURS_WITH
+Finland,Gambia,1,CO_OCCURS_WITH
+Finland,Georgia Germany,1,CO_OCCURS_WITH
+Finland,Ghana Greece,1,CO_OCCURS_WITH
+El Salvador Equatorial,Gambia,1,CO_OCCURS_WITH
+El Salvador Equatorial,France,1,CO_OCCURS_WITH
+El Salvador Equatorial,Finland,1,CO_OCCURS_WITH
+Egypt,El Salvador Equatorial,1,CO_OCCURS_WITH
+Ecuador,Ethiopia European Union,1,CO_OCCURS_WITH
+Ecuador,Fiji,1,CO_OCCURS_WITH
+Ecuador,Finland,1,CO_OCCURS_WITH
+Ecuador,France,1,CO_OCCURS_WITH
+Ecuador,Gambia,1,CO_OCCURS_WITH
+Ecuador,Georgia Germany,1,CO_OCCURS_WITH
+Ecuador,Ghana Greece,1,CO_OCCURS_WITH
+Ecuador,Grenada,1,CO_OCCURS_WITH
+Egypt,Ethiopia European Union,1,CO_OCCURS_WITH
+El Salvador Equatorial,Fiji,1,CO_OCCURS_WITH
+Egypt,Fiji,1,CO_OCCURS_WITH
+Egypt,Finland,1,CO_OCCURS_WITH
+Egypt,France,1,CO_OCCURS_WITH
+Egypt,Gambia,1,CO_OCCURS_WITH
+Egypt,Georgia Germany,1,CO_OCCURS_WITH
+Egypt,Ghana Greece,1,CO_OCCURS_WITH
+Egypt,Grenada,1,CO_OCCURS_WITH
+El Salvador Equatorial,Ethiopia European Union,1,CO_OCCURS_WITH
+Finland,Grenada,1,CO_OCCURS_WITH
+France,Georgia Germany,1,CO_OCCURS_WITH
+Guatemala,Monaco,1,CO_OCCURS_WITH
+France,Ghana Greece,1,CO_OCCURS_WITH
+Guatemala,Kenya,1,CO_OCCURS_WITH
+Guatemala,Kiribati,1,CO_OCCURS_WITH
+Guatemala,Kuwait,1,CO_OCCURS_WITH
+Guatemala,Kyrgyzstan,1,CO_OCCURS_WITH
+Guatemala,Laos,1,CO_OCCURS_WITH
+Guatemala,Latvia,1,CO_OCCURS_WITH
+Guatemala,Lebanon,1,CO_OCCURS_WITH
+Guatemala,Lesotho,1,CO_OCCURS_WITH
+Guatemala,Liberia,1,CO_OCCURS_WITH
+Guatemala,Libya,1,CO_OCCURS_WITH
+Guatemala,Liechtenstein,1,CO_OCCURS_WITH
+Guatemala,Lithuania,1,CO_OCCURS_WITH
+Guatemala,Luxembourg,1,CO_OCCURS_WITH
+Guatemala,Madagascar Malawi,1,CO_OCCURS_WITH
+Guatemala,Malaysia,1,CO_OCCURS_WITH
+Guatemala,Maldives Mali,1,CO_OCCURS_WITH
+Guatemala,Mauritania,1,CO_OCCURS_WITH
+Guatemala,Mexico,1,CO_OCCURS_WITH
+Guatemala,Micronesia Moldova,1,CO_OCCURS_WITH
+Guatemala,Kazakhstan,1,CO_OCCURS_WITH
+Guatemala,Jordan,1,CO_OCCURS_WITH
+Guatemala,Japan,1,CO_OCCURS_WITH
+Guatemala,Haiti,1,CO_OCCURS_WITH
+France,Grenada,1,CO_OCCURS_WITH
+Gambia,Georgia Germany,1,CO_OCCURS_WITH
+Gambia,Ghana Greece,1,CO_OCCURS_WITH
+Gambia,Grenada,1,CO_OCCURS_WITH
+Georgia Germany,Ghana Greece,1,CO_OCCURS_WITH
+Georgia Germany,Grenada,1,CO_OCCURS_WITH
+Ghana Greece,Grenada,1,CO_OCCURS_WITH
+Guatemala,Guinea Guinea-Bissau,1,CO_OCCURS_WITH
+Guatemala,Honduras Hungary,1,CO_OCCURS_WITH
+Guatemala,Jamaica,1,CO_OCCURS_WITH
+Guatemala,Iceland,1,CO_OCCURS_WITH
+Guatemala,India,1,CO_OCCURS_WITH
+Guatemala,Indonesia,1,CO_OCCURS_WITH
+Guatemala,Iran,1,CO_OCCURS_WITH
+Guatemala,Iraq,1,CO_OCCURS_WITH
+Guatemala,Ireland,1,CO_OCCURS_WITH
+Guatemala,Israel,1,CO_OCCURS_WITH
+Guatemala,Italy,1,CO_OCCURS_WITH
+Australia,Cambodia,1,CO_OCCURS_WITH
+Australia,Brunei,1,CO_OCCURS_WITH
+EIT,Hungary,1,CO_OCCURS_WITH
+Finland,Germany,1,CO_OCCURS_WITH
+Finland,Hungary,1,CO_OCCURS_WITH
+Finland,Iceland,1,CO_OCCURS_WITH
+Finland,Ireland,1,CO_OCCURS_WITH
+Finland,Italy,1,CO_OCCURS_WITH
+Finland,Japan,1,CO_OCCURS_WITH
+Finland,Latvia,1,CO_OCCURS_WITH
+Finland,Liechtenstein,1,CO_OCCURS_WITH
+Finland,Lithuania,1,CO_OCCURS_WITH
+Finland,Luxembourg,1,CO_OCCURS_WITH
+Finland,Netherlands,1,CO_OCCURS_WITH
+Finland,New Zealand,1,CO_OCCURS_WITH
+Finland,Norway,1,CO_OCCURS_WITH
+Finland,Poland,1,CO_OCCURS_WITH
+France,Greece,1,CO_OCCURS_WITH
+France,Hungary,1,CO_OCCURS_WITH
+France,Iceland,1,CO_OCCURS_WITH
+France,Ireland,1,CO_OCCURS_WITH
+France,Latvia,1,CO_OCCURS_WITH
+France,Liechtenstein,1,CO_OCCURS_WITH
+Finland,Greece,1,CO_OCCURS_WITH
+Estonia,Norway,1,CO_OCCURS_WITH
+Denmark,Greece,1,CO_OCCURS_WITH
+Estonia,New Zealand,1,CO_OCCURS_WITH
+Denmark,Ireland,1,CO_OCCURS_WITH
+Denmark,Italy,1,CO_OCCURS_WITH
+Denmark,Latvia,1,CO_OCCURS_WITH
+Denmark,Liechtenstein,1,CO_OCCURS_WITH
+Denmark,Lithuania,1,CO_OCCURS_WITH
+Denmark,Netherlands,1,CO_OCCURS_WITH
+Denmark,New Zealand,1,CO_OCCURS_WITH
+Denmark,Poland,1,CO_OCCURS_WITH
+Estonia,Finland,1,CO_OCCURS_WITH
+Estonia,France,1,CO_OCCURS_WITH
+Estonia,Germany,1,CO_OCCURS_WITH
+Estonia,Greece,1,CO_OCCURS_WITH
+Estonia,Iceland,1,CO_OCCURS_WITH
+Estonia,Ireland,1,CO_OCCURS_WITH
+Estonia,Italy,1,CO_OCCURS_WITH
+Estonia,Japan,1,CO_OCCURS_WITH
+Estonia,Liechtenstein,1,CO_OCCURS_WITH
+Estonia,Luxembourg,1,CO_OCCURS_WITH
+Estonia,Netherlands,1,CO_OCCURS_WITH
+France,Lithuania,1,CO_OCCURS_WITH
+France,Luxembourg,1,CO_OCCURS_WITH
+France,Netherlands,1,CO_OCCURS_WITH
+France,New Zealand,1,CO_OCCURS_WITH
+Greece,Luxembourg,1,CO_OCCURS_WITH
+Greece,Netherlands,1,CO_OCCURS_WITH
+Greece,New Zealand,1,CO_OCCURS_WITH
+Greece,Norway,1,CO_OCCURS_WITH
+Greece,Poland,1,CO_OCCURS_WITH
+Hungary,Iceland,1,CO_OCCURS_WITH
+Hungary,Ireland,1,CO_OCCURS_WITH
+Hungary,Italy,1,CO_OCCURS_WITH
+Hungary,Japan,1,CO_OCCURS_WITH
+Hungary,Liechtenstein,1,CO_OCCURS_WITH
+Hungary,Luxembourg,1,CO_OCCURS_WITH
+Hungary,Netherlands,1,CO_OCCURS_WITH
+Hungary,New Zealand,1,CO_OCCURS_WITH
+Hungary,Norway,1,CO_OCCURS_WITH
+Iceland,Netherlands,1,CO_OCCURS_WITH
+Iceland,New Zealand,1,CO_OCCURS_WITH
+Iceland,Poland,1,CO_OCCURS_WITH
+Ireland,Netherlands,1,CO_OCCURS_WITH
+Ireland,New Zealand,1,CO_OCCURS_WITH
+Greece,Lithuania,1,CO_OCCURS_WITH
+Greece,Liechtenstein,1,CO_OCCURS_WITH
+Greece,Latvia,1,CO_OCCURS_WITH
+Germany,Lithuania,1,CO_OCCURS_WITH
+France,Norway,1,CO_OCCURS_WITH
+France,Poland,1,CO_OCCURS_WITH
+Germany,Greece,1,CO_OCCURS_WITH
+Germany,Hungary,1,CO_OCCURS_WITH
+Germany,Iceland,1,CO_OCCURS_WITH
+Germany,Ireland,1,CO_OCCURS_WITH
+Germany,Latvia,1,CO_OCCURS_WITH
+Germany,Liechtenstein,1,CO_OCCURS_WITH
+Germany,Luxembourg,1,CO_OCCURS_WITH
+Greece,Japan,1,CO_OCCURS_WITH
+Germany,Netherlands,1,CO_OCCURS_WITH
+Germany,New Zealand,1,CO_OCCURS_WITH
+Germany,Norway,1,CO_OCCURS_WITH
+Germany,Poland,1,CO_OCCURS_WITH
+Greece,Hungary,1,CO_OCCURS_WITH
+Greece,Iceland,1,CO_OCCURS_WITH
+Greece,Ireland,1,CO_OCCURS_WITH
+Greece,Italy,1,CO_OCCURS_WITH
+Denmark,Hungary,1,CO_OCCURS_WITH
+Denmark,Germany,1,CO_OCCURS_WITH
+Australia,Brazil,1,CO_OCCURS_WITH
+Latvia,OECD,1,CO_OCCURS_WITH
+Latvia,Russia,1,CO_OCCURS_WITH
+Latvia,Slovakia,1,CO_OCCURS_WITH
+Latvia,Slovenia,1,CO_OCCURS_WITH
+Latvia,Ukraine,1,CO_OCCURS_WITH
+Lithuania,OECD,1,CO_OCCURS_WITH
+Lithuania,Romania,1,CO_OCCURS_WITH
+Lithuania,Russia,1,CO_OCCURS_WITH
+Lithuania,Slovakia,1,CO_OCCURS_WITH
+Lithuania,Slovenia,1,CO_OCCURS_WITH
+Lithuania,Ukraine,1,CO_OCCURS_WITH
+OECD,Poland,1,CO_OCCURS_WITH
+OECD,Romania,1,CO_OCCURS_WITH
+OECD,Russia,1,CO_OCCURS_WITH
+OECD,Slovakia,1,CO_OCCURS_WITH
+OECD,Slovenia,1,CO_OCCURS_WITH
+OECD,Ukraine,1,CO_OCCURS_WITH
+Poland,Slovenia,1,CO_OCCURS_WITH
+Poland,Ukraine,1,CO_OCCURS_WITH
+Russia,Slovenia,1,CO_OCCURS_WITH
+Latvia,Romania,1,CO_OCCURS_WITH
+Hungary,Ukraine,1,CO_OCCURS_WITH
+Denmark,France,1,CO_OCCURS_WITH
+Hungary,Slovenia,1,CO_OCCURS_WITH
+EIT,Latvia,1,CO_OCCURS_WITH
+EIT,Lithuania,1,CO_OCCURS_WITH
+EIT,OECD,1,CO_OCCURS_WITH
+EIT,Poland,1,CO_OCCURS_WITH
+EIT,Romania,1,CO_OCCURS_WITH
+EIT,Russia,1,CO_OCCURS_WITH
+EIT,Slovakia,1,CO_OCCURS_WITH
+EIT,Slovenia,1,CO_OCCURS_WITH
+EIT,Ukraine,1,CO_OCCURS_WITH
+Estonia,OECD,1,CO_OCCURS_WITH
+Estonia,Romania,1,CO_OCCURS_WITH
+Estonia,Russia,1,CO_OCCURS_WITH
+Estonia,Slovakia,1,CO_OCCURS_WITH
+Estonia,Slovenia,1,CO_OCCURS_WITH
+Estonia,Ukraine,1,CO_OCCURS_WITH
+Hungary,OECD,1,CO_OCCURS_WITH
+Hungary,Romania,1,CO_OCCURS_WITH
+Hungary,Russia,1,CO_OCCURS_WITH
+Hungary,Slovakia,1,CO_OCCURS_WITH
+Kyoto,OECD,1,CO_OCCURS_WITH
+IET,International Emissions Trading,1,CO_OCCURS_WITH
+IET,The Green Investment Scheme,1,CO_OCCURS_WITH
+International Emissions Trading,The Green Investment Scheme,1,CO_OCCURS_WITH
+Australia,Belgium,1,CO_OCCURS_WITH
+Australia,Croatia,1,CO_OCCURS_WITH
+Australia,Czech Republic,1,CO_OCCURS_WITH
+Austria,Belarus,1,CO_OCCURS_WITH
+Austria,Belgium,1,CO_OCCURS_WITH
+Austria,Bulgaria,1,CO_OCCURS_WITH
+Austria,Canada,1,CO_OCCURS_WITH
+Austria,Croatia,1,CO_OCCURS_WITH
+Austria,Czech Republic,1,CO_OCCURS_WITH
+Belarus,Belgium,1,CO_OCCURS_WITH
+Belarus,Canada,1,CO_OCCURS_WITH
+Belgium,Bulgaria,1,CO_OCCURS_WITH
+Belgium,Canada,1,CO_OCCURS_WITH
+Belgium,Croatia,1,CO_OCCURS_WITH
+Belgium,Czech Republic,1,CO_OCCURS_WITH
+Canada,Croatia,1,CO_OCCURS_WITH
+Canada,Czech Republic,1,CO_OCCURS_WITH
+Denmark,Estonia,1,CO_OCCURS_WITH
+Denmark,Finland,1,CO_OCCURS_WITH
+Australia,Austria,1,CO_OCCURS_WITH
+Annex I Party,Kazakhstan,1,CO_OCCURS_WITH
+Annex,the Clean Development Mechanism,1,CO_OCCURS_WITH
+Japan,Japanese,1,CO_OCCURS_WITH
+AAU,Latvia,1,CO_OCCURS_WITH
+AAU,World Bank,1,CO_OCCURS_WITH
+Latvia,World Bank,1,CO_OCCURS_WITH
+AAU,Estonia,1,CO_OCCURS_WITH
+AAU,Poland,1,CO_OCCURS_WITH
+AAU,the Czech Republic,1,CO_OCCURS_WITH
+Estonia,the Czech Republic,1,CO_OCCURS_WITH
+Poland,the Czech Republic,1,CO_OCCURS_WITH
+CDM,Kyoto,1,CO_OCCURS_WITH
+Kyoto,the European Community,1,CO_OCCURS_WITH
+Carbon Trust,Joint Implementation (JI,1,CO_OCCURS_WITH
+New Member States,Russia,1,CO_OCCURS_WITH
+New Member States,Ukraine,1,CO_OCCURS_WITH
+Rio de Janeiro,the United Nations Framework Convention on Climate Change,1,CO_OCCURS_WITH
+European,GHG,1,CO_OCCURS_WITH
+European,Kyoto,1,CO_OCCURS_WITH
+European,the European Community,1,CO_OCCURS_WITH
+GHG,the European Community,1,CO_OCCURS_WITH
+Ireland,Norway,1,CO_OCCURS_WITH
+Ireland,Poland,1,CO_OCCURS_WITH
+Italy,Netherlands,1,CO_OCCURS_WITH
+St. Lucia,Switzerland,1,CO_OCCURS_WITH
+Switzerland,UNFCCC,1,CO_OCCURS_WITH
+Afghanistan,Albania,1,CO_OCCURS_WITH
+Afghanistan,Argentina,1,CO_OCCURS_WITH
+Afghanistan,Australia,1,CO_OCCURS_WITH
+Afghanistan,Austria Azerbaijan,1,CO_OCCURS_WITH
+Afghanistan,Bahamas,1,CO_OCCURS_WITH
+Afghanistan,Barbuda,1,CO_OCCURS_WITH
+Afghanistan,Benin,1,CO_OCCURS_WITH
+Afghanistan,Bhutan,1,CO_OCCURS_WITH
+Afghanistan,Bosnia,1,CO_OCCURS_WITH
+Afghanistan,Botswana,1,CO_OCCURS_WITH
+Afghanistan,Brazil,1,CO_OCCURS_WITH
+Afghanistan,Brunei,1,CO_OCCURS_WITH
+Afghanistan,Bulgaria,1,CO_OCCURS_WITH
+Afghanistan,Burkina,1,CO_OCCURS_WITH
+Afghanistan,Cambodia,1,CO_OCCURS_WITH
+Afghanistan,Canada,1,CO_OCCURS_WITH
+Afghanistan,Central African,1,CO_OCCURS_WITH
+Afghanistan,Herzegovina,1,CO_OCCURS_WITH
+St. Lucia,UNFCCC,1,CO_OCCURS_WITH
+Samoa,UNFCCC,1,CO_OCCURS_WITH
+Italy,New Zealand,1,CO_OCCURS_WITH
+Samoa,Switzerland,1,CO_OCCURS_WITH
+Antigua,Samoa,1,CO_OCCURS_WITH
+Antigua,St. Lucia,1,CO_OCCURS_WITH
+Antigua,Switzerland,1,CO_OCCURS_WITH
+Antigua,UNFCCC,1,CO_OCCURS_WITH
+Argentina,Maldives,1,CO_OCCURS_WITH
+Argentina,Samoa,1,CO_OCCURS_WITH
+Argentina,St. Lucia,1,CO_OCCURS_WITH
+Argentina,Switzerland,1,CO_OCCURS_WITH
+Argentina,UNFCCC,1,CO_OCCURS_WITH
+Barbuda,Maldives,1,CO_OCCURS_WITH
+Barbuda,Samoa,1,CO_OCCURS_WITH
+Barbuda,St. Lucia,1,CO_OCCURS_WITH
+Barbuda,Switzerland,1,CO_OCCURS_WITH
+Barbuda,UNFCCC,1,CO_OCCURS_WITH
+Maldives,Samoa,1,CO_OCCURS_WITH
+Maldives,St. Lucia,1,CO_OCCURS_WITH
+Maldives,Switzerland,1,CO_OCCURS_WITH
+Maldives,UNFCCC,1,CO_OCCURS_WITH
+Samoa,St. Lucia,1,CO_OCCURS_WITH
+Afghanistan,Myanmar,1,CO_OCCURS_WITH
+Afghanistan,the Congo Republic,1,CO_OCCURS_WITH
+Albania,Argentina,1,CO_OCCURS_WITH
+Albania,Australia,1,CO_OCCURS_WITH
+Argentina,Bosnia,1,CO_OCCURS_WITH
+Argentina,Botswana,1,CO_OCCURS_WITH
+Argentina,Brazil,1,CO_OCCURS_WITH
+Argentina,Brunei,1,CO_OCCURS_WITH
+Argentina,Bulgaria,1,CO_OCCURS_WITH
+Argentina,Burkina,1,CO_OCCURS_WITH
+Argentina,Cambodia,1,CO_OCCURS_WITH
+Argentina,Canada,1,CO_OCCURS_WITH
+Argentina,Central African,1,CO_OCCURS_WITH
+Argentina,Herzegovina,1,CO_OCCURS_WITH
+Argentina,Myanmar,1,CO_OCCURS_WITH
+Argentina,the Congo Republic,1,CO_OCCURS_WITH
+Australia,Austria Azerbaijan,1,CO_OCCURS_WITH
+Australia,Bahamas,1,CO_OCCURS_WITH
+Australia,Barbuda,1,CO_OCCURS_WITH
+Australia,Benin,1,CO_OCCURS_WITH
+Australia,Bhutan,1,CO_OCCURS_WITH
+Australia,Bosnia,1,CO_OCCURS_WITH
+Australia,Botswana,1,CO_OCCURS_WITH
+Argentina,Bhutan,1,CO_OCCURS_WITH
+Argentina,Benin,1,CO_OCCURS_WITH
+Argentina,Bahamas,1,CO_OCCURS_WITH
+Albania,Brunei,1,CO_OCCURS_WITH
+Albania,Austria Azerbaijan,1,CO_OCCURS_WITH
+Albania,Bahamas,1,CO_OCCURS_WITH
+Albania,Barbuda,1,CO_OCCURS_WITH
+Albania,Benin,1,CO_OCCURS_WITH
+Albania,Bhutan,1,CO_OCCURS_WITH
+Albania,Bosnia,1,CO_OCCURS_WITH
+Albania,Botswana,1,CO_OCCURS_WITH
+Albania,Brazil,1,CO_OCCURS_WITH
+Albania,Bulgaria,1,CO_OCCURS_WITH
+Argentina,Austria Azerbaijan,1,CO_OCCURS_WITH
+Albania,Burkina,1,CO_OCCURS_WITH
+Albania,Cambodia,1,CO_OCCURS_WITH
+Albania,Canada,1,CO_OCCURS_WITH
+Albania,Central African,1,CO_OCCURS_WITH
+Albania,Herzegovina,1,CO_OCCURS_WITH
+Albania,Myanmar,1,CO_OCCURS_WITH
+Albania,the Congo Republic,1,CO_OCCURS_WITH
+Argentina,Australia,1,CO_OCCURS_WITH
+Antigua,Maldives,1,CO_OCCURS_WITH
+Antigua,Barbuda,1,CO_OCCURS_WITH
+Antigua,Argentina,1,CO_OCCURS_WITH
+Sweden,Ukraine,1,CO_OCCURS_WITH
+Romania,United Kingdom,1,CO_OCCURS_WITH
+Romania,United States of America,1,CO_OCCURS_WITH
+Russian Federation,Slovakia,1,CO_OCCURS_WITH
+Russian Federation,Slovenia,1,CO_OCCURS_WITH
+Russian Federation,Spain,1,CO_OCCURS_WITH
+Russian Federation,Sweden,1,CO_OCCURS_WITH
+Russian Federation,Switzerland,1,CO_OCCURS_WITH
+Russian Federation,Ukraine,1,CO_OCCURS_WITH
+Russian Federation,United Kingdom,1,CO_OCCURS_WITH
+Russian Federation,United States of America,1,CO_OCCURS_WITH
+Slovakia,United Kingdom,1,CO_OCCURS_WITH
+Slovakia,United States of America,1,CO_OCCURS_WITH
+Slovenia,Spain,1,CO_OCCURS_WITH
+Slovenia,Sweden,1,CO_OCCURS_WITH
+Slovenia,Switzerland,1,CO_OCCURS_WITH
+Slovenia,United Kingdom,1,CO_OCCURS_WITH
+Slovenia,United States of America,1,CO_OCCURS_WITH
+Spain,Ukraine,1,CO_OCCURS_WITH
+Spain,United Kingdom,1,CO_OCCURS_WITH
+Romania,Russian Federation,1,CO_OCCURS_WITH
+Portugal,United States of America,1,CO_OCCURS_WITH
+Portugal,United Kingdom,1,CO_OCCURS_WITH
+Liechtenstein,New Zealand,1,CO_OCCURS_WITH
+Italy,Norway,1,CO_OCCURS_WITH
+Italy,Poland,1,CO_OCCURS_WITH
+Japan,Netherlands,1,CO_OCCURS_WITH
+Japan,Poland,1,CO_OCCURS_WITH
+Latvia,Netherlands,1,CO_OCCURS_WITH
+Latvia,New Zealand,1,CO_OCCURS_WITH
+Latvia,Norway,1,CO_OCCURS_WITH
+Liechtenstein,Netherlands,1,CO_OCCURS_WITH
+Liechtenstein,Poland,1,CO_OCCURS_WITH
+Portugal,Ukraine,1,CO_OCCURS_WITH
+Lithuania,Netherlands,1,CO_OCCURS_WITH
+Lithuania,New Zealand,1,CO_OCCURS_WITH
+Lithuania,Norway,1,CO_OCCURS_WITH
+Luxembourg,Netherlands,1,CO_OCCURS_WITH
+Luxembourg,New Zealand,1,CO_OCCURS_WITH
+Luxembourg,Poland,1,CO_OCCURS_WITH
+Portugal,Russian Federation,1,CO_OCCURS_WITH
+Portugal,Slovenia,1,CO_OCCURS_WITH
+Spain,United States of America,1,CO_OCCURS_WITH
+Sweden,United Kingdom,1,CO_OCCURS_WITH
+Methane,Perfluorocarbons,1,CO_OCCURS_WITH
+Sweden,United States of America,1,CO_OCCURS_WITH
+UNFCCC,the Hague,1,CO_OCCURS_WITH
+UNFCCC,the United States,1,CO_OCCURS_WITH
+the European Union,the Hague,1,CO_OCCURS_WITH
+the European Union,the United States,1,CO_OCCURS_WITH
+the Hague,the United States,1,CO_OCCURS_WITH
+Russia,the European Union,1,CO_OCCURS_WITH
+COP7,Marrakesh,1,CO_OCCURS_WITH
+Montreal,UNFCCC,1,CO_OCCURS_WITH
+Bali,Contact Group,1,CO_OCCURS_WITH
+Bali,Iceland,1,CO_OCCURS_WITH
+Bali,below § Increase,1,CO_OCCURS_WITH
+Bali,the European Union,1,CO_OCCURS_WITH
+Contact Group,Iceland,1,CO_OCCURS_WITH
+Contact Group,below § Increase,1,CO_OCCURS_WITH
+Contact Group,the European Union,1,CO_OCCURS_WITH
+Iceland,below § Increase,1,CO_OCCURS_WITH
+below § Increase,the European Union,1,CO_OCCURS_WITH
+Hydroflurocarbons,Methane,1,CO_OCCURS_WITH
+Hydroflurocarbons,Perfluorocarbons,1,CO_OCCURS_WITH
+Japan,the Hague,1,CO_OCCURS_WITH
+Canada,the Hague,1,CO_OCCURS_WITH
+Canada,the European Union,1,CO_OCCURS_WITH
+AOSIS,the Alliance of Small Island States,1,CO_OCCURS_WITH
+Switzerland,United Kingdom,1,CO_OCCURS_WITH
+Switzerland,United States of America,1,CO_OCCURS_WITH
+Ukraine,United Kingdom,1,CO_OCCURS_WITH
+Ukraine,United States of America,1,CO_OCCURS_WITH
+United Kingdom,United States of America,1,CO_OCCURS_WITH
+Berlin,G77,1,CO_OCCURS_WITH
+Berlin,Kyoto,1,CO_OCCURS_WITH
+China,G77,1,CO_OCCURS_WITH
+Estrada,Party,1,CO_OCCURS_WITH
+Australia,the United States,1,CO_OCCURS_WITH
+Canada,the Alliance of Small Island States,1,CO_OCCURS_WITH
+China,the Alliance of Small Island States,1,CO_OCCURS_WITH
+the Alliance of Small Island States,the United States,1,CO_OCCURS_WITH
+Annex,Gupta,1,CO_OCCURS_WITH
+The Adaptation Fund,the UN Framework Convention on Climate Change,1,CO_OCCURS_WITH
+Australia,Japan,1,CO_OCCURS_WITH
+Australia,UNFCCC,1,CO_OCCURS_WITH
+Australia,the Hague,1,CO_OCCURS_WITH
+Paris,the Paris Agreement,1,CO_OCCURS_WITH

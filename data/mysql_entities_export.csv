@@ -1,0 +1,1344 @@
+doc_id,entity_text,entity_label
+1,tonnes CO2-eq,PERSON
+1,Scope 2,PERSON
+1,GHG,ORG
+1,UNFCCC,ORG
+1,GHG,ORG
+1,GHG,ORG
+1,UNFCCC,ORG
+1,CH4,ORG
+1,CH4,ORG
+1,IPCC,ORG
+1,IPCC,ORG
+1,The International Sustainability Standards Board,ORG
+1,GHG,ORG
+1,The Paris Agreement,EVENT
+1,the Paris Agreement,EVENT
+1,GHG,ORG
+1,GHG,ORG
+1,UNFCCC,ORG
+1,UNFCCC,ORG
+1,The Paris Agreement,EVENT
+1,GHG,ORG
+1,GHG,ORG
+1,Software,ORG
+1,GHG,ORG
+1,UN Comtrade,ORG
+1,Eurostat,ORG
+1,the United Nations,ORG
+1,LCA,ORG
+1,LCA,ORG
+1,ISO,ORG
+1,LCA,ORG
+1,Carbon Emissions in Corporations,ORG
+1,GHG,ORG
+1,the GHG Protocol Life Cycle Accounting and Reporting Standard,ORG
+1,LCA,ORG
+1,LCA,ORG
+1,LCA,ORG
+1,Geoffrey Supran,PERSON
+1,Naomi Oreskes,PERSON
+1,Harvard University,ORG
+1,IPCC,ORG
+1,Sixth Assessment Report,EVENT
+1,IPCC,ORG
+1,GHG,ORG
+1,SCP-HAT,ORG
+1,UN Comtrade,ORG
+1,GHG,ORG
+1,China,GPE
+1,the United States,GPE
+1,484±20 GtC,ORG
+1,CH4,ORG
+1,The Carbon Trust,ORG
+1,Carbon Trust,ORG
+1,GHG,ORG
+1,IPCC,ORG
+1,GHG,ORG
+1,GHG,ORG
+1,IPCC,ORG
+1,GHG,ORG
+1,GHG,ORG
+1,GHG,ORG
+1,GHG,ORG
+1,GHG,ORG
+1,GHG,ORG
+1,Nationally Determined Contributions,ORG
+1,the World Bank,ORG
+1,USA,GPE
+1,Luxembourg,GPE
+1,Australia,GPE
+1,USA,GPE
+1,India,GPE
+1,Multi-Regional Input-Output,ORG
+1,GHG,ORG
+1,BBC,ORG
+1,William Safire,PERSON
+1,the New York Times,ORG
+1,Ogilvy,ORG
+1,William Rees,PERSON
+1,MIPS,ORG
+1,The International Sustainability Standards Board,ORG
+1,the International Financial Reporting Standards,ORG
+1,the Carbon Disclosure Standards Board,ORG
+1,the Sustainability Accounting Standards Board,ORG
+1,the Value Reporting Foundation,ORG
+1,the Task Force on Climate-Related Financial Disclosures,ORG
+1,Great Britain,GPE
+1,Nigeria,GPE
+1,The Expanded Total Equivalent Warming,ORG
+2,the United States,GPE
+2,the United States,GPE
+2,China,GPE
+2,the United States,GPE
+2,The Environmental Protection Agency,ORG
+2,EPA,ORG
+2,The Democratic Party,ORG
+2,the Republican Party,ORG
+2,Trump,ORG
+2,the United States,GPE
+2,The United States,GPE
+2,the US Senate,ORG
+2,Senate,ORG
+2,the United States,GPE
+2,National Security,ORG
+2,Condoleezza Rice,PERSON
+2,Administration,ORG
+2,Congress,ORG
+2,Pentagon,ORG
+2,An Abrupt Climate Change Scenario,ORG
+2,Peter Schwartz,PERSON
+2,Doug Randall,PERSON
+2,U.S.,GPE
+2,McCain,PERSON
+2,the US Senate,ORG
+2,Republicans,NORP
+2,Democrats,NORP
+2,Democratic,NORP
+2,House,ORG
+2,Nancy Pelosi,PERSON
+2,United States,ORG
+2,Congress,ORG
+2,Joe Lieberman,PERSON
+2,Bernie Sanders,PERSON
+2,Barbara Boxer,PERSON
+2,the Global Warming Pollution Reduction Act,ORG
+2,the National Academy of Sciences,ORG
+2,The House of Representatives,ORG
+2,the American Clean Energy and Security Act,ORG
+2,Senate,ORG
+2,Republicans,NORP
+2,the U.S. Congress,ORG
+2,the Environmental Protection Agency,ORG
+2,EPA,ORG
+2,EPA,ORG
+2,Bill Clinton,PERSON
+2,the United States,GPE
+2,the United States,GPE
+2,Clinton,PERSON
+2,British Thermal Unit,ORG
+2,BTU,ORG
+2,The Climate Change Action Plan,ORG
+2,Clinton,PERSON
+2,Clinton,PERSON
+2,The British Thermal Tax,ORG
+2,Clinton,PERSON
+2,the British Thermal Unit,ORG
+2,BTU,ORG
+2,The British Thermal Unit,ORG
+2,Fahrenheit,GPE
+2,The Clinton Administration,ORG
+2,U.S.,GPE
+2,U.S.,GPE
+2,the Climate Action Network,ORG
+2,U.S.,GPE
+2,U.S.,GPE
+2,Clinton,PERSON
+2,Clinton,PERSON
+2,the United States,GPE
+2,Clinton,PERSON
+2,Clean Air Partnership Fund,ORG
+2,The Clean Air Partnership Fund,ORG
+2,EPA,ORG
+2,The Climate Change Technology Initiative,ORG
+2,The Climate Change Technology Initiative,ORG
+2,the George W. Bush Administration,PERSON
+2,Kyoto,GPE
+2,Japan,GPE
+2,U.S.,GPE
+2,Bush,PERSON
+2,Bush,PERSON
+2,Bush,PERSON
+2,American,NORP
+2,Rolling Stone,ORG
+2,Americans,NORP
+2,an International Scientific Congress on Climate Change,ORG
+2,the University of Copenhagen,ORG
+2,the International Alliance of Research Universities,ORG
+2,IARU,ORG
+2,USA,GPE
+2,the U.S. House of Representatives,ORG
+2,Bush,PERSON
+2,White House,ORG
+2,American,NORP
+2,Bush,PERSON
+2,Bush,PERSON
+2,the Government Accountability Project,ORG
+2,the White House,ORG
+2,U.S.,GPE
+2,U.S.,GPE
+2,U.S.,GPE
+2,White House,ORG
+2,Centers for Disease Control and Prevention,ORG
+2,CDC,ORG
+2,the U.S. Senate Environment and Public Works Committee,ORG
+2,The Bush Administration,ORG
+2,Mary Peters,PERSON
+2,Transportation,ORG
+2,the House of Representatives,ORG
+2,California,GPE
+2,Congress,ORG
+2,New Energy for America,ORG
+2,Barack Obama's,PERSON
+2,the American Reinvestment and Recovery Act,ORG
+2,brownfield,GPE
+2,Obama's Council of Economic Advisers,ORG
+2,ARRA,ORG
+2,Barack Obama,PERSON
+2,YouTube,ORG
+2,The American Clean Energy and Security Act,ORG
+2,the House of Representatives,ORG
+2,Senate,ORG
+2,Obama,PERSON
+2,the White House,ORG
+2,the White House Office of Energy and Climate Change Policy,ORG
+2,Carol Browner,PERSON
+2,Energy and Climate Change,ORG
+2,State,ORG
+2,Hillary Clinton,PERSON
+2,Todd Stern,PERSON
+2,Special Envoy for Climate Change,ORG
+2,Clinton,PERSON
+2,the United States,GPE
+2,Stern,ORG
+2,Copenhagen,ORG
+2,Obama,PERSON
+2,the United States,GPE
+2,United States,GPE
+2,GHG,ORG
+2,GHG,ORG
+2,China,GPE
+2,Obama,PERSON
+2,Chinese Communist Party,ORG
+2,Xi Jinping,PERSON
+2,Obama,PERSON
+2,Obama,PERSON
+2,the United Nations Framework Convention on Climate Change,ORG
+2,UNFCCC,ORG
+2,The United States,GPE
+2,Obama,PERSON
+2,U.S.,GPE
+2,Obama,PERSON
+2,EPA,ORG
+2,Trump,PERSON
+2,Affordable Clean Energy,ORG
+2,the DC Circuit Court of Appeals,ORG
+2,Obama,PERSON
+2,Canada,GPE
+2,Justin Trudeau,PERSON
+2,ICR,ORG
+2,EPA,ORG
+2,Lawrence Berkeley National Laboratory,ORG
+2,the United States,GPE
+2,Paris Agreement,EVENT
+2,Obama,PERSON
+2,21st Century Clean Transportation Plan,ORG
+2,the Fixing America's,ORG
+2,Obama,PERSON
+2,House,ORG
+2,Republican,NORP
+2,Obama,PERSON
+2,EPA,ORG
+2,EPA,ORG
+2,the Next Generation Air Transportation System,ORG
+2,the Federal Aviation Administration,ORG
+2,the Maritime Administration,ORG
+2,the Environmental Protection Agency,ORG
+2,EPA,ORG
+2,the Department of Transportation's,ORG
+2,National Highway Traffic Safety Administration,ORG
+2,NHTSA,ORG
+2,EPA,ORG
+2,GHG,ORG
+2,Corporate Average Fuel Economy (,ORG
+2,the Energy Policy and Conservation Act,ORG
+2,Donald Trump,PERSON
+2,the United States',GPE
+2,EPA,ORG
+2,Obama,PERSON
+2,Trump,ORG
+2,U.S.,GPE
+2,the Paris Climate Agreement,EVENT
+2,Trump,ORG
+2,Scott Pruitt,PERSON
+2,EPA,ORG
+2,Oklahoma,GPE
+2,Pruitt,GPE
+2,Oklahoma,GPE
+2,EPA,ORG
+2,EPA,ORG
+2,Andrew Wheeler,PERSON
+2,EPA,ORG
+2,Trump,PERSON
+2,Rex W. Tillerson,PERSON
+2,Exxon Mobil,ORG
+2,State,ORG
+2,Mike Pompeo,PERSON
+2,Trump,ORG
+2,Dakota Access Pipelines,ORG
+2,Trump,PERSON
+2,Obama,PERSON
+2,American,NORP
+2,The White House,ORG
+2,American,NORP
+2,Trump,PERSON
+2,the Environmental Protection Agency,ORG
+2,EPA,ORG
+2,the Trump Administration,ORG
+2,Congress,ORG
+2,Environmental Impact Statement (,ORG
+2,EIP,ORG
+2,the National Highway Traffic Safety Administration,ORG
+2,Trump,ORG
+2,EIP,ORG
+2,U.S.,GPE
+2,Trump,PERSON
+2,EPA,ORG
+2,EPA,ORG
+2,Congress,ORG
+2,EPA,ORG
+2,EPA,ORG
+2,Joel Scheraga,PERSON
+2,EPA,ORG
+2,EPA,ORG
+2,Scheraga,PERSON
+2,Trump,PERSON
+2,the United States,GPE
+2,Trump,PERSON
+2,Mustafa Ali,PERSON
+2,EPA,ORG
+2,Biden,PERSON
+2,the Keystone XL Pipeline,ORG
+2,National Climate Task Force,ORG
+2,the Paris Agreement,EVENT
+2,Keystone XL,PERSON
+2,the Democratic Party,ORG
+2,Joe Biden,PERSON
+2,Biden,PERSON
+2,Willow,ORG
+2,Alaska,GPE
+2,Biden,PERSON
+2,Biden,ORG
+2,Willow,ORG
+2,Louisiana,GPE
+2,James D. Cain Jr.,PERSON
+2,Biden,PERSON
+2,Biden,PERSON
+2,the Supreme Court,ORG
+2,West Virginia,GPE
+2,EPA,ORG
+2,EPA,ORG
+2,Biden,PERSON
+2,EPA,ORG
+2,the Interior Department,ORG
+2,EPA,ORG
+2,DOE,ORG
+2,DOE,ORG
+2,Biden,PERSON
+2,China,GPE
+2,China,GPE
+2,Senate,ORG
+2,Republicans,NORP
+2,Biden,PERSON
+2,the Infrastructure Investment and Jobs Act,ORG
+2,American,NORP
+2,Western,NORP
+2,IIJA,ORG
+2,Biden,PERSON
+2,Biden,PERSON
+2,the United States,GPE
+2,Act,ORG
+2,EPA,ORG
+2,U.S.,GPE
+2,Rhodium Group,ORG
+2,the World Economic Forum,ORG
+2,GHG,ORG
+2,EPA,ORG
+2,NOAA,ORG
+2,Trump,ORG
+2,National Climate Assessment,ORG
+2,Trump,ORG
+2,Strengthening United States National Defense with America's,ORG
+2,Beautiful Clean Coal Power Generation Fleet,ORG
+2,Energy,ORG
+2,Power Purchase Agreements for,ORG
+2,Department of War,ORG
+2,The U.S. Climate Change Science Program,ORG
+2,U.S.,GPE
+2,the PEW Center on Global Climate Change,ORG
+2,Texas,GPE
+2,France,GPE
+2,California,GPE
+2,Brazil,GPE
+2,Arizona,GPE
+2,Janet Napolitano,PERSON
+2,the United States,GPE
+2,California,GPE
+2,California,GPE
+2,California,GPE
+2,California,GPE
+2,California,GPE
+2,California,GPE
+2,Assembly,ORG
+2,the Global Warming Solutions Act,ORG
+2,California,GPE
+2,the California Air Resources Board,ORG
+2,the United States,GPE
+2,California,GPE
+2,California,GPE
+2,Gray Davis,PERSON
+2,the California Air Resources Board,ORG
+2,the California Vehicle Global Warming,ORG
+2,Davis,PERSON
+2,the California Climate Action Registry,ORG
+2,Davis,PERSON
+2,California,GPE
+2,the California Energy Commission,ORG
+2,Arnold Schwarzenegger,PERSON
+2,GHG,ORG
+2,GHG,ORG
+2,GHG,ORG
+2,The Union of Concerned Scientists,ORG
+2,California,GPE
+2,Schwarzenegger,ORG
+2,the California Legislature,ORG
+2,AB32,ORG
+2,the Global Warming Solutions Act,ORG
+2,California,GPE
+2,U.S.,GPE
+2,GHG,ORG
+2,the State Air Resources Board,ORG
+2,Schwarzenegger,PERSON
+2,California,GPE
+2,Pacific Gas & Electric,ORG
+2,Southern California Edison,ORG
+2,San Diego Gas & Electric,ORG
+2,Davis,PERSON
+2,Schwarzenegger,PERSON
+2,Tony Blair,PERSON
+2,Great Britain,GPE
+2,Connecticut,GPE
+2,Connecticut,GPE
+2,the New England Governors,ORG
+2,Eastern Canadian,NORP
+2,NEG/ECP,ORG
+2,NEG/ECP,ORG
+2,Maryland,GPE
+2,the Center for Climate and Energy Solutions,ORG
+2,C2ES,ORG
+2,the Maryland Climate Change Commission,ORG
+2,Minnesota,GPE
+2,Democratic,NORP
+2,Tim Walz,PERSON
+2,California,GPE
+2,David Paterson,PERSON
+2,the New York State Climate Action Council,ORG
+2,NYSCAC,ORG
+2,NYSCAC,ORG
+2,the New York State Energy Research and Development Authority,ORG
+2,Hurricanes Sandy,PERSON
+2,Irene,PERSON
+2,Storm Lee,PERSON
+2,New York State Energy Plan,ORG
+2,The New York State Energy Research and Development Authority,ORG
+2,The Renewable Energy Portfolio Standard,ORG
+2,Environmental Quality Review,ORG
+2,EQR,ORG
+2,Andrew Cuomo,PERSON
+2,the Energy Vision,ORG
+2,New Yorkers,NORP
+2,BTU,ORG
+2,Jay Inslee,PERSON
+2,Washington,GPE
+2,Clean Energy Standard,ORG
+2,CES,ORG
+2,Obama,PERSON
+2,Iowa,GPE
+2,Portfolio Standards,PERSON
+2,RPS,ORG
+2,CES,ORG
+2,RPS,ORG
+2,the United States,GPE
+2,New York State,GPE
+2,the Regional Greenhouse Gas Initiative,ORG
+2,the Regional Greenhouse Gas Initiative,ORG
+2,Kyoto Protocol,ORG
+2,Western Climate Initiative,ORG
+2,U.S.,GPE
+2,Canadian,NORP
+2,Initiative,ORG
+2,California,GPE
+2,Oregon,GPE
+2,Washington,GPE
+2,the Southwest Climate Change Initiative,ORG
+2,Arizona,GPE
+2,New Mexico,GPE
+2,Utah,GPE
+2,Montana,GPE
+2,British Columbia,GPE
+2,Manitoba,GPE
+2,Ontario,GPE
+2,Quebec,GPE
+2,"WCI, Inc.",ORG
+2,the Supreme Court,ORG
+2,the United States,GPE
+2,Massachusetts,GPE
+2,the United States Environmental Protection Agency,ORG
+2,EPA,ORG
+2,California,GPE
+2,Bill Lockyer,PERSON
+2,California,GPE
+2,General Motors Corp.,ORG
+2,Murphy Oil,ORG
+2,Gerald Maples,PERSON
+2,Mississippi,GPE
+2,the United States Supreme Court,ORG
+2,U.S.,GPE
+2,U.S.,GPE
+2,New York City,GPE
+2,United States,GPE
+2,the United States Clean Air Act,ORG
+2,the Environmental Protection Agency,ORG
+2,Montana,PERSON
+2,the United States,GPE
+2,Montana,GPE
+2,Montana,GPE
+2,Montana,GPE
+2,Montana,GPE
+2,Supreme Court,ORG
+2,the Montana Supreme Court,ORG
+2,Multnomah County,GPE
+2,Oregon,GPE
+2,Exxon Mobil,ORG
+2,Shell,ORG
+2,Chevron,ORG
+2,the Western States Petroleum Association,ORG
+2,the Center for Climate Integrity,ORG
+2,Multnomah County,GPE
+2,The Democratic Party,ORG
+2,The Republican Party,ORG
+2,Environmental Protection Agency,ORG
+2,EPA,ORG
+2,the Green Party,ORG
+2,the Libertarian Party,ORG
+2,the Constitution Party,ORG
+2,the Democratic Party,ORG
+2,Democrats,NORP
+2,America,GPE
+2,the Democratic Party,ORG
+2,Democrats,NORP
+2,Democrats,NORP
+2,Alaska,GPE
+2,Americans,NORP
+2,Democrats,NORP
+2,Congress,ORG
+2,the American Clean Energy and Security Act,ORG
+2,The Republican Party,ORG
+2,GOP,ORG
+2,Barack Obama,PERSON
+2,Environmental Protection Agency,ORG
+2,EPA,ORG
+2,The Republican Party,ORG
+2,Keystone XL,PERSON
+2,Donald Trump,PERSON
+2,the United States,GPE
+2,Chinese,NORP
+2,China,GPE
+2,China,GPE
+2,Trump,ORG
+2,the Republican Party,ORG
+2,The New York Times,ORG
+2,Republicans,NORP
+2,House,ORG
+2,Republican,NORP
+2,Judith Warner,ORG
+2,The New York Times Magazine,ORG
+2,Republicans,NORP
+2,NBC News,ORG
+2,PolitiFact,ORG
+2,Republican,NORP
+2,Congress,ORG
+2,the Center for American Progress Action Fund,ORG
+2,the United States Congress,ORG
+2,Republicans,NORP
+2,Republicans,NORP
+2,Luntz Global,ORG
+2,Republican,NORP
+2,GOP,ORG
+2,Republican,NORP
+2,Republicans,NORP
+2,Citizens for Responsible Energy Solutions and Young Conservatives For Carbon,ORG
+2,YCCD,ORG
+2,Republican,NORP
+2,The Green Party,ORG
+2,the United States,GPE
+2,Green Party,ORG
+2,Greens,NORP
+2,the Green Party,ORG
+2,Greens,NORP
+2,Greens,NORP
+2,Greens,NORP
+2,the Libertarian Party,ORG
+2,The Constitution Party,ORG
+2,the 2014 Platform,EVENT
+2,God,PERSON
+2,the United States,GPE
+2,the United States,GPE
+2,the Department of Energy,ORG
+2,the Nebraska Farmers Union,ORG
+2,EPA,ORG
+2,the United States,GPE
+2,The Mayors National Climate Action Agenda,ORG
+2,Los Angeles,GPE
+2,Eric Garcetti,PERSON
+2,Houston,GPE
+2,Annise Parker,PERSON
+2,Philadelphia,GPE
+2,Michael Nutter,PERSON
+2,the United States,GPE
+2,Trump,PERSON
+2,Americans,NORP
+2,the Electric Vehicle Request for Information,ORG
+2,the United States,GPE
+2,the Paris Agreement,EVENT
+2,The United States Climate Alliance,ORG
+2,the Paris Agreement,EVENT
+2,Trump,PERSON
+2,the United States,GPE
+2,The California Global Warming Solutions Act,ORG
+2,AB 32,ORG
+2,The Environmental Defense Fund,ORG
+2,the Air Resources Board,ORG
+2,AB 32,EVENT
+2,California,GPE
+2,California,GPE
+2,California,GPE
+2,New Mexico,GPE
+2,New Jersey,GPE
+2,Maine,GPE
+2,Massachusetts,GPE
+2,Connecticut,GPE
+2,New York,GPE
+2,Washington,GPE
+2,Oregon,GPE
+2,the Regional Greenhouse Gas Initiative,ORG
+2,Connecticut,GPE
+2,Delaware,GPE
+2,Maine,GPE
+2,New Hampshire,GPE
+2,New Jersey,GPE
+2,New York,GPE
+2,Vermont,GPE
+2,Maryland,GPE
+2,Robert Ehrlich,PERSON
+2,Maryland,GPE
+2,Pennsylvania,GPE
+2,Massachusetts,GPE
+2,Rhode Island,GPE
+2,GHG,ORG
+2,the Eastern Climate Registry,ORG
+2,New Jersey,GPE
+2,Acadia Center,ORG
+2,New Jersey's,GPE
+2,Ralph Northam,PERSON
+2,Virginia,GPE
+2,Phil Murphy,PERSON
+2,New Jersey,GPE
+2,New Jersey,GPE
+2,Virginia,GPE
+2,The Western Governors' Association,ORG
+2,WGA,ORG
+2,Diversified Energy Initiative,ORG
+2,Governors Richardson,PERSON
+2,Schwarzenegger,PERSON
+2,Freudenthal,PERSON
+2,Initiative,ORG
+2,the Western Governors' Association,ORG
+2,WGA,ORG
+2,the California Energy Commission,ORG
+2,the Western Renewable Energy Generation Information State,ORG
+2,United States,GPE
+2,Massachusetts,GPE
+2,Arizona,GPE
+2,New Mexico,GPE
+2,the Southwest Climate Change Initiative,ORG
+2,Arizona,GPE
+2,Janet Napolitano,PERSON
+2,the Climate Change Advisory Group's,ORG
+2,Washington,GPE
+2,Oregon,GPE
+2,California,GPE
+2,GHG,ORG
+2,the Western Coast Governors',ORG
+2,Western,NORP
+2,Washington,GPE
+2,Oregon,GPE
+2,California,GPE
+2,Arizona,GPE
+2,New Mexico,GPE
+2,the Western Regional Climate Action Initiative,ORG
+2,the New England Governors,ORG
+2,Eastern Canadian,NORP
+2,NEG-ECP,ORG
+2,GHG,ORG
+2,Dakotas,ORG
+2,Minnesota,GPE
+2,Iowa,GPE
+2,Wisconsin,GPE
+2,the Canadian Province,GPE
+2,Manitoba,GPE
+2,ICLEI,ORG
+2,the United Nations,ORG
+2,New York,GPE
+2,the Cities for Climate Protection,ORG
+2,the CCP Campaign,ORG
+2,Seattle,GPE
+2,Greg Nickels,PERSON
+2,American,NORP
+2,Americans,NORP
+2,the Mayors Climate Protection Center,ORG
+3,Japanese,NORP
+3,Hepburn,PERSON
+3,Kyōto Giteisho,PERSON
+3,United Nations Framework Convention on Climate Change,ORG
+3,UNFCCC,ORG
+3,Kyoto,GPE
+3,Japan,GPE
+3,Canada,GPE
+3,UNFCCC,ORG
+3,Annex,ORG
+3,CH4,ORG
+3,Nitrogen,PERSON
+3,the Doha Round,EVENT
+3,the Soviet Union,GPE
+3,Australia,GPE
+3,the European Union,ORG
+3,Belarus,GPE
+3,Iceland,GPE
+3,Kazakhstan,GPE
+3,Liechtenstein,GPE
+3,Norway,GPE
+3,Switzerland,GPE
+3,Ukraine,GPE
+3,Belarus,GPE
+3,Kazakhstan,GPE
+3,Ukraine,GPE
+3,Japan,GPE
+3,New Zealand,GPE
+3,Russia,GPE
+3,Kyoto,GPE
+3,Canada,GPE
+3,the United States,GPE
+3,Canadian,NORP
+3,Peter Kent,PERSON
+3,Canada,GPE
+3,UNFCCC Climate Change Conferences,ORG
+3,the Paris Agreement,EVENT
+3,UNFCCC,ORG
+3,The UN Conference on the Environment and Development,ORG
+3,Rio de Janeiro,GPE
+3,the Framework Convention on Climate Change,ORG
+3,UNFCCC,ORG
+3,UNFCCC,ORG
+3,Berlin,GPE
+3,COP,ORG
+3,UNFCCC,ORG
+3,Kyoto,GPE
+3,Japan,GPE
+3,Russia,GPE
+3,Canada,GPE
+3,UNFCCC,ORG
+3,Canada,GPE
+3,COP,ORG
+3,the United Nations Framework Convention on Climate Change,ORG
+3,UNFCCC,ORG
+3,Berlin,GPE
+3,CMP,ORG
+3,GHG,ORG
+3,UN Framework Convention,ORG
+3,Annex,PERSON
+3,Annex,ORG
+3,Kyoto,GPE
+3,GHG,ORG
+3,Kyoto,GPE
+3,UNFCCC,ORG
+3,Annex,PERSON
+3,GHG,ORG
+3,GHG,ORG
+3,GHG,ORG
+3,Kyoto,GPE
+3,Kyoto,GPE
+3,Annex,PERSON
+3,IET,ORG
+3,the Clean Development Mechanism (CDM,ORG
+3,Joint Implementation (JI,ORG
+3,IET,ORG
+3,Annex,PERSON
+3,Annex,ORG
+3,Kyoto,GPE
+3,Annex,ORG
+3,CDM,ORG
+3,IET,ORG
+3,IET,ORG
+3,CDM,ORG
+3,CDM,ORG
+3,Annex,ORG
+3,CDM,ORG
+3,Annex,PERSON
+3,CDM,ORG
+3,CDM,ORG
+3,CDM,ORG
+3,CDM,ORG
+3,Annex,PERSON
+3,UNFCCC,ORG
+3,Kyoto,GPE
+3,GHG,ORG
+3,CDM Executive Board,ORG
+3,CO2,GPE
+3,China,GPE
+3,the European Union Emissions Trading Scheme,ORG
+3,Kyoto,GPE
+3,The Carbon Trust,ORG
+3,IET,ORG
+3,Russia,GPE
+3,Ukraine,GPE
+3,EIT,ORG
+3,Belarus,GPE
+3,Bulgaria,GPE
+3,Croatia,GPE
+3,Czech Republic,GPE
+3,Estonia,GPE
+3,Hungary,GPE
+3,Latvia,GPE
+3,Lithuania,GPE
+3,Poland,GPE
+3,Romania,GPE
+3,Russia,GPE
+3,Slovakia,GPE
+3,Slovenia,GPE
+3,Ukraine,GPE
+3,OECD,ORG
+3,Russia,GPE
+3,OECD,ORG
+3,Kyoto,GPE
+3,the Green Investment Scheme,ORG
+3,The Green Investment Scheme,ORG
+3,International Emissions Trading,ORG
+3,IET,ORG
+3,IET,ORG
+3,GIS,ORG
+3,Kyoto,GPE
+3,Kyoto,GPE
+3,AAU,ORG
+3,Latvia,GPE
+3,World Bank,ORG
+3,Latvia,GPE
+3,AAU,ORG
+3,AAU,ORG
+3,Estonia,GPE
+3,AAU,ORG
+3,the Czech Republic,GPE
+3,Poland,GPE
+3,Japan,GPE
+3,Kyoto,GPE
+3,Japan,GPE
+3,Japanese,NORP
+3,the European Union Emission Trading Scheme,ORG
+3,Kyoto,GPE
+3,CDM,ORG
+3,World Bank,ORG
+3,China,GPE
+3,India,GPE
+3,Brazil,GPE
+3,Joint Implementation (JI,ORG
+3,Carbon Trust,ORG
+3,CDM,ORG
+3,Russia,GPE
+3,Ukraine,GPE
+3,New Member States,GPE
+3,HFC,ORG
+3,the United Nations Framework Convention on Climate Change,ORG
+3,UNFCCC,ORG
+3,Rio de Janeiro,GPE
+3,UNFCCC,ORG
+3,UNFCCC,ORG
+3,Kyoto,GPE
+3,Japan,GPE
+3,Kyoto Parties,ORG
+3,the Intergovernmental Panel on Climate Change's Special Report on Land,ORG
+3,the European Community,ORG
+3,European,NORP
+3,Kyoto,GPE
+3,GHG,ORG
+3,CH4,ORG
+3,GHG,ORG
+3,QELRO,ORG
+3,Annex,ORG
+3,the Clean Development Mechanism,ORG
+3,Annex,ORG
+3,Belarus,GPE
+3,Turkey,GPE
+3,Annex,PERSON
+3,Annex,PERSON
+3,Kazakhstan,GPE
+3,Annex I Party,ORG
+3,Australia,GPE
+3,Austria,GPE
+3,Belarus,GPE
+3,Belgium,GPE
+3,Bulgaria,GPE
+3,Canada,GPE
+3,Croatia,GPE
+3,Czech Republic,GPE
+3,Denmark,GPE
+3,Estonia,GPE
+3,Finland,GPE
+3,France,GPE
+3,Germany,GPE
+3,Greece,GPE
+3,Hungary,GPE
+3,Iceland,GPE
+3,Ireland,GPE
+3,Italy,GPE
+3,Japan,GPE
+3,Latvia,GPE
+3,Liechtenstein,PERSON
+3,Lithuania,GPE
+3,Luxembourg,GPE
+3,Netherlands,GPE
+3,New Zealand,GPE
+3,Norway,GPE
+3,Poland,GPE
+3,Portugal,GPE
+3,Romania,GPE
+3,Russian Federation,GPE
+3,Slovakia,ORG
+3,Slovenia,GPE
+3,Spain,GPE
+3,Sweden,GPE
+3,Switzerland,GPE
+3,Ukraine,GPE
+3,United Kingdom,GPE
+3,United States of America,GPE
+3,GHG,ORG
+3,UNFCCC,ORG
+3,UNFCCC,ORG
+3,Kyoto,GPE
+3,Berlin,GPE
+3,G77,ORG
+3,China,GPE
+3,Berlin,GPE
+3,Kyoto,GPE
+3,the Clean Development Mechanism,ORG
+3,UNFCCC,ORG
+3,G77,ORG
+3,China,GPE
+3,Kyoto,GPE
+3,CH4,ORG
+3,the Alliance of Small Island States,ORG
+3,AOSIS,ORG
+3,Argentinian Raul Estrada,ORG
+3,Party,ORG
+3,Estrada,ORG
+3,the Alliance of Small Island States,ORG
+3,China,GPE
+3,Canada,GPE
+3,the United States,GPE
+3,UNFCCC,ORG
+3,Gupta,PERSON
+3,Annex,PERSON
+3,Japan,GPE
+3,Norway,GPE
+3,Gupta,PERSON
+3,non-Annex,ORG
+3,UNFCCC,GPE
+3,The Adaptation Fund,ORG
+3,the UN Framework Convention on Climate Change,ORG
+3,UNFCCC,ORG
+3,the Hague,GPE
+3,the European Union,ORG
+3,the United States,GPE
+3,Canada,GPE
+3,Japan,GPE
+3,Australia,GPE
+3,Bonn,GPE
+3,the European Union,ORG
+3,Japan,GPE
+3,Russia,GPE
+3,COP7,GPE
+3,Marrakesh,GPE
+3,Montreal,GPE
+3,UNFCCC,ORG
+3,United Nations Climate Change Conference,ORG
+3,Bali,GPE
+3,Contact Group,ORG
+3,the European Union,ORG
+3,Iceland,GPE
+3,below § Increase,ORG
+3,Grubb,PERSON
+3,Gases,ORG
+3,Methane,ORG
+3,Hydroflurocarbons,ORG
+3,Perfluorocarbons,PERSON
+3,Annex,ORG
+3,UNFCCC,ORG
+3,Kyoto,GPE
+3,Japan,GPE
+3,UNFCCC,ORG
+3,Antigua,PERSON
+3,Barbuda,GPE
+3,Argentina,GPE
+3,Maldives,ORG
+3,Samoa,ORG
+3,St. Lucia,GPE
+3,Switzerland,GPE
+3,the European Community,ORG
+3,Fiji,GPE
+3,Annex,ORG
+3,Annex,ORG
+3,Member States,GPE
+3,Iceland,GPE
+3,Russia,GPE
+3,Annex,ORG
+3,Canada,GPE
+3,Afghanistan,GPE
+3,Albania,GPE
+3,Barbuda,PERSON
+3,Argentina,GPE
+3,Australia,GPE
+3,Austria Azerbaijan,PERSON
+3,Bahamas,GPE
+3,Benin,GPE
+3,Bhutan,GPE
+3,Bosnia,GPE
+3,Herzegovina,GPE
+3,Botswana,GPE
+3,Brazil,GPE
+3,Brunei,GPE
+3,Bulgaria,GPE
+3,Burkina,GPE
+3,Myanmar,GPE
+3,Cambodia,GPE
+3,Canada,GPE
+3,Central African,NORP
+3,the Congo Republic,GPE
+3,Costa Rica,GPE
+3,Cuba,GPE
+3,Denmark,GPE
+3,Djibouti,GPE
+3,Dominica,GPE
+3,Dominican,GPE
+3,Ecuador,GPE
+3,East Timor,GPE
+3,Egypt,GPE
+3,El Salvador Equatorial,ORG
+3,Ethiopia European Union,ORG
+3,Fiji,GPE
+3,Finland,GPE
+3,France,GPE
+3,Gambia,GPE
+3,Georgia Germany,GPE
+3,Ghana Greece,PERSON
+3,Grenada,GPE
+3,Guatemala,GPE
+3,Guinea Guinea-Bissau,GPE
+3,Haiti,GPE
+3,Honduras Hungary,ORG
+3,Iceland,GPE
+3,India,GPE
+3,Indonesia,GPE
+3,Iran,GPE
+3,Iraq,GPE
+3,Ireland,GPE
+3,Israel,GPE
+3,Italy,GPE
+3,Jamaica,GPE
+3,Japan,GPE
+3,Jordan,GPE
+3,Kazakhstan,GPE
+3,Kenya,GPE
+3,Kiribati,GPE
+3,North Korea,GPE
+3,South Korea,GPE
+3,Kuwait,GPE
+3,Kyrgyzstan,GPE
+3,Laos,GPE
+3,Latvia,GPE
+3,Lebanon,GPE
+3,Lesotho,GPE
+3,Liberia,GPE
+3,Libya,GPE
+3,Liechtenstein,GPE
+3,Lithuania,GPE
+3,Luxembourg,GPE
+3,Madagascar Malawi,PERSON
+3,Malaysia,GPE
+3,Maldives Mali,PERSON
+3,Mauritania,GPE
+3,Mexico,GPE
+3,Micronesia Moldova,ORG
+3,Monaco,GPE
+3,Mongolia,GPE
+3,Montenegro,GPE
+3,Morocco Mozambique,ORG
+3,Namibia,GPE
+3,Nepal,GPE
+3,Netherlands,GPE
+3,New Zealand,GPE
+3,Nicaragua,GPE
+3,Niue North,PERSON
+3,Norway,GPE
+3,Oman,GPE
+3,Pakistan,GPE
+3,Palau,GPE
+3,Guinea,GPE
+3,Philippines,GPE
+3,Poland,GPE
+3,Portugal,GPE
+3,Qatar,GPE
+3,Romania,GPE
+3,Russia,GPE
+3,Rwanda,GPE
+3,Saint Kitts,PERSON
+3,Nevis Saint,PERSON
+3,the Grenadines Samoa San Marino São Tomé,ORG
+3,Príncipe Saudi Arabia,ORG
+3,Singapore,GPE
+3,Slovakia,GPE
+3,Solomon Islands Somalia,PERSON
+3,Kyoto,GPE
+3,South Africa,GPE
+3,Spain,GPE
+3,Sri Lanka,PERSON
+3,Sweden,GPE
+3,Switzerland,GPE
+3,Syria,GPE
+3,Tajikistan,NORP
+3,Tanzania,GPE
+3,Thailand,GPE
+3,Tonga Trinidad,PERSON
+3,Tobago,GPE
+3,Tunisia,GPE
+3,Turkey,GPE
+3,Turkmenistan,GPE
+3,Tuvalu,GPE
+3,Uganda,GPE
+3,Ukraine United Arab Emirates,GPE
+3,United Kingdom,GPE
+3,United States,GPE
+3,Kyoto,GPE
+3,Venezuela,GPE
+3,Vietnam,GPE
+3,Yemen,GPE
+3,Zambia Zimbabwe Andorra,PERSON
+3,Kyoto,GPE
+3,Kyoto,GPE
+3,Clinton,PERSON
+3,Senate,ORG
+3,Byrd-Hagel Resolution,ORG
+3,the United States,GPE
+3,Clinton,PERSON
+3,Senate,ORG
+3,Bush,PERSON
+3,Chuck Hagel,PERSON
+3,Jesse Helms,PERSON
+3,Larry Craig,PERSON
+3,Pat Roberts,PERSON
+3,George W. Bush,PERSON
+3,Bush,PERSON
+3,China,GPE
+3,India,GPE
+3,U.S.,GPE
+3,Senate,ORG
+3,the White House,ORG
+3,Europeans,NORP
+3,Japanese,NORP
+3,China,GPE
+3,Japan,GPE
+3,South Africa,GPE
+3,Bush,PERSON
+3,Bush,PERSON
+3,The Tyndall Centre,ORG
+3,Republican,NORP
+3,Russia,GPE
+3,Japan,GPE
+3,the US Administration,ORG
+3,Bonn,GPE
+3,Canada,GPE
+3,Japan,GPE
+3,Russia,GPE
+3,Kyoto,GPE
+3,Canadian,NORP
+3,Canada,GPE
+3,Alberta,GPE
+3,Peter Kent,PERSON
+3,Canada,GPE
+3,Durban,PERSON
+3,Canada,GPE
+3,Canada,GPE
+3,Palestine,GPE
+3,South Sudan,GPE
+3,the United States,GPE
+3,Canada,GPE
+3,UNFCCC,ORG
+3,the Kingdom of the Netherlands,GPE
+3,Kingdom,GPE
+3,Aruba,GPE
+3,Curaçao,ORG
+3,GHG,ORG
+3,Annex,PERSON
+3,the United States,GPE
+3,Soviet Union,GPE
+3,east European,NORP
+3,Annex,ORG
+3,PaMs,PERSON
+3,PaMs,PERSON
+3,Kyoto,GPE
+3,Annex,ORG
+3,GHG,ORG
+3,Annex,ORG
+3,EIT,ORG
+3,EIT,ORG
+3,Kyoto,GPE
+3,Canada,GPE
+3,Peter Kent,PERSON
+3,Canada,GPE
+3,Kyoto,GPE
+3,United Nations Climate Change Conference,ORG
+3,Canada,GPE
+3,Belarus,GPE
+3,Malta,GPE
+3,Turkey,GPE
+3,Annex,PERSON
+3,Kyoto,GPE
+3,Kyoto,GPE
+3,GHG,ORG
+3,Annex,ORG
+3,UNFCCC,ORG
+3,South Africa,GPE
+3,Iran,GPE
+3,Annex,PERSON
+3,GHG,ORG
+3,LUCF,PERSON
+3,Gupta,PERSON
+3,UNFCCC,ORG
+3,UNFCCC,ORG
+3,The Framework Convention,ORG
+3,Gupta,PERSON
+3,Kyoto,GPE
+3,Kyoto,GPE
+3,Kyoto,GPE
+3,World Bank,ORG
+3,World Bank,ORG
+3,Aldy et al..,PERSON
+3,The United States,GPE
+3,George W. Bush,PERSON
+3,Australia,GPE
+3,John Howard,PERSON
+3,Stern,PERSON
+3,Australia,GPE
+3,Kevin Rudd,PERSON
+3,the United States,GPE
+3,Canada,GPE
+3,Austria,GPE
+3,Denmark,GPE
+3,Iceland,GPE
+3,Japan,GPE
+3,Lichtenstein,GPE
+3,Luxembourg,GPE
+3,Norway,GPE
+3,Spain,GPE
+3,Switzerland,GPE
+3,the United States,GPE
+3,Canada,GPE
+3,the Soviet Union,GPE
+3,Kyoto,GPE
+3,Kyoto,GPE
+3,China,GPE
+3,India,GPE
+3,Thailand,GPE
+3,Indonesia,GPE
+3,Egypt,GPE
+3,Iran,GPE
+3,GHG,ORG
+3,PBL,ORG
+3,China,GPE
+3,Non-Annex,ORG
+3,China,GPE
+3,Kyoto,GPE
+3,the Clean Development Mechanism (CDM,ORG
+3,Annex,PERSON
+3,Kyoto,GPE
+3,CDM,ORG
+3,China,GPE
+3,India,GPE
+3,Indonesia,GPE
+3,Brazil,GPE
+3,Kyoto,GPE
+3,Kyoto,GPE
+3,the United States,GPE
+3,Canada,GPE
+3,France,GPE
+3,Germany,GPE
+3,Italy,GPE
+3,Japan,GPE
+3,Russia,GPE
+3,the United Kingdom,GPE
+3,the United States,GPE
+3,Brazil,GPE
+3,China,GPE
+3,India,GPE
+3,Mexico,GPE
+3,South Africa,GPE
+3,The United Nations Climate Change Conference,ORG
+3,Copenhagen,ORG
+3,Rio,GPE
+3,Copenhagen,ORG
+3,Kyoto,GPE
+3,Cancún,NORP
+3,Japan,GPE
+3,Russia,GPE
+3,Canada,GPE
+3,Kyoto,GPE
+3,Australia,GPE
+3,New Zealand,GPE
+3,New Zealand's,GPE
+3,Tim Groser,PERSON
+3,Kyoto Protocol,ORG
+3,New Zealand,GPE
+3,the World Wildlife Fund,ORG
+3,New Zealand's,GPE
+3,United Nations Climate Change Conference,ORG
+3,Doha,GPE
+3,Kyoto,GPE
+3,Doha,GPE
+3,UNFCCC,ORG
+3,the European Union,ORG
+3,Artur Runge-Metzger,ORG
+3,European,NORP
+3,Ban Ki Moon,PERSON
+3,the United Nations,ORG
+3,the UN General Assembly,ORG
+3,New York,GPE
+3,Paris,GPE
+3,the Paris Agreement,EVENT
